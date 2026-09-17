@@ -17,9 +17,7 @@ def load_pipeline():
     rag_retreiver = RAGRetreiver(vector_store, embedding)
     llm = ChatNVIDIA(
         model="mistralai/mistral-nemotron",
-        nvidia_api_key=nvidia_api_key,
-        timeout=120,
-        max_retries=3
+        nvidia_api_key=nvidia_api_key
     )
     query_retriever = QueryRetreiver(rag_retreiver)
     capture_flow = CaptureFlow(vector_store, embedding, llm)
