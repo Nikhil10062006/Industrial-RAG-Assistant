@@ -4,7 +4,6 @@ env/
 __pycache__/
 *.pyc
 *.pyo
-data/
 raw/
 .ipynb_checkpoints/
 .DS_Store
