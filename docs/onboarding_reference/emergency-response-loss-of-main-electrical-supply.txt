@@ -1,0 +1,7 @@
+When main power fails, move to the defined safe state and follow the area blackout procedure. Emergency lighting and backup systems do not make all equipment safe. Drives can coast, cranes can hold a load, valves can stop between positions, and hot metal can remain exposed.
+
+Do not restart equipment as soon as voltage returns. Confirm power quality, emergency generator status, cooling, lubrication, hydraulic pressure, gas isolation, and communication. Equipment that stopped mid-sequence needs a controlled recovery, not a blind reset.
+
+Check suspended loads and moving equipment from a safe location. Crane operators must follow the load-holding procedure. Casters, furnaces, and mills may require process-specific emergency actions to prevent breakout, freeze, or strip damage.
+
+Record outage time, affected feeders, generator transfer, equipment states, alarms, and restoration order. Coordinate restart by priority and interdependency. A plant that restarts in the wrong order can overload utilities and create a second outage.

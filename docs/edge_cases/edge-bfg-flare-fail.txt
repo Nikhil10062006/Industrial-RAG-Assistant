@@ -1,0 +1,4 @@
+Scenario: Plant-wide trip causing a massive surge of Blast Furnace Gas (BFG) to the emergency flare stack, but the auto-ignitors failed to spark due to a power dip.
+Venting raw, unburned BFG (25% Carbon Monoxide) to the atmosphere is a severe environmental and safety crisis. The cloud can settle over the plant.
+Action Taken: The utility operator had to utilize the manual emergency pilot ignition system. Donning SCBA, he proceeded to the concrete bunker at the base of the flare stack. He ignited the manual propane pilot torch and physically winched the flaming torch up the guide wire to the top of the 80-meter stack to ignite the gas plume.
+Lesson Learned: The auto-ignitor batteries must be load-tested monthly. Never assume the flare will light itself during a blackout. Familiarize yourself with the manual winch system; it requires significant physical effort to hoist the torch quickly.

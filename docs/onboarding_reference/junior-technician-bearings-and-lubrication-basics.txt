@@ -1,0 +1,7 @@
+Learn the correct lubricant, quantity, interval, and application point for each machine. More grease is not always better. Overgreasing can raise bearing temperature, damage seals, and push lubricant into motor windings or gearboxes.
+
+Before lubricating, clean the nipple and surrounding area. Confirm the equipment is stopped or in the approved lubrication mode. Use the correct gun and do not mix incompatible grease types. Record the amount and time, especially for critical rolls, pumps, fans, and crane wheels.
+
+When checking a bearing, compare temperature, sound, vibration, and trend. A hot bearing may be overgreased, underlubricated, misaligned, overloaded, or contaminated. Do not decide from temperature alone. A recently greased bearing can run warmer temporarily, but a rising trend or harsh sound needs investigation.
+
+Keep caps and breathers clean. A blocked gearbox breather can force oil past seals. If metal particles, water, burnt smell, or milky oil are found, stop and report rather than simply adding lubricant. Good lubrication work prevents faults; it does not hide them.

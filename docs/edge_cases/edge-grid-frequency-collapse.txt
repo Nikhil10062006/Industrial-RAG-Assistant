@@ -1,0 +1,3 @@
+Scenario: Catastrophic collapse of the external state power grid. Frequency dropped from 50.0 Hz to 48.5 Hz in 10 seconds.
+Action Taken: Our internal Captive Power Plant attempted to island itself. However, the 10MW rolling mill synchronous motors were mid-strip. The inertia pulled massive reactive power, causing the islanded generators to trip on under-voltage. The entire integrated plant went dark.
+Lesson Learned: We modified the automated load-shedding matrix. If grid frequency hits 49.2 Hz, the PLC instantly fires the shears to chop the steel strip and trips the rolling mill drives, shedding 30MW of load before the CPP attempts to island.

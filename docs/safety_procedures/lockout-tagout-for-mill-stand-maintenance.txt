@@ -1,0 +1,7 @@
+Lockout-tagout begins with identifying every energy source, not only the main electrical isolator. For a mill stand, include main drive electrical supply, hydraulic accumulators, coolant pressure, pneumatic lines, gravity from raised equipment, stored strip tension, roll-turning devices, and any adjacent stand that can move the workpiece.
+
+The authorized person isolates each source, applies a personal lock and tag, and proves zero energy using the approved test method. Electrical absence-of-voltage testing must be done with a correctly rated instrument. Hydraulic pressure must be checked at the designated test point and bled to the safe tank. Blocking or pinning must be installed where gravity could move a roll, guard, or cylinder.
+
+Try the normal start command after people are clear, then return controls to off. The test is part of proving isolation; it is not permission to enter. Every person working on the equipment applies an individual lock. A group lockbox is used when the job has several trades or shifts.
+
+Before removal, inspect for tools and personnel, reinstall guards, and notify affected operators. Each person removes their own lock. If a lock owner is unavailable, the site’s documented removal process applies; another worker must not simply cut it. Record the isolation points and any abnormal stored energy found during the job.

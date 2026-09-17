@@ -1,0 +1,4 @@
+Scenario: Sudden spike in sinter mix moisture due to torrential rain flooding the uncovered raw material stockpiles.
+The moisture content jumped from an ideal 7% to over 12%. When this wet mix hit the sinter strand ignition hood, it wouldn't ignite properly. Worse, the high moisture destroyed the permeability of the bed, causing the main exhaust fan to pull a massive vacuum without drawing air through the mix.
+Action Taken: We immediately slashed the strand speed from 2.5 m/min to 1.0 m/min to give the mix more time under the ignition hood. We also boosted the coke breeze addition rate by 15% to compensate for the heat required to boil off the excess water.
+Lesson Learned: Don't wait for lab results if it's pouring rain outside. Watch the wind-box vacuum dials. If vacuum spikes and bed temperatures drop, assume wet mix. Slow the strand down immediately or you will send unbaked, raw dirt into the blast furnace.

@@ -1,0 +1,7 @@
+A portable detector found elevated furnace gas near a valve gallery while the fixed analyzer showed normal composition. The first reaction was to trust the analyzer because it was recently calibrated. That was wrong.
+
+The analyzer sample line had a partial condensate blockage. It continued to draw enough gas to show a plausible reading, but the sample response was slow and did not represent the gallery condition. The fixed monitor was located in the control room sample cabinet, not at the leak point.
+
+The area was evacuated and isolated according to the gas procedure. Maintenance drained the sample line at the designated trap and repaired the leaking valve packing. The analyzer response time was tested with a known sample, and a low-flow alarm was added. A portable instrument was kept at the boundary until the line was re-pressurized and the area cleared.
+
+Lesson: instrument calibration does not prove sample integrity or location relevance. When a local detector disagrees with a remote analyzer, protect people based on the higher-risk indication and investigate the sampling path. Check tubing, traps, pumps, filters, and response time. An analyzer can be accurate for the gas it receives and still fail to describe the place where people are standing.

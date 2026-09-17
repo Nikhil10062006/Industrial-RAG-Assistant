@@ -1,0 +1,14 @@
+Lockout-Tagout (LOTO) procedure for isolating an Overhead EOT Crane prior to maintenance on the bridge or trolley. You cannot rely solely on the crane cabin's main isolator switch.
+
+The crane operator must park the crane at the designated maintenance platform access stairs.
+
+The operator switches off the cabin isolator.
+
+The maintenance technician must climb to the primary bridge walkway and locate the main incoming power collector shoes (the sliders that touch the live Down Shop Leads).
+
+Throw the physical heavy-duty disconnect switch located immediately adjacent to the collector shoes.
+
+Apply your personal padlock and LOTO tag to the disconnect handle.
+
+Using a certified high-voltage multimeter, test across all three phases (L1-L2, L2-L3, L1-L3) and to ground on the load side of the switch to verify zero voltage.
+Never bypass this step; adjacent cranes can sometimes induce lethal voltages into the rails, or a bridging fault can backfeed the panel.

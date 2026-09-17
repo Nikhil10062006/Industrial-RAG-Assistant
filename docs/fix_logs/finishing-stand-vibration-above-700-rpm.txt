@@ -1,0 +1,7 @@
+Symptom: Stand 4 vibration alarm appeared whenever speed crossed approximately 700 rpm. The alarm looked severe on the HMI because the red banner latched, but the vibration trend rose smoothly and dropped as soon as speed was reduced.
+
+Finding: Roll-change records showed the work rolls had been ground in different machines. The operator had also reported a faint repeating mark at coil pitch. We checked the accelerometer mounting first; it was tight. A dial check then showed runout on the backup-roll sleeve at the drive side. The sleeve key had a raised burr from the previous change.
+
+Fix: Removed the roll, dressed the burr, cleaned the taper and keyway, and checked runout before reassembly. Runout reduced from 0.18 mm to 0.04 mm. We also aligned the sensor bracket and verified the alarm against the portable vibration meter. The line ran through the old alarm speed without a trip.
+
+Veteran note: This alarm is often a resonance crossing, not an imminent bearing failure, if it appears at the same narrow speed on every coil and disappears immediately below it. Still, do not normalize it. A loose sleeve will eventually damage the chock and make the “false” alarm real. Check roll seating before changing the accelerometer.

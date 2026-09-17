@@ -1,0 +1,7 @@
+A near miss is useful only if the plant learns the conditions that made it possible. Record what happened, where, when, equipment state, people involved, barriers that worked, and barriers that failed. Do not write a conclusion before collecting facts.
+
+Ask what made the action seem reasonable at the time. Was the tag unclear, the alarm familiar, the route blocked, the drawing old, the time pressure high, or the equipment similar to another unit? This question finds system weaknesses better than blaming the last person in the chain.
+
+Separate immediate cause from contributing conditions and deeper control gaps. Then assign actions that change the work: better boundary, interlock, training, layout, checklist, maintenance, or supervision. “Be careful” is not a strong corrective action.
+
+Share the learning at shift meetings and update the relevant SOP, onboarding note, or inspection. A near miss should not disappear into a file. It is an early warning that the same combination may occur again with a less forgiving outcome.

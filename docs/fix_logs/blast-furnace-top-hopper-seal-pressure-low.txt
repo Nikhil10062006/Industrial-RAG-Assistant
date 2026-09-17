@@ -1,0 +1,9 @@
+Symptom: The bell-less top hopper seal-pressure alarm appeared intermittently during charging. The seal-gas regulator output was stable at the skid.
+
+Finding: The pressure was being lost through a cracked flexible hose between the skid and the rotating connection. The crack opened only when the chute moved to certain angles, so a stationary leak test did not find it.
+
+Fix: The hopper was placed in the safe operating state and the hose was isolated and replaced. The rotating joint was checked for alignment and support. A movement test was then performed through the full chute range while watching pressure and local leakage.
+
+Lesson: If a pressure fault follows a mechanical position, inspect flexible connections, swivel joints, and cable carriers. Do not keep resetting the seal alarm. A low seal pressure can allow furnace gas into equipment spaces and can damage the top-seal assembly.
+
+During the follow-up, the team checked the seal-gas vent for blockage and confirmed the rotating connection had enough support through the full chute travel. The pressure trend was saved before and after repair. A hose that bends at one angle can pass a bench test and still fail in service, so movement testing is part of the acceptance check.

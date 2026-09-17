@@ -1,0 +1,7 @@
+During still, humid weather, cooling-tower drift increased and fine droplets were carried toward the nearby electrical yard. Insulator leakage alarms appeared on two feeders. There was no rain and no visible pipe leak, so the first assumption was dirty insulators from dust.
+
+The drift eliminator on one tower cell was damaged, allowing more carryover. Water-treatment concentration had also risen, increasing conductivity of the droplets. The electrical team treated the alarms as real and reduced exposure while the cooling-water team isolated the cell.
+
+The damaged eliminator was replaced, the basin chemistry was brought back within the approved range, and the insulators were cleaned under the electrical safety procedure. The feeder alarms cleared after drying and inspection.
+
+Lesson: seasonal conditions can combine with two small defects. In humid, windless weather, inspect drift direction and eliminators when electrical leakage alarms appear near cooling towers. Do not wash insulators casually or approach an energized yard. Coordinate the isolation, water chemistry correction, and electrical clearance. Record weather, wind, conductivity, cell number, and alarm timing for future comparison.

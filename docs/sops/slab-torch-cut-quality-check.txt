@@ -1,0 +1,7 @@
+Before starting the torch cutter, confirm gas pressure, hose condition, flashback arrestors, torch alignment, cooling-water status, and the cut-length program. Check that the slab is supported and that the drop zone is clear. The cut piece remains hot after the flame stops.
+
+Observe the first cut for kerf position, slag attachment, cut face, and torch travel. A ragged cut can be caused by speed, gas pressure, nozzle condition, scale, or a misaligned torch. Change one factor at a time and record it.
+
+If the torch backfires or flashes back, close the valves in the approved sequence and isolate the equipment. Do not relight immediately. Inspect the nozzle and arrestor before returning to service. Keep hoses away from hot slab edges and pinch points.
+
+After cutting, verify length, squareness, surface condition, and identification mark. Any short or long slab must be held according to the quality disposition procedure. Operators should report recurring cut defects by torch number and shift; a defect that follows one torch is not a rolling problem.

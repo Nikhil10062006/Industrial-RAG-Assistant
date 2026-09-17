@@ -1,0 +1,7 @@
+Not every spare part is critical, and not every part on a shelf is ready to install. Identify parts whose failure can stop a furnace, caster, mill, utility, or safety system. Check preservation, shelf life, packaging, seals, calibration, and compatibility before issuing them.
+
+Rubber hoses, gaskets, batteries, electronic cards, lubricants, refractory materials, and chemicals can degrade in storage. A new-looking seal stored near heat or sunlight may fail quickly. Instrument cards must be protected from static and moisture.
+
+Match the part number, revision, rating, material, connection, and service. Do not substitute by appearance. If an emergency substitution is necessary, obtain engineering or maintenance authorization and document the temporary status.
+
+Return unused parts correctly, with identification and condition. Record why a critical spare was consumed so the stock level is restored. The cheapest spare is not the one that gets equipment back fastest if it does not fit the service.

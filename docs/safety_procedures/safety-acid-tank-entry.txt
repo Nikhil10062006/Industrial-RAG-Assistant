@@ -1,0 +1,2 @@
+Confined space entry for rubber-lining repair inside Cold Mill HCl storage tanks.
+The tank must be drained, flushed with water for 24 hours, and neutralized with weak caustic soda. Before entry, the atmosphere must be tested for HCl vapor using colorimetric gas detection tubes. Entrants must wear fully encapsulating Level B acid suits with supplied air. Entrants must wear anti-slip overboots because wet rubber is a severe slip hazard. All ventilation blowers must be strictly explosion-proof (ATEX certified) due to flammable adhesives used in rubber-lining.

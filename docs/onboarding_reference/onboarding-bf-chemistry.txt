@@ -1,0 +1,11 @@
+Blast Furnace Chemistry - The Absolute Basics
+The Blast Furnace is a massive chemical reactor. We drop iron ore (Fe2O3), coke (Carbon), and limestone (CaCO3) in the top, and blow hot air (Oxygen) in the bottom.
+
+The Oxygen burns the Carbon to make Carbon Monoxide (CO) gas and extreme heat (2000°C).
+
+The hot CO gas rises up through the furnace.
+
+The CO gas literally strips the oxygen atoms away from the iron ore, leaving pure liquid iron (Fe) to pool at the bottom.
+
+The limestone melts and acts like a sponge, absorbing the dirt and impurities from the ore to create liquid slag, which floats on top of the iron.
+Your goal is to keep the furnace hot and permeable. If the gas can't flow up smoothly, the reaction stops, the furnace goes cold, and the iron freezes solid.

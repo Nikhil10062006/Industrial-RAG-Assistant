@@ -1,0 +1,15 @@
+Lockout-Tagout (LOTO) procedure for the Hot Strip Mill Main Stand Drives (10 MW synchronous motors). Given the massive inertia and high voltage (11 kV), strict adherence is critical.
+
+The pulpit operator must bring the mill to a complete halt and engage the software E-stop.
+
+The authorized electrician proceeds to the 11 kV switchgear room. Open the primary circuit breaker.
+
+Rack the breaker out to the "Test/Disconnected" position.
+
+Apply a group LOTO hasp and your personal padlock to the racking shutter.
+
+Discharge the stator windings using grounding poles to eliminate residual capacitance. Leave the grounds attached.
+
+Walk to the local motor junction box and verify zero voltage across all phases using a proved multimeter.
+
+Attempt to start the motor from the local HMI to verify isolation (the "Try" in Lock, Tag, Try). Only after these steps are complete can mechanical teams begin work on the drive spindles.

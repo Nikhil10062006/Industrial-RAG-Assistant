@@ -1,0 +1,7 @@
+Before withdrawing sludge from a clarifier, check clarifier level, rake-drive torque, sludge blanket depth, pump readiness, discharge route, and polymer status where applicable. Confirm the receiving tank has capacity and that the line is not blocked.
+
+Start the sludge pump at low rate and watch suction pressure, discharge pressure, motor current, and blanket response. If pressure rises with no flow, stop and investigate a blocked line or closed valve. Do not keep running against a blocked discharge; the pump and pipe can fail.
+
+Avoid sudden high-rate withdrawal because it can disturb the blanket and carry solids into the treated-water outlet. If the rake torque alarm rises, stop the withdrawal and follow the clarifier recovery procedure. Do not enter the tank or remove a cover to inspect it.
+
+Record blanket depth, withdrawal rate, polymer setting, pressure, and final water clarity. A recurring high blanket may be caused by upstream chemistry or return flow, not only by a weak sludge pump. Note what changed after every adjustment.

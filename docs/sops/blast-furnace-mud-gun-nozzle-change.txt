@@ -1,0 +1,7 @@
+Before changing a mud-gun nozzle, confirm the gun is parked, hydraulic pressure is isolated, residual mud pressure is released, and the tap-hole area is declared safe. The gun may look empty while hot mud remains inside the barrel. Wear the specified heat and face protection and use the designated tools.
+
+Inspect the new nozzle for damage, correct size, and clean threads or seating surfaces. Do not install a nozzle with a chipped refractory tip. Apply only the approved compound; excess material can enter the mud barrel and alter the extrusion pressure.
+
+After fitting, jog the gun without entering the danger zone and check the pressure response. If pressure rises unusually fast, stop. A blocked nozzle, hardened mud, or incorrect nozzle length may be present. Do not solve a pressure alarm by increasing hydraulic pressure beyond the approved limit.
+
+Before returning the gun to service, confirm the parked position, limit switches, hydraulic leakage, and communication with the cast-house operator. Record nozzle size, change reason, pressure during test, and the next planned inspection. Veteran operators know that a nozzle that works once can still fail when the gun is needed urgently.

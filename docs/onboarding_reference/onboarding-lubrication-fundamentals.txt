@@ -1,0 +1,9 @@
+The Basics of Industrial Lubrication
+Steel plant equipment works under extreme heavy load, very high speed, and high temperatures in dusty environments. You must use the correct grease.
+
+Lithium EP2 Grease: The standard workhorse. Good for regular bearings.
+
+High-Temperature Polyurea Grease: Used near the continuous casters where standard grease turns to liquid.
+
+Molybdenum Disulfide (Moly) Grease: Used in slow-moving, heavily loaded pins.
+Never mix grease types; mixing lithium-complex grease with polyurea grease chemically reacts into a solid mass that seizes the bearing.

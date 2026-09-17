@@ -1,0 +1,12 @@
+pydantic
+langchain
+langchain-core
+langchain-community
+langchain_nvidia_ai_endpoints
+openai
+tqdm
+numpy
+jupyter
+python-dotenv
+chromadb
+streamlit

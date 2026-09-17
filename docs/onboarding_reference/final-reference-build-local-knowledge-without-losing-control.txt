@@ -1,0 +1,7 @@
+Local knowledge is valuable when it explains what to look for, what usually fails, and what early sign matters. It becomes dangerous when it replaces the approved procedure, hides a bypass, or depends on one person’s memory. Write tribal knowledge beside the formal control, not instead of it.
+
+A useful entry names the equipment, symptom, normal range, safe first check, known false-positive condition, escalation point, and evidence needed before return to service. Include the limits of the advice. “Often false after powder addition” must also say when the alarm must still be treated as a real breakout risk.
+
+Review old notes against current equipment, software, drawings, and standards. Retire advice that no longer matches the plant. Ask newer technicians to test whether the note is understandable without the original author present.
+
+The best knowledge base captures practical judgment while preserving permits, isolations, engineering limits, quality holds, and emergency controls. It should help a fresher make a safer first decision and help a veteran leave a clearer record for the next shift.

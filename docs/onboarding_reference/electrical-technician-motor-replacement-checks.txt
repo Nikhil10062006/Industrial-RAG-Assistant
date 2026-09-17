@@ -1,0 +1,7 @@
+Before replacing a motor, verify voltage, frequency, power, speed, frame, mounting, shaft, insulation class, enclosure, hazardous-area requirement, and duty. Compare the nameplate with the drawing and the old motor, but do not assume the old motor was correct.
+
+Check cable size, gland, earthing, overload setting, starter or drive parameters, rotation, coupling, alignment, and cooling airflow. Test insulation resistance using the approved method and record temperature and result. Remove temporary transport locks before operation.
+
+After installation, bump-test rotation only after people are clear and the coupling or load is safe. Run unloaded if possible, then observe current balance, vibration, bearing temperature, and process response. A motor can rotate in the correct direction and still be overloaded by a tight pump or misaligned coupling.
+
+Update the asset record with serial number, nameplate data, tests, settings, and any change from the original. Motor replacement is not complete until protection and control settings match the installed machine.

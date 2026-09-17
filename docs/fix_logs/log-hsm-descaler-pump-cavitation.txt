@@ -1,0 +1,4 @@
+Problem: Hot Strip Mill High-Pressure Descaling Pump #2 began making a horrific rattling sound, like pumping gravel, and the discharge pressure fluctuated between 100 and 150 bar.
+Root Cause: The sound of "pumping gravel" in a centrifugal pump is always cavitation—the fluid is vaporizing inside the impeller because the suction pressure is too low. The operator assumed the main reservoir level was fine. However, a massive influx of autumn leaves from the river intake had completely blinded the suction Y-strainer directly upstream of the pump. The pump was starving for water.
+Fix: Immediately tripped the pump to save the impeller from pitting destruction. Isolated the suction line and pulled the strainer basket. It was a solid block of mud and leaves. Cleaned it, refilled the line, and vented the casing.
+Pro-Tip: Descaling pumps are high-energy machines. Cavitation will destroy a $40,000 impeller in under an hour. Trip the pump first, then investigate.

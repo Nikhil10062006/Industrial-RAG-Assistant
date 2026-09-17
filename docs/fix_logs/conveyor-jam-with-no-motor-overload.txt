@@ -1,0 +1,7 @@
+Symptom: The slag conveyor stopped with a “material flow low” alarm, but motor current was normal and the overload relay had not tripped. The belt was stationary while the drive shaft continued turning.
+
+Root cause: The drive sprocket key had sheared. The shaft rotated inside the hub, so the motor saw little load. A loose scraper blade had also allowed material to build up under the return section.
+
+Fix: Applied lockout-tagout, cleared the material, removed the guard, and replaced the key and damaged hub. The scraper was reset to the specified clearance. We checked the speed switch separately; it was working and had correctly reported no belt movement.
+
+Lesson: A running motor does not prove the conveyor is moving. When flow is low with normal current, check the speed switch, coupling, key, chain, and sprocket before assuming a blocked chute. Never open a conveyor guard because the motor “sounds unloaded.” The shaft can start unexpectedly if another person resets the permissive.

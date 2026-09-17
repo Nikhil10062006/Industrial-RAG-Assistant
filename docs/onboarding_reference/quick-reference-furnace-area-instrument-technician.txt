@@ -1,0 +1,7 @@
+Learn the difference between a process alarm, an instrument-health alarm, and a permissive. A pressure transmitter can show a believable number while its impulse line is blocked. A gas analyzer can be calibrated while its sample line is wet. A permissive can be healthy on the screen while its field switch is misaligned.
+
+Your first field round should include top pressure transmitters, blast-pressure taps, cooling-water flow switches, tuyere cameras, gas analyzers, valve position switches, and the fixed gas detectors. Compare the DCS value with the local indication where the procedure permits. Look for plugged impulse lines, leaking fittings, damaged tubing, loose glands, and heat exposure.
+
+When troubleshooting, record the tag, value, time, process condition, and what changed after each test. Do not replace a transmitter before checking isolation valves, equalizing valves, impulse tubing, power supply, and scaling. Do not force a valve or enter a gas area without the permit and detector controls.
+
+Veterans will often ask, “What did the process do when the signal failed?” Learn to answer that. A true process change usually affects related variables. A bad instrument often changes alone, saturates, freezes, or disagrees with a nearby independent indication. Both cases are safety-critical until proven otherwise.

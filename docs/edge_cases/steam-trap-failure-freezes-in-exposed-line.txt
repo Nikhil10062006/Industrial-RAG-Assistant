@@ -1,0 +1,7 @@
+An exposed steam tracing line stopped heating a chemical transfer pipe during a cold spell. The steam header pressure was normal, but the chemical temperature fell and the transfer pump began to cavitate.
+
+The trap had failed open and discharged steam continuously, freezing condensate in the downstream drain leg. The line looked insulated, but the trap station was exposed to wind and water. Operators first increased steam pressure, which worsened the loss.
+
+The line was placed in the safe condition, the trap and drain leg were isolated and repaired, and the chemical was recirculated only after temperature and pump suction were stable. Insulation and weather protection were restored.
+
+Lesson: exposed tracing needs seasonal inspection. A normal steam header does not prove useful heat is reaching the process. Check trap discharge, drain legs, insulation, wind, and the actual pipe temperature. Do not increase pressure to compensate for a failed trap.

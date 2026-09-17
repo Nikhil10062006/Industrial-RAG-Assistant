@@ -1,0 +1,7 @@
+Start the oxygen plant compressor only after suction filters, lube-oil pressure, seal-gas pressure, cooling-water flow, anti-surge valves, and discharge isolation are confirmed. Verify the compressor casing and lube-oil temperatures are stable. A low oil-pressure alarm during turning gear is expected on some packages; it becomes serious when pressure does not recover after the auxiliary pump is running.
+
+Run the auxiliary oil pump for the full pre-lube period specified by the OEM. Check that the anti-surge valve is open for start and that the recycle path is available. Do not close the discharge valve against a compressor that is not yet at the approved speed and flow.
+
+Increase speed in steps. Watch vibration on both bearings, discharge temperature, interstage pressure, and seal differential pressure. If vibration rises briefly at a known critical-speed band and then settles, follow the approved ramp; if it rises outside the known band or remains high, trip and investigate. Never silence a vibration alarm without recording the value and time.
+
+Once loaded, compare the analyzer reading with the local sample result. A sudden purity drop can be an analyzer problem, but it can also indicate a valve position error. Keep oxygen service free from oil and combustible contamination. Every start record must include the reason for start, ramp times, trip permissives, and the name of the person who verified the line-up.

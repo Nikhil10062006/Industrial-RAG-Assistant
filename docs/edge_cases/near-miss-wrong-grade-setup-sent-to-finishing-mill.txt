@@ -1,0 +1,7 @@
+A coil setup for a low-carbon grade was loaded against the wrong heat number. The setup values were plausible, and the first strip threaded without a cobble. The error was caught when the operator compared the heat certificate with the coil identity before the second coil entered the stand.
+
+The root cause was a manual sequence edit during a delayed crane move. The coil was physically in the correct bay but had been assigned the previous coil’s setup on the production screen. The barcode reader had a dirty lens and the fallback entry did not force a second-person check.
+
+No product was released, but the wrong reduction and tension could have produced off-gauge strip or a surface defect. The immediate fix was to stop the sequence, verify every coil against the heat card and barcode, clean the reader, and mark the affected coil as hold until quality released it.
+
+Lesson: plausible numbers are dangerous because they do not look wrong. At every sequence disruption, recheck identity, grade, width, thickness, and target temperature. A second-person confirmation is most valuable after an interruption, not only at shift start.

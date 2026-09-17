@@ -1,0 +1,7 @@
+Inspect the dummy bar before every planned use. Check links, pins, nose, clamps, alignment, locking devices, and surface condition. Remove scale and solidified steel that could prevent the bar from seating in the mould or foot roll. A damaged link can survive a slow test and fail under withdrawal load.
+
+Verify the dummy bar storage stand is stable and the bar is supported at the marked points. Do not leave it on the floor where water can collect or where crane traffic can strike it. If the bar has been exposed to rain, dry and inspect it before insertion.
+
+During insertion, keep people outside the line of movement and confirm the latch from the designated observation point. Jog slowly through the mould and first support segment. Stop if the bar binds, twists, or produces an unexpected load increase. Never hammer a stuck bar while the drive is energized.
+
+Record the inspection, defects, repair status, and bar identification. A fresh-looking dummy bar may have a stretched pin hole or cracked weld hidden under scale. If in doubt, quarantine it and use the approved spare.

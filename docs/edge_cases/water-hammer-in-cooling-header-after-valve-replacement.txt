@@ -1,0 +1,7 @@
+A new isolation valve on a caster cooling branch caused a sharp bang and pipe movement when opened. No leak appeared, but the pressure transmitter spiked above its normal range.
+
+The valve had a fast quarter-turn actuator and the control logic commanded full open immediately. The branch also contained trapped air after maintenance. The combination produced water hammer.
+
+The branch was isolated and inspected for support damage. Air was vented at the designated point, the actuator opening time was adjusted, and the pressure trend was reviewed during a slow refill. The valve was not returned to automatic until the mechanical supports were checked.
+
+Lesson: a valve can be correctly installed and still be wrong for the system dynamics. After piping work, fill slowly, vent air, watch supports, and test the control stroke. A single bang can loosen a flange or damage a coil inside the equipment.

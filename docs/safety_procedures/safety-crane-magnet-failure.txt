@@ -1,0 +1,4 @@
+Emergency procedures for Overhead Electric Traveling (EOT) cranes operating heavy-duty lifting electromagnets in the Scrap Yard and Billet Yard.
+A power grid failure will instantly drop any scrap or steel billets attached to the magnet, posing a massive crushing hazard. To mitigate this, all magnet cranes are equipped with UPS battery backup banks on the bridge.
+If the main plant power fails, the backup battery will automatically engage to maintain magnetic flux. You have exactly 10 minutes of battery life.
+When the power fails and the siren sounds, the crane operator must immediately stop all bridge and trolley motion. Do not try to move the load to a "better" spot. Lower the main hoist immediately and set the load down exactly where it is, even if it's in the middle of a driveway or walkway. Once the load is firmly on the ground, switch off the magnet power to save the batteries. Ground personnel must never walk under a magnetized load, even for a second.

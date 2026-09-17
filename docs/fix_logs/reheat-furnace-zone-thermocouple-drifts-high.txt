@@ -1,0 +1,7 @@
+Symptom: Zone 3 indicated 1,185°C while the handheld reference and neighboring zone suggested approximately 1,125°C. Fuel control reduced automatically, and the slab discharge temperature fell.
+
+Finding: The thermocouple signal was stable but wrong. Inspection found the protection tube had developed a small hole and was exposed to a direct burner flame. The control loop interpreted the flame temperature as furnace temperature.
+
+Fix: Switched the zone to approved manual control, reduced firing as directed, replaced the protection tube and thermocouple, and performed a cold-junction and loop check. We restored automatic control only after the fixed and portable readings agreed within the site tolerance.
+
+Senior note: A noisy reading suggests wiring or shielding. A smooth reading that disagrees with the process often means the sensor is seeing the wrong place. Look at flame shape, tube condition, and installation depth. Do not “calibrate” a thermocouple that is mechanically exposed. Record the old sensor position because a one-inch insertion difference can change the reading enough to upset the whole heating balance.

@@ -1,0 +1,4 @@
+Problem: Coal handling conveyor belt 3B repeatedly tripped on Belt Sway Switch (BSS) despite appearing visually centered when idle.
+Root Cause: We investigated the path condition in the SCADA HMI. When we cleared the group to run under load, the belt started walking aggressively to the left. The root cause wasn't tail pulley alignment. A heavy rainstorm had turned coal fines into sticky mud, building up heavily on a single return idler halfway down the gallery. This mud created a false crown on the idler, dragging the belt sideways into the BSS wand.
+Fix: Locked out the conveyor. Physically chipped the crusted mud off the idlers and replaced the damaged deck plate side skirt rubbers.
+Pro-Tip: A belt that sways only under load usually has a dirty idler. Always check the condition of the idlers and deck plate for material jamming.

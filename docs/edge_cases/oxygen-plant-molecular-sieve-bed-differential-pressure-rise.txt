@@ -1,0 +1,9 @@
+The oxygen plant molecular-sieve bed differential pressure rose slowly over several days. Product purity remained acceptable, so the trend was initially ignored.
+
+Inspection found oil carryover from an upstream compressor separator. The oil had coated the prefilters and begun loading the sieve bed. The bed had not yet failed, but continued operation would have increased pressure drop and reduced separation performance.
+
+The affected train was changed over, filters and separator elements were replaced, and the oil carryover source was corrected. Bed differential pressure and analyzer response were monitored during the return to service. The maintenance routine was updated to trend oil carryover, not only filter differential pressure.
+
+Lesson: product quality can remain normal while a separation bed is being damaged. Slow trends deserve action before an alarm. If pressure drop rises with no feed-rate change, check upstream contamination, moisture, filter condition, and valve sequencing.
+
+The affected bed was not returned to normal duty until the inlet air quality was stable and the pressure trend stopped rising. Filter drains and separator performance were checked under load. The lesson was added to the shift log because a slow restriction can become a purity problem later.

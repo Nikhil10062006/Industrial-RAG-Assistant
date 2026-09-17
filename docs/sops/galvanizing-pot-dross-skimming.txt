@@ -1,0 +1,7 @@
+Dross skimming is performed only by trained personnel using the designated tool, platform, and heat PPE. Confirm pot temperature, line speed, strip position, skimmer condition, ventilation, and exclusion zone. Keep moisture and unapproved tools away from the zinc pot.
+
+Inspect the skimmer for cracks, loose handles, and solidified metal. Preheat or condition it according to the site procedure. Insert slowly and avoid striking the strip, sink roll, or pot wall. A sudden change in resistance can mean the tool has caught dross, not that more force is needed.
+
+Move dross to the approved collection area without swinging the tool over people or equipment. Watch for splashes and keep the platform clear. If the strip breaks or the pot level changes, withdraw the tool to the safe position and follow the line-break response.
+
+Record the time, approximate quantity, pot temperature, strip condition, and any unusual dross appearance. Excessive dross can indicate bath chemistry, roll condition, strip cleanliness, or temperature imbalance. Skimming treats the symptom; the shift log should help find the cause.

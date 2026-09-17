@@ -1,0 +1,7 @@
+Learn to describe refractory damage precisely. A crack is a line; a spall is a piece missing from the surface; erosion is gradual thinning; penetration means process material has entered the lining; a hot spot is abnormal shell temperature. Use the equipment tag and location, not only “lining bad.”
+
+For ladles, inspect the slag line, bottom, side wall, impact pad, well block, slide-gate area, and trunnion region. For furnaces, inspect doors, hearth, roof, burner blocks, skid supports, and expansion joints. For runners and tundishes, check joints, lips, corners, and water exposure.
+
+Record size, depth if safely measurable, color, temperature, loose material, and whether the defect is growing. Photograph from the approved position. Do not strike refractory to test it unless the procedure allows; a weak piece can fall or expose hot metal.
+
+Refractory history matters. Ask when it was installed, repaired, dried, preheated, and last exposed to water. A new repair needs a dry-out record. A familiar defect in a new location may be a different failure mechanism.

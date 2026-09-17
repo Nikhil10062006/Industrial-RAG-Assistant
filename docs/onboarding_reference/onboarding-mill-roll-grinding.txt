@@ -1,0 +1,4 @@
+Roll Shop - Roll Grinding Basics
+Welcome to the Roll Shop. The rolling mills destroy the surface of their rolls every few hours; it's our job to grind them back to perfection.
+Camber Profile: We do not grind work rolls perfectly flat (cylindrical). We grind them with a microscopic "crown" or camber (thicker in the middle by about 0.15mm). Why? Because when the mill applies 1000 tons of force, the massive steel rolls physically bend. The crown compensates for this bending, ensuring the final steel strip is perfectly flat.
+Chatter Marks: When operating the CNC roll grinder, watch the surface finish. If you see diagonal stripes (chatter marks) appearing on the roll, stop. Your grinding wheel is either out of balance, the coolant mix is too lean, or you are taking too heavy of a cut (feeding too fast). A roll with chatter marks will print those exact stripes onto the customer's steel coil. Better to take an extra 20 minutes with a lighter cut.

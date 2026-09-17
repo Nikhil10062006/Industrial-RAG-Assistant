@@ -1,0 +1,7 @@
+When a coil shows edge wave, center buckle, quarter buckle, or crossbow, first confirm the defect is real and where it begins. Check lighting, inspection speed, coil tension, and the measurement method. Do not change roll bending before confirming the strip path and actual defect.
+
+Review roll crown, work-roll diameter, roll bending, coolant pattern, entry and exit tension, strip temperature, and stand force. Compare the defect across the coil length. A defect that starts after a roll change points differently from one that develops gradually with thermal crown.
+
+Make one controlled adjustment and observe the result. Record the original value, change, coil location, and effect. If several settings are changed together, the next shift cannot learn from the trial. Check whether the flatness sensor is calibrated and aligned before trusting its number.
+
+Senior operators often recognize a thermal pattern by how it changes with speed. That experience is useful, but the evidence still belongs in the log. A good note says what the strip did, what changed, and whether the defect moved or reduced.

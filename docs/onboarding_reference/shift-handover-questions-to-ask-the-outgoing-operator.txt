@@ -1,0 +1,7 @@
+Do not ask only whether the line is running. Ask what is running differently. Confirm which equipment is under maintenance, which guards or covers are open, which bypasses or overrides are active, and which permits remain live. Ask whether any crane, ladle, coil, or vehicle is in a non-standard position.
+
+For process condition, ask for the last stable readings and the current trend. On the mill, ask about stand force, tension, vibration, gauge bias, coolant pressure, and any coil on hold. On the caster, ask about mould level behavior, nozzle condition, powder, water pressure, and breakout-monitor alarms. In the furnace area, ask about gas readings, cooling-water margins, top pressure, and unusual tuyere or burner behavior.
+
+Ask what alarm appeared first during any upset and whether the equipment was reset. Ask what was checked and what remains unverified. If the answer is “it is okay now,” request the evidence: how many heats or coils, at what speed, and with which readings.
+
+Walk the area together when the condition is safety-critical. Sign or acknowledge the handover only after you understand the open risk. Good handover is not paperwork; it prevents the incoming shift from repeating the last shift’s uncertainty.

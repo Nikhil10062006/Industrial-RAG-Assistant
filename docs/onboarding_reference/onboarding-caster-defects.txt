@@ -1,0 +1,11 @@
+Continuous Caster - Surface Defect Quick ID
+As a strand operator, you inspect the hot slabs as they exit the torch cutter. Knowing the difference between defects saves entire campaigns.
+
+Longitudinal Cracks: Running lengthwise down the slab. Usually caused by uneven mold cooling or bad mold powder. Check the mold water delta-T.
+
+Transverse Cracks: Running across the width. Usually caused by bending the slab too cold. Tell the pulpit to reduce secondary spray cooling water in zone 3.
+
+Oscillation Marks: Deep ripples on the surface. Means the mold oscillator frequency is out of sync with casting speed. Check the HPU pressure.
+
+Bleeders: Small bumps of frozen metal on the surface. Usually means the steel is too hot (high superheat). Warn the melt shop to cool the next ladle.
+Mark defects boldly with chalk so the scarfing yard can find them.

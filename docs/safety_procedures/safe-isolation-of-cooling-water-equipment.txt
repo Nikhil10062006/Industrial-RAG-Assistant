@@ -1,0 +1,7 @@
+Cooling-water systems store pressure and can start automatically from temperature, level, or low-flow logic. Before opening a pump, strainer, valve, hose, or heat exchanger, isolate electrical power and hydraulic pressure, close the correct valves, drain to a safe location, and prove zero pressure.
+
+Identify parallel pumps, cross-connections, backflow from headers, automatic makeup, and elevated water columns. A closed motor valve does not isolate a heat exchanger if another branch can pressurize it. Use blinds or positive isolation where the risk assessment requires.
+
+Open drains slowly from a safe position. Hot water and chemical-treated water can injure even at moderate pressure. Do not remove a strainer cover because the gauge reads zero; gauges can be blocked or isolated. Check the vent and drain path.
+
+After work, inspect gaskets, guards, supports, and valve positions. Refill and vent the system gradually, watching for leaks and water hammer. Record the isolation points and any valve that did not hold. Cooling water is often treated as harmless until it releases unexpectedly from a failed flange.

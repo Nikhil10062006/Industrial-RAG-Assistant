@@ -1,0 +1,7 @@
+A single value answers “what was happening at one moment.” A trend helps answer “what changed, how fast, and after which action.” Use trends for pressure, temperature, vibration, current, flow, level, dew point, and quality measurements whenever the system provides them.
+
+Mark important events on the trend: start, stop, valve movement, material change, alarm, reset, maintenance, weather change, and operator adjustment. Without event timing, a curve is only a picture.
+
+Compare related variables. Rising pressure with falling flow suggests restriction; rising motor current with falling flow suggests a mechanical or process load; changing signal quality without process movement suggests an instrument issue. Correlation does not prove cause, but it narrows the next safe check.
+
+Save the trend before resetting or power-cycling equipment. Include units, time zone, tag, and sample interval in the record. A screenshot without a timestamp or scale is weak evidence. Trends turn individual experience into a repeatable troubleshooting method.

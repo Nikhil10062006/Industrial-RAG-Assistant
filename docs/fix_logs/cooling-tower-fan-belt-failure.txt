@@ -1,0 +1,9 @@
+Symptom: Cooling-water temperature rose and the tower fan showed running status, but airflow was low. Motor current was lower than usual.
+
+Finding: The motor rotated, but the belt had broken and the fan shaft was stationary. The run feedback came from the motor starter, not the fan shaft. The fan vibration switch had been bypassed during an earlier trial.
+
+Fix: Stopped the fan, isolated the drive, replaced the belt set, aligned the pulleys, and restored the vibration switch to service. The run indication was modified to include shaft rotation feedback.
+
+Lesson: “Motor running” is not “fan running.” Check fan speed, airflow, temperature, and vibration. Temporary bypasses must have an owner and expiry; an old bypass can remove the one signal that would have caught the failure early.
+
+The replacement belts were matched as a set and tensioned after the first warm run. The fan shaft rotation signal was tested independently of the motor starter. The inspection route now includes fan speed and airflow, not only motor current and run indication.

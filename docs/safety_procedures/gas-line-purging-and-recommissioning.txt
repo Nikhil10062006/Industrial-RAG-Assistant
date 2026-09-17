@@ -1,0 +1,7 @@
+Purging a gas line is a controlled operation, not simply opening a vent. Confirm the gas identity, line volume, isolation boundary, vent location, discharge direction, ignition-source control, and detector coverage. The permit must state who controls the valves and who confirms the readings.
+
+Before introducing gas, verify the line has been mechanically complete, pressure-tested, and cleared of people and tools. Purge with the approved medium and at the approved rate. Do not use oxygen to purge a fuel-gas line. Take samples from the designated points because a sample at one end may not represent a low pocket or dead leg.
+
+During venting, keep personnel upwind and outside the exclusion zone. Monitor continuously when specified. If pressure rises unexpectedly, a valve indication disagrees with the field position, or gas is detected outside the boundary, stop and reassess. Never leave a temporary hose or vent unsecured.
+
+Recommissioning requires a gradual pressurization and leak test at flanges, valve stems, instrument connections, and drains. A detector reading that is below the alarm level is not automatically acceptable; use the site acceptance limit. Remove temporary blinds and tags only under the restoration checklist. Record purge medium, start and end pressures, sample results, valve lineup, and clearance authority.

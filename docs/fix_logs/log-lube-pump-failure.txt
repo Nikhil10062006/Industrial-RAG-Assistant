@@ -1,0 +1,4 @@
+Problem: The main lubrication pump for the roughing mill pinion stand failed prematurely after only 3 months of operation.
+Root Cause: The steel plant equipment work under various operating parameters; like from extreme heavy load to very high speed, low temperatures to high temperatures, dusty environments. The maintenance team had used a standard industrial gear oil instead of the high-viscosity, extreme-pressure (EP) synthetic oil specified. The extreme heavy loads in this dusty environment broke down the standard oil's film thickness, causing metal-to-metal contact on the pump gears and rapid wear.
+Fix: Flushed the entire 2000-liter reservoir, replaced the pump, and refilled with ISO VG 460 synthetic EP gear oil.
+Pro-Tip: Never substitute lubricants based purely on thickness. Rolling mills require specific EP additives to survive shock loads.

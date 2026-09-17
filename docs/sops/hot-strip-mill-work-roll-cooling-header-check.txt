@@ -1,0 +1,7 @@
+Before rolling, inspect spray headers, nozzles, filters, isolation valves, flexible hoses, and drain paths. Verify the cooling-water pressure and flow against the pass schedule. A blocked nozzle can create a local hot spot even when total header flow appears normal.
+
+Run the header briefly with the stand safe and compare spray pattern across the roll face. Do not put hands into the spray or reach through a guard. Look for missing jets, uneven fan shape, leaking swivel joints, and water striking the chock rather than the roll.
+
+If pressure is low, check the filter differential pressure and upstream valve position before raising the pump setpoint. If a nozzle is blocked, isolate and clean it using the approved tool. Do not use wire that can change the nozzle or leave a piece inside.
+
+Record pressure, flow, nozzle count, filter condition, and any plugged locations. Recheck after the first coil because scale can move through the system when the header starts. An operator who knows which three nozzles usually plug can find the real cause faster, but must still verify the entire pattern.

@@ -1,0 +1,2 @@
+Anti-collision and proximity limit safety for Overhead Cranes running on the same runway.
+When two cranes operate on a shared track, the laser anti-collision sensors must be fully operational. If a sensor fails, the crane is restricted to 20% speed and requires a dedicated spotter on the ground. Never intentionally override the anti-collision limits to push a dead crane with a live crane without a formal risk assessment and the Shift Manager's presence in the cabin. The physical rubber buffers on the crane bridges are designed to absorb only a 10% speed impact.

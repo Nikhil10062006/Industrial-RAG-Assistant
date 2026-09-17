@@ -1,0 +1,7 @@
+At the ladle treatment station, check ladle number, steel grade, temperature plan, argon pressure and flow, electrode or lance condition, fume extraction, slag condition, and crane route. Confirm the ladle is centered before treatment and that no water or wet material is near the vessel.
+
+Watch the pressure and flow relationship. If flow falls while pressure rises, suspect a restriction. If flow rises unexpectedly with low pressure, check for a leak, open valve, or broken connection. Do not approach the ladle to inspect a bubbling or leaking area without the approved position and PPE.
+
+Record treatment start and stop, alloy additions, temperature, argon behavior, electrode current, and abnormal noise. A small change in stirring behavior can affect inclusion removal and temperature uniformity.
+
+At handover, state which ladle is in which bay, which treatment is complete, and whether any slide gate, porous plug, or lance needs attention. Do not assume the crane operator or caster knows the ladle condition from the number alone.

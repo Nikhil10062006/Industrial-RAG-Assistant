@@ -1,0 +1,7 @@
+Symptom: Descaler header pressure fell from 185 bar to 142 bar during wide-strip rolling. The pump discharge pressure looked normal at idle, and the alarm cleared when the strip width was reduced.
+
+Root cause: The suction strainer was partly blocked with scale and seal fragments. The pump was cavitating only at high flow. The noise was mistaken for normal spray-pump vibration because the pump sits near the mill’s general noise source.
+
+Fix: Isolated and drained the pump section under permit. Cleaned the suction strainer and found a torn elastomer from a previous flange joint. Replaced the joint with the specified material, checked the suction isolation valve for full opening, and flushed the line before restarting. Pressure held at 184–188 bar across the wide-strip trial.
+
+What we learned: The local pressure gauge was installed on the discharge side, so it hid the suction problem. Listen at the pump casing and watch the motor current. A small pressure ripple plus rising current is a better early warning than the low-pressure alarm. Do not increase the relief-valve setting to recover header pressure. That only shifts the failure to the pump or hose.

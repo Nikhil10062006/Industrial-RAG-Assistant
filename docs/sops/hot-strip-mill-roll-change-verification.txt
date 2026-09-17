@@ -1,0 +1,7 @@
+Before the roll change, confirm the work-roll and backup-roll identifiers, diameter, crown, surface finish, and planned stand position. Check the chock, bearings, seals, cooling passages, and roll-neck condition. Clean the seating surfaces; a small chip can create roll skew or vibration.
+
+After inserting the roll, verify chock seating, roll-gap zero, roll-bending connection, coolant header connection, encoder coupling, and guard position. Perform the approved slow rotation check. Listen for rubbing and watch for coolant leaks at the swivel joints.
+
+Run the stand unloaded and record the unloaded force, roll speed feedback, vibration, and gap response. If zero force or gap differs from the expected band, stop before threading strip. A new roll can be dimensionally correct and still be wrongly assigned to the stand.
+
+Enter the actual roll diameter and roll number into the control system, then have a second person compare the screen with the roll card. Record any roll change delay, defect, and correction. Never assume the previous stand data is still valid after a roll change.

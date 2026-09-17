@@ -1,0 +1,7 @@
+Start the caster only after the tundish car, ladle turret, mould oscillator, secondary-cooling pumps, withdrawal unit, torch cutter, and dummy-bar system have each been checked by the responsible operator. Verify that the mould level sensor has a clean sight path and that the backup manual level indication is available. A level signal that is merely “healthy” on the screen may still be coated with powder.
+
+Preheat the tundish to the heat-plan temperature and confirm the slide-gate hydraulic pressure is in the normal band. Inspect the stopper rod and seating area for refractory chips. Before opening the ladle, make sure the dummy bar is fully latched and the pinch rolls are in the start position.
+
+Open the ladle stream slowly. Stabilize mould level before starting withdrawal. Keep withdrawal speed at the approved threading speed until the shell has passed the first support segment. Do not increase speed just because the strand surface looks sound at the operator window; the shell is weakest inside the mould and near the foot roll.
+
+If mould level hunts more than the local alarm limit, freeze the speed increase and check stopper response, argon flow, and sensor agreement. If the mould temperature or breakout monitor alarms, stop according to the caster emergency sequence and notify the shift manager. Every heat start must include a written note on nozzle condition, powder behavior, and any manual intervention.

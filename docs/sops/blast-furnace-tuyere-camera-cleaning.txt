@@ -1,0 +1,7 @@
+Tuyere cameras are cleaned only from the approved shielded position and according to the furnace area permit. Confirm that the camera purge is on, cooling water is flowing, and the tuyere sight glass is not cracked. Never remove a sight-glass assembly while the tuyere is exposed to furnace pressure.
+
+Compare the camera image with neighboring tuyeres before cleaning. A dark image may indicate a dirty lens, but it may also show a blocked tuyere, poor raceway condition, or a camera cable fault. Check the purge pressure and local indicator first.
+
+Use the approved cleaning rod or air purge. Do not use an unapproved solvent near hot metal or oxygen service. If the image clears and then darkens again immediately, inspect the purge line for condensate or a leaking fitting. If the image changes color or shows sparks, notify the furnace controller and do not keep cleaning.
+
+After the work, verify the image, camera tag, purge pressure, cooling-water flow, and any abnormal tuyere condition. Record the before-and-after view if the system permits. A camera is an observation aid, not permission to approach the tuyere closer than the exclusion boundary.

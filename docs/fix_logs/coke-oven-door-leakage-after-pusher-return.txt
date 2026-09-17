@@ -1,0 +1,7 @@
+Symptom: Smoke and flame were seen at the pusher-side door corner after pushing a charge. The door-cleaning cycle completed, and the battery pressure was slightly negative.
+
+Root cause: The door knife edge had a build-up of tar and carbon at the lower corner. The door frame itself was within alignment tolerance, but the deposit prevented full seating. The pressure reading at the standpipe was normal, so the first assumption was a damaged refractory jamb.
+
+Fix: Isolated the door area, used the approved long-handled cleaning tool, and removed the deposit. The sealing surface was inspected after cooling. We found a small worn section of the spring-loaded pressure bar. Maintenance replaced the bar during the next safe window and reset the door pressure.
+
+Operator note: If leakage is only at one corner and changes when the door is gently reseated, check deposits and pressure bars before blaming the jamb. Do not lean into the door opening to see better. The heat comes back suddenly when the seal clears. Record the battery number, door number, leakage location, pressure, cleaning action, and whether the leakage returned after the next charge.

@@ -1,0 +1,7 @@
+Molten-metal sampling uses the approved sampler, length, shield, and procedure for the furnace, ladle, or tundish. Confirm the sample point, grade, temperature, and operator authorization before approaching. Keep the route clear and remain behind the designated protection.
+
+Inspect the sampler for dryness, damage, loose coating, and correct identification. Never use a wet or cracked sampler. Insert smoothly without sudden movement and withdraw to the safe position before the sample cools or is transferred.
+
+Label immediately with heat, ladle or tundish number, time, location, and sampler identity. Do not place a hot sample on a wet floor or near water. Handle it with the approved tool and allow adequate cooling before analysis.
+
+If the sample behaves unexpectedly, splashes, sticks, or shows an abnormal surface, report it. A sample result without correct traceability is not useful. The technician should know whether the result represents the steel, slag contamination, a late sample, or a handling problem.

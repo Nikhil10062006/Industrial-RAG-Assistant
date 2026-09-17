@@ -1,0 +1,7 @@
+Before changing the annealing line furnace recipe, confirm strip grade, width, thickness, line speed, zone temperatures, atmosphere flow, dew point, and cooling capability. Recipe changes must be made through the approved control screen and independently checked against the production plan.
+
+Stabilize the furnace before introducing the new material. Watch strip tension, furnace pressure, hydrogen or protective-gas flow as applicable, oxygen indication, and dew point. A furnace that is at temperature but has an unstable atmosphere is not ready for grade change.
+
+Do not make large temperature changes while the strip is in a sensitive section unless the process plan permits it. If dew point rises, check gas quality, water leaks, seals, and analyzer health. Avoid opening inspection doors because air ingress can damage surface quality and create a safety hazard.
+
+Record the old and new recipe, transition coil identity, analyzer readings, cooling-water condition, and quality observations. Mark transition material for review. Senior operators often know which recipes share a safe transition window, but that knowledge must be documented rather than passed only by word of mouth.

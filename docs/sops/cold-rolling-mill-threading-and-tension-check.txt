@@ -1,0 +1,7 @@
+Confirm that the payoff reel, entry bridle, mill stands, delivery bridle, recoiler, and strip steering cylinders are in the correct mode before threading. The line must be in inching or threading mode, with the guard circuit healthy. Test the pull-cord and emergency stops at the start of shift, not after the strip has entered the first stand.
+
+Inspect the weld, strip head, and side edges. Grind sharp weld flash and remove loose burrs. A small corner crack can catch on a roll guide and create a long cobble. Set entry and interstand tension from the approved pass schedule. Do not copy yesterday’s tension because the strip grade and coil temperature may be different.
+
+Thread at the minimum approved speed. Keep the operator watching the strip path and the bridle load cell together. If tension rises while speed is steady, stop the line and check for a dragging wrapper, guide contact, or a brake not releasing fully. Never solve a tension alarm by raising the speed command.
+
+After the head is stable in the recoiler, switch to production mode only after all stands show synchronized speed and the strip-centering indication is inside the normal band. Record the first coil’s actual tension and exit thickness. If the automatic gauge control is disabled, mark the coil clearly and inform quality; do not rely on memory at shift handover.

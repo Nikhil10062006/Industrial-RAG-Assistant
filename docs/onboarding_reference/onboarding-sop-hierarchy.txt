@@ -1,0 +1,3 @@
+How Our Procedures are Structured
+Before creating different SOPs in the organization, a master SOP is to be written. This master document dictates the numbering system and approval mechanism.
+An SOP should carry the subject, identity of the author, approving authority, date of initial issue, number of revisions and the date of latest revision. It should describe the purpose of the process and its limitations, as well as the dangers of the process and precautions required. Do not use an outdated printout from a dusty binder; always pull the live document from the intranet portal.

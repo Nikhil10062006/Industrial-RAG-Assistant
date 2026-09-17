@@ -1,0 +1,7 @@
+Rolling Mill Work Rolls vs. Backup Rolls
+In the Hot Strip Mill, each rolling stand uses a "4-High" configuration. That means there are four rolls stacked vertically.
+
+Work Rolls: The two smaller rolls in the middle that actually touch and squeeze the hot steel strip. They wear out quickly and must be changed every 2 to 4 hours.
+
+Backup Rolls: The two massive rolls on the top and bottom. They do not touch the steel. Their only job is to press down on the work rolls to prevent them from bending under the 2000-ton rolling force. They are changed weekly.
+If a backup roll bearing fails, the work rolls will flex, and the steel strip will come out wavy (edge wave or center buckle).

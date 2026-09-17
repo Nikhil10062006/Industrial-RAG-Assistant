@@ -1,0 +1,4 @@
+Problem: The Hot Strip Mill was producing coils that looked like a banana (severe camber).
+Root Cause: The automation team tried calibrating the hydraulic gap control cylinders on Stand F6. The real problem was incoming temperature. The reheat furnace had a blocked gas burner on the drive side. Slabs were exiting 40°C colder on the drive side. The mill rolls naturally pushed the softer, hotter operator-side steel more, causing the strip to lengthen unevenly and curve.
+Fix: Cleared the blocked burner nozzle in the reheat furnace. Camber vanished on the next slab.
+Pro-Tip: If the steel curves, check furnace temperature uniformity before messing with the roll gap.

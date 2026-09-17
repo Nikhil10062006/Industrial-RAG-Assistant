@@ -1,0 +1,7 @@
+Stack sampling requires the correct point, port condition, sampling train, calibration, flow rate, and chain of custody. Confirm the process is representative before sampling; a sample during an abnormal shutdown may answer a different question from a compliance sample.
+
+Inspect ports, platforms, ladders, lighting, access, and weather. Use fall protection and respiratory controls where required. Record fan state, fuel or burden condition, production rate, temperature, pressure, moisture, and any upset during the sampling period.
+
+Check leak tightness and blank results according to the method. Label every sample with source, date, time, train number, operator, and preservation requirement. If a pump flow drifts or a filter loads unexpectedly, stop and document the event rather than silently correcting the result.
+
+A high result may be real, a sampling error, or a process change. Preserve the evidence and notify the environmental lead. Do not alter process settings solely to make a sample look normal unless the operating plan requires a safe correction.

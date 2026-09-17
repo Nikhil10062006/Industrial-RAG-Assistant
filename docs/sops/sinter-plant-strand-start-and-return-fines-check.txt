@@ -1,0 +1,7 @@
+Before starting the sinter strand, check the raw-mix bins, weighing feeders, mixer, nodulizer, ignition furnace, strand drive, wind-box fans, and return-fines conveyor. Confirm that the strand pallets are clear of tools and that the pallet seal inspection is complete. A missing seal plate can look like poor permeability until half the bed has passed.
+
+Start the return-fines system first, then the discharge screens and strand drive, following the interlock sequence. Run the mixer empty briefly to confirm there is no hardened mix at the paddles. Start the wind-box fans with the dampers in the approved position. Do not run maximum suction to compensate for a wet mix; the bed may crack and the exhaust system will carry excessive dust.
+
+During the first ten minutes, check moisture, bed height, ignition temperature, strand speed, wind-box pressure, and return-fines ratio. If the first wind boxes show a sudden pressure drop, inspect for a pallet gap or a broken seal. If the last boxes are weak, check bed permeability and fan loading before changing coke breeze.
+
+Keep the discharge area clear. Sinter can remain hot inside even when the top surface looks dark. Record the first stable readings and any manual feeder correction. The raw-mix operator should tell the control room if the material is clumping; the screen operator will see the result later, but the mixer operator sees the cause first.

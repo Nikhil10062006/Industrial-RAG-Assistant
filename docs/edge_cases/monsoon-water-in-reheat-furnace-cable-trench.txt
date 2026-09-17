@@ -1,0 +1,7 @@
+During heavy rain, the reheat furnace tripped on several unrelated-looking signals: burner management fault, thermocouple communication loss, and a low-level alarm on the nearby utility sump. The common cause was water entering the cable trench through a damaged cover and wetting terminal boxes.
+
+The first response was to keep resetting the burner fault, which made the situation worse. The correct action is to place the furnace in the safe state, isolate electrical power as directed, and stop people from entering the wet trench. Do not use a portable fan or extension lead until the electrical authority has checked the area.
+
+Once safe, inspect trench pumps, drain paths, cover seals, terminal-box glands, and cable supports. Water can travel along a cable and enter a box several metres away from the visible leak. Drying the outside of a box does not prove the terminals are safe. Insulation resistance and functional checks are required before re-energizing.
+
+Lesson from last monsoon: install a temporary rain barrier before forecast storms and verify sump-pump automatic start. Trend the sump level during the first rain, not after the trip. If several low-voltage signals fail together during rain, look for a shared power or cable-route problem rather than three bad instruments.

@@ -1,0 +1,7 @@
+A mould breakout monitor alarmed during a change from one casting powder lot to another. The strand shell was sound and there was no mould-level disturbance. The alarm occurred at the same corner each time the operator added powder.
+
+Investigation found the new powder produced a short-lived smoke plume that obscured the infrared sensor. The sensor was correctly aimed, but the purge-air flow was low. The powder change had also been done more aggressively than usual, creating a dense plume.
+
+The caster was held at the approved safe condition while the monitor was checked. We restored purge flow, cleaned the sensor window, and added powder slowly from the safe position. The alarm did not recur. Quality and process staff still reviewed the powder lot because a nuisance alarm must not be used to dismiss a real breakout.
+
+Lesson: look at the alarm companions and the physical timing. If the signal quality drops exactly when powder is added, inspect the optical path and purge. If temperature rises at the same location, mould level moves, or multiple sensors agree, treat it as a genuine thermal event and follow the breakout response. Never bypass a breakout monitor merely because a previous alarm was caused by smoke.

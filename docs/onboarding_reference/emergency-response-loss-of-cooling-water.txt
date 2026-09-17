@@ -1,0 +1,7 @@
+Cooling-water loss can damage furnaces, casters, rolls, power electronics, bearings, and refractory within minutes. Treat low flow, low pressure, high return temperature, and pump failure as process hazards, not only utility alarms.
+
+Identify the affected users and confirm whether the loss is local, header-wide, electrical, mechanical, or due to a valve lineup. Reduce heat or speed according to the approved procedure. Do not open hot equipment or approach a suspected water-to-metal leak without the area control.
+
+Start standby equipment only after checking suction, discharge, power, and source capacity. A second pump cannot fix an empty tank, closed valve, blocked strainer, or broken main. Watch return temperature and local flow, not only the pump status.
+
+Record the first alarm, affected equipment, time to safe state, water levels, pressures, and recovery sequence. After restoration, inspect for thermal damage, leaks, warped components, and instruments that may have been affected. Cooling-water events often create delayed failures.

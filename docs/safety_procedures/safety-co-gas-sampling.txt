@@ -1,0 +1,8 @@
+Safety protocol for taking manual gas samples (using Tedlar bags) from the Blast Furnace or Coke Oven gas networks.
+This is a lethal task if performed incorrectly. You are deliberately opening a valve to a gas containing up to 25% Carbon Monoxide (CO).
+
+Buddy System: This is strictly a two-person job. The spotter must stand 5 meters away, upwind, holding a radio and wearing a rescue harness.
+
+PPE: Both personnel must wear their personal CO monitors. The sampler must wear a half-mask respirator with a CO-rated chemical cartridge.
+
+Execution: Ensure the sampling point has a double-valve block. Attach the sample bag nozzle securely to the purge port. Open the primary valve slowly. Open the secondary valve to fill the bag. Do not overfill. Close the secondary valve, then the primary. If your personal CO monitor alarms at 50ppm during this process, close all valves immediately and evacuate. Never bleed the sample lines to the open atmosphere indoors; always use the designated vent tubing routed outside the building.

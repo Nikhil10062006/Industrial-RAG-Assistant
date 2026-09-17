@@ -1,0 +1,7 @@
+Before changing a compressed-air dryer, confirm the standby unit is available, dew point is acceptable, valves are identified, and the receiver has stable pressure. Check that downstream users can tolerate the changeover and that no instrument-air user will be isolated unexpectedly.
+
+Open the standby inlet and outlet in the approved sequence, then close the operating unit’s valves. Avoid rapid valve movement, which can send a pressure pulse into instrument lines. Watch dew point, pressure, differential pressure, and regeneration exhaust.
+
+If dew point rises after changeover, check valve seating, purge flow, desiccant condition, and moisture carryover from the upstream separator. Do not increase purge blindly; excessive purge can reduce plant pressure and hide a leaking valve.
+
+Record the dryer number, time, pressure, dew point, valve positions, and reason for changeover. In wet weather, inspect drains and auto-drain operation more often. Instrument air that feels normal at the compressor can still be wet at the far end of a long distribution line.

@@ -1,0 +1,10 @@
+Quick Reference: Forging Shop Terminology
+When reading the Standard Operating Procedures for Iron and Steel Forging, familiarize yourself with these terms.
+
+Billet: The raw block of steel.
+
+Upsetting: Hitting the billet on its end to make it shorter and wider.
+
+Preforming: Shaping the metal roughly before it goes into the final die.
+
+Scale: The hard, black iron oxide that forms on red-hot steel. It must be blasted off using the Standard Operating Procedure for Shot Blasting and Surface Cleaning (SOP-821-008).

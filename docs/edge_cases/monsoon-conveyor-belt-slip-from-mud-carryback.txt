@@ -1,0 +1,7 @@
+During continuous rain, a raw-material conveyor began slipping at the drive pulley even though belt tension and motor current were normal. The belt cleaner was functioning, but wet fines had built up on the return side and entered the pulley lagging.
+
+The operator reduced feed and stopped the conveyor under the approved sequence. No one attempted to scrape the pulley while it was moving. After lockout, the buildup was removed, the drainage near the transfer point was cleared, and the lagging was inspected for loss of grip.
+
+The belt was restarted empty, then loaded gradually. Slip did not recur. The real cause was not low tension; rainwater had changed the material behavior and overwhelmed the normal cleaner arrangement.
+
+Lesson: in wet weather, check transfer chutes, belt cleaners, drainage, pulley lagging, and carryback together. A normal motor current can be misleading when the belt is slipping rather than overloaded. Add a pre-rain inspection of skirting and drains, and record the first location where wet fines appear.

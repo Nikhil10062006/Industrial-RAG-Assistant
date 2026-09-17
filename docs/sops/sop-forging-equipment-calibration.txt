@@ -1,0 +1,2 @@
+Rules from the Standard Operating Procedure for Equipment Calibration (SOP-821-031) for forging shop pyrometers. The optical pyrometers that measure billet temperature are critical. If they read 50°C too high, we forge cold steel and crack dies.
+Every Monday day shift, check fixed pyrometers against a certified, calibrated handheld two-color pyrometer. Target a test billet at 1150°C. If the deviation is greater than 10°C, clean the sensor lens with absolute alcohol. If the deviation persists, recalibrate the emissivity settings in the PLC.

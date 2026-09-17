@@ -1,0 +1,7 @@
+Symptom: The ladle crane held an empty hook but lowered approximately 20 mm after the operator released the hoist command. The brake alarm did not appear.
+
+Finding: Brake lining thickness was still above the discard limit. The real issue was a sticky brake-release solenoid and a weak return spring. The brake was not fully seating after release. The hoist encoder showed zero speed, so the control system did not recognize the small movement.
+
+Fix: Isolated the crane, inspected the brake assembly, cleaned the solenoid plunger, replaced the return spring, and adjusted the air gap to the maintenance value. We tested with an approved test load and repeated the hold test at three positions. The hook held without creep.
+
+Tribal knowledge: A crane brake can pass the display test and still be unsafe. Watch the hook, not only the encoder. If the hook drops a short distance and stops, that is not “normal settling.” Report it before the crane is used for a ladle. Also check whether the brake-release pressure is bleeding slowly; a weak solenoid can make the problem intermittent and difficult to reproduce.

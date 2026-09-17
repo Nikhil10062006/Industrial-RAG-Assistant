@@ -1,0 +1,7 @@
+Before opening an energized electrical cabinet, confirm the equipment label, arc-flash boundary, incident-energy value, voltage level, and required PPE. If the label is missing or unreadable, stop and obtain the approved assessment. Do not assume a familiar cabinet has the same hazard as the one beside it.
+
+De-energization is the preferred control. Apply lockout-tagout, test for absence of voltage, and verify stored energy is discharged. If energized work is specifically authorized, use the written method, rated tools, insulating barriers, and an observer as required. Stand to the side of the door when opening where the assessment requires it.
+
+Keep metal jewelry, loose tools, phones, and unapproved test leads away from exposed conductors. Do not reset a tripped breaker repeatedly. A trip may indicate a fault that will produce a larger event on the next close.
+
+After work, restore covers, remove tools, clear the boundary, and inform affected operators. Record the fault and any abnormal smell, heat, or sound. Arc-flash PPE is a last line of defense, not permission to work casually on live equipment.

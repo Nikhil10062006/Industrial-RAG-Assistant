@@ -1,0 +1,3 @@
+Scenario: A catastrophic shatter of a forged steel work roll in Stand F2 of the Hot Strip Mill.
+Action Taken: Regular cleaning of the machinery is necessary to prevent these issues. The roll cooling spray headers had become severely clogged with river silt because the weekly flushing protocol was skipped. The center of the work roll overheated drastically. When the cooling water finally broke through the clog and hit the superheated steel, the thermal shock caused the roll to detonate like a bomb.
+Lesson Learned: Following the recommended cleaning procedures and using appropriate cleaning agents is mandatory. If spray headers drop below 70% flow, the mill automation now instantly halts rolling.

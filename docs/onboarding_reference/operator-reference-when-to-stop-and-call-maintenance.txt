@@ -1,0 +1,7 @@
+Stop and call maintenance for repeated trips, abnormal vibration, hot bearings, oil or water leaks, burnt smell, unexpected noise, changing alignment, recurring sensor disagreement, guard damage, or any condition that worsens after reset. The equipment does not need to be fully failed before it deserves attention.
+
+Keep the process safe and preserve evidence. Note tag, value, time, speed, load, alarm sequence, and what changed. If the condition is safe to continue under an approved limit, record the limit and review time. Do not invent a production limit at the pulpit.
+
+Call the right discipline with useful information. Electricians need voltage, current, protection status, and trip history. Instrument technicians need tag, range, local versus DCS indication, and calibration history. Mechanics need speed, load, vibration, temperature, lubrication, and recent work.
+
+A senior technician is not the person who keeps a weak machine running longest. It is the person who recognizes when continued operation increases the consequence and stops before the failure becomes unsafe.

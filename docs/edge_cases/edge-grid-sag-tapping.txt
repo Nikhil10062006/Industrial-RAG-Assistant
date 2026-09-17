@@ -1,0 +1,4 @@
+Scenario: Severe 33kV utility grid voltage sag (dip) during tapping of the basic oxygen furnace. The voltage dropped to 80% for 3 seconds due to a lightning strike on the external transmission lines.
+This sag caused the variable frequency drives on the Melt Shop Teeming Crane to trip offline on under-voltage while holding a full 300-ton ladle of molten steel over the transfer car.
+Action Taken: The junior operator panicked and tried to reset the drives rapidly to hoist the load. The inrush current into the partially magnetized motors tripped the main incoming breaker, killing power to the entire bay.
+Lesson Learned: If you lose crane drives while holding a hot load due to a grid sag, let the mechanical brakes do their job. Let it sit. Wait 60 seconds for the grid to fully stabilize, verify drive health on the HMI, and slowly resume motion. Rushing a reset causes bigger cascaded trips.

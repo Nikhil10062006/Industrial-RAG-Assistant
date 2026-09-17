@@ -1,0 +1,2 @@
+Safety protocol for operating mobile cranes near 132kV overhead high-tension power lines.
+Electricity at 132kV can arc through the air. A strict 6-meter absolute exclusion zone must be maintained around overhead lines. A dedicated spotter with a radio must stand outside the crane's swing radius, tasked purely with watching the distance between the boom tip and the wires. If the crane must travel under the lines, the boom must be fully retracted and cradled, and transit must occur only at designated crossing points.

@@ -1,0 +1,9 @@
+A dust-suppression line at a sinter transfer point had no spray during a cold early shift. The pump was running and header pressure was normal upstream.
+
+The nozzle branch had trapped water and froze after the line was left full overnight. Operators increased pump pressure, which caused a hose to bulge at a weak connection. The hose was isolated before it failed.
+
+The branch was drained after shutdown, the nozzle was replaced, and a low-point drain and heat trace were added. The pump pressure was returned to normal. Dust control was restored before full material flow resumed.
+
+Lesson: a pressure reading upstream does not prove every branch is open. In cold conditions, drain low points and check exposed hoses. Never exceed hose or nozzle pressure to force a frozen branch open.
+
+The branch was marked with its drain point and winter line-up. Operators were told to confirm spray at the transfer before starting full feed, not after dust becomes visible. A frozen nozzle is a branch condition; raising the common header pressure is not an approved thawing method.

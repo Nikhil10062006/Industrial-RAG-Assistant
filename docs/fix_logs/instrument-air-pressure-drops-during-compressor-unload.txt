@@ -1,0 +1,9 @@
+Symptom: Instrument-air pressure fell for 20–30 seconds whenever the standby compressor unloaded. Control valves moved slowly and several position alarms appeared.
+
+Finding: The check valve on the standby compressor discharge was leaking backward. When that compressor unloaded, the header flowed into the compressor casing instead of staying in the receiver. The pressure transmitter was correct.
+
+Fix: Isolated the compressor, replaced the check valve, and pressure-tested the line. The receiver volume and pressure trend were checked during repeated load/unload cycles. No control-valve position faults returned.
+
+Tribal knowledge: Short pressure dips that match a compressor sequence usually point to a check valve, receiver, or control logic issue. Do not chase every downstream positioner. A control valve that moves slowly may be healthy but starved of air.
+
+The standby compressor was returned to service only after the check-valve direction, gasket, and seat were verified. The header trend was captured through several automatic cycles. A short dip can upset many positioners, so the control room now receives an early low-pressure warning before the main alarm.

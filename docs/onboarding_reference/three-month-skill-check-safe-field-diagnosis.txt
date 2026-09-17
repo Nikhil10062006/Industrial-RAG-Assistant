@@ -1,0 +1,7 @@
+A developing technician should be able to describe a fault without entering danger. They should identify the equipment tag, process state, energy sources, safe observation point, normal indication, abnormal indication, and first safe check.
+
+They should know when a local gauge can be trusted, when a portable meter is required, and when a permit or isolation is mandatory. They should preserve a trend before reset, record a value with units, and explain what changed after a test.
+
+They should also know their limits. Electrical testing, gas testing, confined-space entry, crane operation, refractory inspection, and chemical handling require authorization and competency. Asking for the right specialist is a technical skill, not a failure.
+
+The final test is communication. A good report lets another person reproduce the finding: “Pump P-18 discharge pressure fell from 9.2 to 6.8 bar(g) when valve XV-18 opened; suction strainer differential pressure rose; no leak seen.” This level of detail turns experience into plant knowledge.

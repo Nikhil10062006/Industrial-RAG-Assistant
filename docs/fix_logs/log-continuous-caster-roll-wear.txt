@@ -1,0 +1,4 @@
+Problem: The continuous caster slabs were exiting the machine with deep longitudinal gouges running the entire 10-meter length.
+Root Cause: We inspected the containment rolls in Segment 2. The gouging was caused by a seized guide roll. The bearings failed due to water ingress from a leaking secondary cooling spray nozzle. Because the roll wouldn't turn, the hot steel slab physically dragged across the stationary steel roll, acting like a giant machining tool and carving a deep groove.
+Fix: Pulled the entire Segment 2 cartridge from the machine using the crane and replaced it with a rebuilt spare. Realigned the cooling nozzles.
+Pro-Tip: If a defect runs continuously without breaking, it's a fixed mechanical obstruction. Check for seized rolls.

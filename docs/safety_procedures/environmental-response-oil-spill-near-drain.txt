@@ -1,0 +1,7 @@
+Stop the source if safe, protect people from slips and vehicle movement, and prevent oil from entering the drain. Use the spill kit, drain covers, absorbent socks, and bunding provided for the area. Do not wash oil toward a drain with water.
+
+Identify the oil, approximate quantity, source, and whether it may have reached soil or water. Report to the area controller and environmental contact. Keep ignition sources and hot work away if the oil is flammable. Do not use an absorbent that is incompatible with the chemical.
+
+Place used absorbent and contaminated material in the designated waste container. Inspect the source equipment for pressure, temperature, and stored energy before repair. A drip tray that is full is not spill control; it is a delayed spill.
+
+Record response time, source, material, containment, waste quantity, and corrective action. Repeated small spills from the same pump, hose, or drain should become a maintenance and design issue, not a series of cleanup jobs.

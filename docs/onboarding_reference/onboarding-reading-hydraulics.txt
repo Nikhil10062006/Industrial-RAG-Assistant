@@ -1,0 +1,13 @@
+Hydraulic Schematics - The Basics
+Don't let the spaghetti of lines on a hydraulic drawing intimidate you.
+
+Solid Lines: Main pressure or return fluid lines.
+
+Dashed Lines: Pilot pressure lines (small lines used to shift bigger valves).
+
+Dotted Lines: Drain lines (leakage fluid returning to the tank).
+
+The Box with an Arrow: A pump. The arrow points in the direction of flow.
+
+The Box with a Z-line: A spring. Usually used to push a valve back to its default safe position when power is lost.
+The Golden Rule: Fluid always takes the path of least resistance. If a cylinder won't move, look for the easiest place the fluid could be escaping back to the tank—usually a stuck relief valve or a blown internal seal. Trace the solid lines backward from the cylinder to find the culprit.

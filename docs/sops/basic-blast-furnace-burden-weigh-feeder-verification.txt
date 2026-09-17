@@ -1,0 +1,7 @@
+Before verifying a burden feeder, confirm the bin is safe to access and the feeder is isolated from automatic charging. Check the feeder tag, material identity, gate position, belt or vibratory tray condition, and zero reading. Never enter a bin or reach into a feeder to clear material without the confined-space and isolation controls.
+
+Run the feeder empty where permitted and compare indicated rate with the approved test weight or timed collection. Check for buildup under the belt, worn load cells, rubbing skirts, and uneven flow from the bin. A feeder can be mechanically free and still weigh incorrectly if material is touching the frame.
+
+If the indicated rate is unstable, check grounding, cable condition, vibration, and material bridging before changing calibration. Moisture can make fines stick to the chute and create a false high reading. Do not calibrate while the feeder frame is being touched by a tool or temporary support.
+
+Record zero, span, material, test duration, collected weight, indicated weight, and the person accepting the result. If a feeder is outside tolerance, mark it clearly and notify the stockhouse controller. It is better to run a known manual correction than to feed an unknown rate.

@@ -1,0 +1,7 @@
+Every temporary repair, bypass, jumper, clamp, hose, patch, software force, or temporary support must be recorded with equipment tag, reason, installation date, owner, risk, inspection frequency, and removal condition. If it is not recorded, the next shift may treat it as permanent.
+
+The register should state whether the equipment may run, at what limit, and what alarm or symptom requires shutdown. Include photos and a sketch when the location is difficult to identify. Mark the field repair clearly without creating a new trip hazard.
+
+Temporary measures need an expiry or review date. A hose installed for two days can become a five-year failure point. A software bypass can survive several turnovers if no one owns it. Supervisors should review open temporary repairs at every handover and planning meeting.
+
+Close the item only after the permanent correction is verified and the field mark is removed. Temporary repair discipline is a form of risk control and knowledge retention. It also prevents technicians from repeatedly rediscovering the same workaround.

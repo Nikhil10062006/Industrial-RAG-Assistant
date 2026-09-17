@@ -1,0 +1,4 @@
+Problem: Pulverized Coal Injection (PCI) line #4 to Blast Furnace tuyere 14 choked solid. Coal flow dropped to zero, and line pressure spiked to 14 bar.
+Root Cause: The junior control room operator noticed the flow dropping and responded by increasing the conveying nitrogen flow rate to "push it through." This is the worst thing you can do. The excess gas pressure simply compacted the fine coal dust into a rock-solid plug inside the 50mm pipe, right at the distribution elbow.
+Fix: We had to dispatch the mechanical team to physically unbolt the pipeline at the blast furnace bustle pipe. We rigged a high-pressure nitrogen lance and blew the line backward into a dump bin. It took 4 hours of hammering on the pipe.
+Pro-Tip: If a PCI line starts to choke (pressure rises, flow drops), immediately cut the coal feed from the injection vessel and leave the conveying gas running at normal pressure. Let it clear itself. Never try to force-push a coal plug with high pressure.

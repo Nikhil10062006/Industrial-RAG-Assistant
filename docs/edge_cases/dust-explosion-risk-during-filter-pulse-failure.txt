@@ -1,0 +1,7 @@
+A bag filter differential-pressure alarm stayed high after the pulse-cleaning system was commanded. The fan continued running, but dust visibility increased around the hopper. The temptation was to increase pulse pressure beyond the normal setting.
+
+Inspection found the compressed-air header had water carryover and the pulse solenoid diaphragm was sticking. Increasing pressure would not have corrected the wet air and could have damaged bags. The dust hopper level was also near high because the rotary valve had stopped.
+
+The fan was reduced or stopped according to the permit and process plan. Ignition sources were controlled, the hopper and filter were isolated, and maintenance drained the air receiver and repaired the pulse valve. The rotary valve was checked before the fan returned to service. The filter was inspected for damaged bags and hot particles.
+
+Lesson: high differential pressure with poor pulse response is a system problem. Check air quality, solenoids, diaphragm valves, hopper discharge, and temperature. Do not enter a dust collector or open an inspection hatch without the confined-space, stored-energy, and dust-hazard controls. A filter can look like a nuisance utility issue until airflow and dust concentration combine.

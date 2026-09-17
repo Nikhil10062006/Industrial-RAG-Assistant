@@ -1,0 +1,7 @@
+When a PLC-controlled machine stops, preserve the fault history, sequence-of-events log, input status, output status, and program revision before resetting. Record the machine state and last commanded action. A reset can clear the evidence that distinguishes a field fault from a logic fault.
+
+Check the field device first: power, fuse, cable, terminal, sensor target, actuator pressure, and local indication. Then compare the PLC input with the physical state. If the input is correct but the output is not commanded, inspect logic and permissives. If the output is commanded but the actuator does not move, inspect the field circuit.
+
+Do not force an input or output on production equipment without written authorization and a safe test plan. A forced bit can bypass a guard, valve interlock, or position check. Remove and document any test force immediately after use.
+
+Record PLC rack, card, channel, tag, time, fault code, and program revision. Good automation troubleshooting follows the signal from field to input to logic to output to actuator instead of replacing cards by guesswork.

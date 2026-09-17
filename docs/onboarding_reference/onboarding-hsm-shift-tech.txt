@@ -1,0 +1,10 @@
+Welcome to the Hot Strip Mill. As a junior shift technician, your first 3 months are about learning the geography and critical checks. You won't be running the pulpit yet.
+Core Duties:
+
+Walk the hydraulic cellars every 4 hours. Look for oil slicks on the floor and listen for whining pumps.
+
+Check the Roll Cooling spray headers. A blocked nozzle causes thermal banding on the rolls and ruins coil quality.
+
+Log the main drive bearing temperatures.
+Key Resource: We have recently implemented the Agentic AI based learning and development platform. You are required to log into this system daily. It contains interactive 3D models of the mill stands and simulated troubleshooting scenarios. Use it to understand the hydraulic valve blocks before you touch them in the real world.
+Golden Rule: If a gauge or sensor looks weird, don't just reset the alarm. Walk out to the stand and physically look at it. Trust your eyes over the HMI.

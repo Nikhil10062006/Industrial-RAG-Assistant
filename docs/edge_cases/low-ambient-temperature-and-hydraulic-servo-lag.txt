@@ -1,0 +1,7 @@
+On an unusually cool winter morning, the caster withdrawal-speed loop began hunting during the first heat. The hydraulic pump pressure was normal, and the servo valve feedback looked correct. Operators tried increasing the command gain, which made the oscillation worse.
+
+The oil temperature was below the normal start band because the tank heater had been left in manual after maintenance. Cold oil increased valve response time and made the actual speed lag behind the control signal. The loop then over-corrected. No individual component had failed.
+
+The fix was to stop the speed increase, warm the hydraulic oil through the approved circulation route, and return the heater to automatic. We checked filter differential pressure and confirmed the servo valve spool was clean. After oil temperature stabilized, the loop held speed without a gain change.
+
+Rare condition, common mistake: control tuning cannot compensate safely for an out-of-range medium. Check oil, water, and air temperature against the startup band before diagnosing electronics. If the problem disappears as the system warms, record the time and temperature. Do not leave a control gain altered for the next shift; the line may become unstable when the oil reaches normal temperature.

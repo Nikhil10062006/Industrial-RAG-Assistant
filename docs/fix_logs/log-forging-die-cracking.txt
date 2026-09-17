@@ -1,0 +1,4 @@
+Problem: A massive H13 tool steel die cracked in half after only 150 strikes.
+Root Cause: The heat treatment was correct, but the night shift operator violated the Standard Operating Procedure for Die Preparation and Maintenance (SOP-821-003). They placed a 25°C die block directly into the press and struck 1200°C steel. The immense thermal shock created internal stresses exceeding the tensile strength of the H13 steel, causing a brittle fracture.
+Fix: Enforced a hard interlock on the press PLC: the press will not cycle unless the die surface thermocouple reads a minimum of 200°C.
+Pro-Tip: Cold dies shatter. Always preheat.

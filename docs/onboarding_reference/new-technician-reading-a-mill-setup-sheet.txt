@@ -1,0 +1,7 @@
+A setup sheet is a controlled instruction for a particular product sequence, not a menu of values to copy blindly. Start by matching the coil identity and grade. Then check entry and exit thickness, width, target temperature, roll diameter, stand reductions, tension, speed limits, roll bending, coolant, and any special surface requirement.
+
+Before threading, compare the sheet with the live values at the pulpit and the local equipment. If the roll diameter or stand configuration changed after a roll change, the old sheet may no longer be valid. Confirm whether the setup is for the current mill mode, not a similar product on another line.
+
+During threading, use the low-speed and low-tension limits in the sheet. Watch actual values because commanded values can differ when a loop is saturated or a valve is slow. If the strip is unstable, hold the last known good setting and call the senior technician. Do not adjust every stand to make the numbers look close.
+
+After the coil, record actual exit thickness, crown or flatness observation, threading issues, alarms, and manual changes. A setup sheet becomes more useful when the next technician can see which value worked in the real line and which one needed correction.

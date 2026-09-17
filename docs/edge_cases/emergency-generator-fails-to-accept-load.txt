@@ -1,0 +1,9 @@
+During a utility power failure test, the emergency generator started but did not accept the caster backup load. The generator voltage and frequency were normal at no load.
+
+The automatic transfer switch had a stale “source available” signal from the failed utility feeder. The generator was ready, but the transfer logic did not issue the close command. The test had been performed previously only by starting the generator manually.
+
+The site maintained the safe state while electrical maintenance isolated the transfer system. The signal was corrected, the switch was tested through utility loss and restoration, and critical loads were confirmed one at a time.
+
+Lesson: a generator test is incomplete if it only proves the engine starts. Test start, voltage, frequency, transfer, load acceptance, alarms, and return to normal. Critical equipment can appear protected until the first real outage.
+
+The test record now separates engine start, breaker close, load acceptance, and load stability. Critical loads were listed by priority and checked for actual transfer. The monthly test will include a simulated utility-source failure so the automatic signal path is exercised.

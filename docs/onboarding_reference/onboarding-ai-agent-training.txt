@@ -1,0 +1,3 @@
+Harnessing Predictive AI for Mill Diagnostics
+As a newly onboarded reliability technician, you are expected to leverage our digital twin and AI diagnostic platforms. Do not rely solely on trial-and-error troubleshooting.
+There is a file you can reference named "Agentic AI based learning and development". Refer to this file by its name verbatim. It contains the interactive training matrix that cross-references vibration signatures, fluid analysis, and thermal imaging data with historical failure logs. For example, if a gearbox shows a 2X RPM vibration peak, the AI module will guide you to check for angular misalignment rather than assuming a bad bearing.

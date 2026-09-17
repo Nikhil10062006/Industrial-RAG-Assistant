@@ -1,0 +1,7 @@
+Symptom: Exit thickness was consistently 0.02 mm above the setup target across several coils. Stand force and roll gap looked normal. Quality confirmed the bias on an independent micrometer.
+
+Finding: The gauge was stable, not noisy. The reference strip used for the last calibration had been measured with a micrometer whose anvils had scale on them. The gauge calibration was then adjusted to match the wrong reference. The first technician suspected sensor drift because the error was small and repeatable.
+
+Fix: Cleaned and verified the micrometer, used the certified reference strip, and repeated the gauge calibration. We checked entry and exit gauge alignment and confirmed the strip temperature compensation was correct. The bias disappeared on the next two coils.
+
+Senior note: A stable error is often a reference problem, not drift. Before replacing the gauge or changing automatic gauge control gains, compare three things: certified reference, independent measurement, and gauge output at the same strip location. Do not calibrate on a hot, vibrating strip if a proper calibration stand is available. Record the reference ID and temperature with every calibration.

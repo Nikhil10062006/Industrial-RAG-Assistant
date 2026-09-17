@@ -1,0 +1,4 @@
+Problem: The 200-ton Coke Oven Pusher Machine started scraping the brickwork on the oven walls while extending the ram.
+Root Cause: The mechanical team spent two days trying to re-shim the ram head guides, but it kept scraping. The ram wasn't bent. I looked at the travel rails on the ground. We were in the middle of a heavy monsoon season. The foundation under the pusher machine's rear track had subsided by just 15mm due to waterlogged soil. Because the ram is 20 meters long, a 15mm tilt at the back track translates to a 100mm deviation at the tip of the ram inside the oven.
+Fix: Undid the mechanical shimming. We had the civil team grout and pack heavy steel shims under the rear track soleplates to bring the rail back to perfect dead-level.
+Pro-Tip: For any machine with a long cantilever (pusher rams, charging cars), track level is everything. A fraction of a degree on the ground equals a huge crash at the tip.

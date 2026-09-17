@@ -1,0 +1,7 @@
+A defect tag should identify the equipment, exact location, observed condition, time, operating state, and immediate control. Write “leak at pump P-204 mechanical seal, 3 drops per minute at 08:40, pump running at 75%, drip tray half full” rather than “pump leaking.”
+
+Include whether the defect is safe to operate, what limit applies, and who was informed. Do not write a repair diagnosis unless it was confirmed. A tag should help the next person find the same condition without guessing.
+
+Use durable labels and place them where they can be read without entering danger. Do not attach a tag to a moving part, hot surface, electrical conductor, or pressurized hose. Update or remove the tag only through the approved process.
+
+Photographs help when the location is crowded, but they do not replace the equipment number and written description. A good defect tag is a small piece of operational memory that remains after the person who noticed the problem has gone home.

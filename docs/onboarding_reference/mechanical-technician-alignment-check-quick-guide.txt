@@ -1,0 +1,7 @@
+Before aligning a pump, motor, gearbox, roll, or coupling, confirm the equipment is isolated and free from pipe strain, soft foot, damaged shims, and loose foundation bolts. Alignment readings are meaningless if the machine moves when a pipe is connected or a foot bolt is tightened.
+
+Clean the coupling and shaft surfaces. Check runout, coupling condition, key fit, and axial float. Use the approved instrument and record ambient temperature, shaft position, and measurement method. Thermal growth may require an offset rather than cold alignment at zero.
+
+Correct one issue at a time. If soft foot is found, fix it before chasing angular or parallel misalignment. After tightening, repeat the measurement. Check the connected piping and guard fit before declaring the machine aligned.
+
+Run the equipment under load and compare vibration, bearing temperature, seal leakage, and motor current with the pre-work condition. A machine that runs quietly unloaded can still be misaligned when the process pipe is hot. Put the final readings and shim changes in the maintenance record.

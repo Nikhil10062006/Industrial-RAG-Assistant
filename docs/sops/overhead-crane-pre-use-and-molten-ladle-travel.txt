@@ -1,0 +1,7 @@
+Before taking a crane into service, inspect the hook latch, wire rope, drum, brakes, limit switches, pendant or radio controls, horn, travel alarms, and load-indicator display. Test hoist up and down without a load and confirm the upper limit stops before the hook block reaches the sheaves. Do not test by running into the limit at full speed.
+
+For a molten-metal ladle, confirm the ladle identification, rated load, trunnion condition, bail seating, and the planned travel path. The path must be clear of people, vehicles, and obstructions. Take the load only a few centimetres off the support and hold it to check balance and brake holding. If the ladle tilts, lower it and correct the rigging; do not “steady it” by hand.
+
+Travel smoothly at the approved speed. Avoid sudden braking, side pull, and passing over occupied areas. The crane operator must maintain a clear line of sight or use the designated signalman. If radio communication fails, stop the load in a safe position; do not continue on hand signals from multiple people.
+
+After parking, lower the empty hook to the marked position, isolate the control, and report defects immediately. A crane that completed the last shift without an incident may still have a cracked latch or a brake that is beginning to slip.

@@ -1,0 +1,3 @@
+Scenario: The continuous caster ladle turret slewing drive gearbox seized completely while swinging a 300-ton ladle of hot metal.
+Action Taken: The ladle was stuck exactly halfway over the machine, preventing casting and preventing us from setting it down. We had to bypass electrical interlocks, hook the massive overhead teeming crane's auxiliary hook to a reinforced lug on the turret arm, and physically use the crane's bridge travel to break the jammed gearbox teeth and drag the turret back to the load position.
+Lesson Learned: Turret slewing gearboxes require absolute precision. We now perform monthly vibration analysis and oil ferrography to catch failing gear teeth before they seize under load.

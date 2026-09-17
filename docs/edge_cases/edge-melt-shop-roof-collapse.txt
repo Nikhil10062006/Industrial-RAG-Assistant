@@ -1,0 +1,3 @@
+Scenario: Structural failure of the Melt Shop roof trusses directly above the BOF vessel during the monsoon.
+Action Taken: Decades of corrosive, sulfur-rich fumes had corroded the steel roof trusses. Heavy rains added water weight, causing a 20-meter section of the roof to collapse onto the charging floor, narrowly missing a hot metal ladle.
+Lesson Learned: Structural inspections cannot rely solely on visual checks from the ground. We instituted an annual drone-based ultrasonic thickness mapping of all roof trusses above high-heat areas. Any member showing >15% thickness loss is reinforced immediately.

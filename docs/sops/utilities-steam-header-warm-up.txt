@@ -1,0 +1,7 @@
+Warm a steam header gradually to prevent water hammer and thermal shock. Confirm drains are open at low points, traps are in service, downstream users are ready, and the header boundary is clear. Do not open the main valve fully against a cold, water-filled line.
+
+Crack open the warm-up bypass and monitor pressure, temperature, drain flow, and pipe movement. A loud bang, shaking line, or sudden drain discharge means stop increasing steam and allow condensate to clear. Never stand beside a flange or expansion joint during warm-up.
+
+Close drains only after the line is hot and dry according to the approved condition. Then open the main valve slowly and close the bypass as directed. Check safety valves, pressure-reducing stations, and user pressure. A regulator can hunt when condensate remains in the line.
+
+Record header pressure, warm-up time, drain behavior, and any steam leak. Small leaks become cutting jets as pressure rises. Mark them and schedule repair; do not approach a suspected leak with a bare hand to “feel” it.

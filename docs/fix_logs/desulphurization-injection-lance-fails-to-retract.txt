@@ -1,0 +1,7 @@
+Symptom: The injection lance showed “retract complete” on the screen, but the local position marker remained 150 mm short. The system permissive prevented crane movement.
+
+Finding: The retraction cylinder had normal hydraulic pressure. A buildup of solidified reagent had entered the guide sleeve and increased friction. The proximity switch was mounted too close to the target and changed state before the mechanical end position.
+
+Fix: Isolated hydraulic and pneumatic energy, cleaned the guide sleeve, inspected the lance straightness, and reset the proximity bracket using the mechanical stop as the reference. We verified the local marker, switch state, and DCS indication together before returning the unit.
+
+Operator note: If a position indication changes before the mechanism reaches its hard stop, believe the mechanism. Do not force the cylinder at higher pressure. That can bend the lance or damage the gate. Check for reagent buildup after long idle periods, particularly when the shop is humid. The permissive saved the crane from moving against a partly retracted lance; never defeat it for convenience.

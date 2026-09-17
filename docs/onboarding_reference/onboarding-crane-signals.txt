@@ -1,0 +1,14 @@
+Mandatory Crane Hand Signals
+The Melt Shop is too loud for radios sometimes. You must know the physical hand signals to communicate with the crane operator 30 meters above you.
+
+Hoist Up: Right arm extended vertically, pointing finger up, moving hand in small horizontal circles.
+
+Lower: Right arm extended downward, pointing finger down, moving hand in small horizontal circles.
+
+Bridge Travel: Arm extended forward, hand open and slightly raised, making a pushing motion in the direction of travel.
+
+Trolley Travel: Palm up, fingers closed, thumb pointing in the direction of motion, jerking hand horizontally.
+
+Stop: Arm extended, palm down, moving arm back and forth horizontally.
+
+Emergency Stop: Both arms extended, palms down, moving arms rapidly back and forth horizontally. The crane operator will drop whatever they are doing if they see this.

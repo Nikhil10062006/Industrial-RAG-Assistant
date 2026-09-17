@@ -1,0 +1,14 @@
+Understanding Refractory Bricks
+Steel melts at 1500°C. Carbon steel melts at 1450°C. The only thing stopping the liquid steel from melting the steel vessels holding it is the refractory brick lining.
+
+Alumina Bricks (Acidic): Used in ladles and torpedo cars. Good thermal shock resistance.
+
+Magnesia-Carbon Bricks (Basic): Used in the BOF and Ladle Furnace. Highly resistant to chemical attack from basic slags (high lime).
+Refractory wears out through three mechanisms:
+
+Chemical attack: The slag literally dissolves the brick.
+
+Thermal shock: Rapid heating and cooling causes the brick face to crack and spall off.
+
+Mechanical erosion: The physical washing action of flowing liquid steel scrubs the brick away.
+Your job is to look for "hot spots" on the steel shells using thermal cameras. A hot spot means the brick is gone.

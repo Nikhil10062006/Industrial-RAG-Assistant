@@ -1,0 +1,7 @@
+Symptom: Main drive tripped on DC-link overvoltage during rapid deceleration. The trip cleared on reset, but returned on the next narrow-strip coil.
+
+Finding: The braking resistor cooling fan had stopped because its auxiliary contact was intermittent. The drive reduced speed correctly, but the regenerated energy had nowhere to dissipate. The fan fault indication was not mapped to the operator screen, so the trip appeared to be a drive problem.
+
+Fix: Replaced the fan contactor, repaired the auxiliary wiring, and confirmed airflow through the resistor cabinet. We tested deceleration at the approved ramp with the maintenance engineer present. The DC link stayed within the normal band.
+
+Tribal knowledge: When overvoltage appears only during a stop, inspect the braking path before changing drive parameters. Narrow strip can cause more frequent speed corrections and expose a marginal brake circuit. Never bypass the fan interlock to keep production moving. Heat damage in the resistor cabinet is slow at first and expensive later. Capture the drive fault history before cycling power.

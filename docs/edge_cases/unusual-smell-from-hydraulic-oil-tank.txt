@@ -1,0 +1,9 @@
+Operators noticed a sharp burnt smell near a hydraulic power unit, but oil temperature was within the alarm band. The pump sounded normal and no leak was visible.
+
+Inspection found a loose electrical termination at a tank heater contactor. The terminal was heating under load and warming nearby oil vapor. The heater had not tripped because the current remained below the protection threshold.
+
+The unit was placed in the safe condition, electrical power was isolated, and the termination and contactor were replaced. Oil condition and tank temperature were checked before restart. A thermal scan was added to the quarterly inspection.
+
+Lesson: smell is an early signal, not a diagnosis. Burnt odor near a hydraulic unit can be electrical, oil, insulation, or bearing related. Stop and investigate from a safe position; do not open an energized cabinet just to locate the source.
+
+The unit was not cleared solely because the smell disappeared after isolation. Electrical terminations, heater insulation, oil condition, and tank temperature were checked before restart. The thermal scan route includes contactors and terminals that are not visible during a normal oil-level inspection.

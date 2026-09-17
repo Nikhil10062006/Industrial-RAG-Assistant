@@ -1,0 +1,4 @@
+Scenario: Liquid steel penetrating the copper continuous caster mold and contacting the primary cooling water jacket directly.
+A severe sticker breakout occurred on Strand 2. The liquid steel tore through the copper mold wall. Instead of just spilling into the secondary cooling chamber, it breached the high-pressure water jacket.
+Action Taken: The combination of 1500°C liquid steel and high-pressure water inside a confined mold jacket caused a violent steam explosion. It blew the 15-ton mold cover completely off the machine and shattered the tundish car rails. The emergency shutoff valves (ESV) on the water lines failed to close fast enough.
+Lesson Learned: We retrofitted the caster cooling circuit with explosive-actuated rupture discs on the water return headers. If the pressure spikes instantly due to a steam explosion, the discs blow and vent the steam safely to the outside of the building, preventing the mechanical destruction of the caster turret.

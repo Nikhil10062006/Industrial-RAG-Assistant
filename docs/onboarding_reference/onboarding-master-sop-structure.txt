@@ -1,0 +1,3 @@
+Understanding the Plant's Document Architecture
+Before creating different SOPs in the organization, a master SOP is to be written which should include among various other things the numbering system for SOPs, norms for the persons authorized to write and to approve SOPs, and the approval mechanism.
+An SOP should not be a very lengthy document, though it must include all the steps needed for the procedure. Elaborations if needed for any step are to be covered under a supplementary document usually known as work instructions. Furthermore, SOPs should not use long descriptive sentences; the sentences should be short, clear and to the point. Finally, remember SOPs are not the documents of permanent nature and will be modified.

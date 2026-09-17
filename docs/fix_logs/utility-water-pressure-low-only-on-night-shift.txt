@@ -1,0 +1,7 @@
+Symptom: Cooling-water pressure at the caster dropped below 4.0 bar(g) between 23:00 and 03:00, then recovered before the day shift. No pump fault was logged.
+
+Finding: Trend review showed the pressure drop matched automatic backwash of the common filtration skid. The backwash valve was opening fully, but the standby filter isolation valve was not fully open after a previous maintenance job. During backwash, available flow was too low for the caster and furnace users together.
+
+Fix: Corrected the valve line-up, tagged the normal positions, and tested both filters through a complete backwash cycle. We added a control-room alarm for low differential pressure across the standby filter and a night-shift checklist item.
+
+Veteran note: Time-of-day faults usually point to a sequence, not a pump. Compare the event trend with automatic cycles: backwash, tank level control, cooling-tower fan staging, and regeneration. Do not start a second pump until the hydraulic line-up is verified; parallel pumps can mask the restriction and create a later surge.

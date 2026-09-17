@@ -1,0 +1,7 @@
+At shift start, check the ladle schedule, tundish availability, mould size, powder lot, withdrawal plan, secondary-cooling pump status, and breakout-monitor health. Walk the mould platform and confirm the emergency stop, communication system, and escape route. Learn where the manual mould-level reference and local hydraulic gauges are located.
+
+During casting, keep your attention on trends. A single value matters less than a change in relationship: mould level hunting with stopper movement, speed rising while shell temperature falls, or cooling-water pressure falling as flow demand increases. Call the caster controller early. A small deviation is easier to correct than a late alarm.
+
+For a level alarm, first identify whether it is process movement, stopper response, or signal quality. For a breakout alarm, stop guessing from the banner color. Check companion signals and follow the approved response. Never walk toward a suspected breakout to get a better look.
+
+At heat change, report nozzle condition, powder behavior, mould-copper observations, manual interventions, and any alarm that cleared after a reset. The next technician needs the story of the heat, not just the final status. If you are unsure whether a condition is normal, ask before changing speed, argon, water, or stopper gain.

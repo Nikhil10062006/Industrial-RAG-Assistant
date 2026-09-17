@@ -1,0 +1,7 @@
+When a surface defect is found, capture the defect type, size, orientation, spacing, coil or slab location, process direction, and first occurrence. Photograph with scale and mark the material. Do not describe every line as a scratch; distinguish roll mark, scale, crack, dent, pit, inclusion, and stain where possible.
+
+Compare spacing with roll circumference, table pitch, guide spacing, weld length, and process timing. Check whether the defect follows one side, one stand, one strand, one nozzle, or one shift. The pattern often narrows the source before equipment is opened.
+
+Place affected material on hold and record the process window. Review roll changes, cooling, temperature, tension, chemistry, maintenance, and operator interventions. Avoid selecting a cause based only on the latest repair.
+
+A useful defect record lets maintenance reproduce the condition. Include equipment tag, speed, load, material grade, and any trend change. Good traceback protects both quality and production because it limits the hold to the real affected window.

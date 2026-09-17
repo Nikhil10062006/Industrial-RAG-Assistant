@@ -1,0 +1,9 @@
+Symptom: One strand segment showed a higher surface temperature and quality found transverse marks on one side. Total cooling-water flow was within the normal plant value.
+
+Finding: A branch isolation valve was partly closed after a nozzle replacement. The total flow remained normal because another branch was overfeeding, but the affected segment had low spray coverage.
+
+Fix: Compared each branch flow with the cooling map, restored the valve position, and cleaned two partially blocked nozzles. Thermal readings normalized over the next heat. Valve handles were marked with the normal position and the replacement checklist was updated.
+
+Tribal knowledge: Total water flow can lie. Caster cooling must be checked by zone and side. If a defect follows one strand side or one segment, compare local flow and spray pattern before changing the whole cooling recipe.
+
+The branch readings were entered in the caster log rather than recorded only as “water okay.” The next shift was asked to confirm the spray pattern after the first heat because scale can move when flow is restored. Cooling checks must include both the instrument value and what the strand actually sees.

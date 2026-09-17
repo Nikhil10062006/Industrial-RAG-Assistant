@@ -1,0 +1,9 @@
+Symptom: A low-voltage feeder breaker tripped during simultaneous starts of two large pumps. The breaker had carried each pump individually without issue.
+
+Finding: The instantaneous protection setting was too close to the combined inrush current after a motor replacement. The motor was correctly wired but had a higher starting current than the previous unit.
+
+Fix: Reviewed the coordination study, verified cable and motor ratings, and adjusted the protection only within the approved engineering setting. A soft-start sequence was added so the pumps did not start together. The breaker and termination temperatures were checked under load.
+
+Lesson: Do not increase a breaker setting because production wants a reset. Confirm motor data, starting method, cable capacity, and protection coordination. A nuisance trip may be warning that the system has lost its intended selectivity.
+
+The revised start sequence was tested with the actual replacement motor and normal downstream load. Protection settings were sealed and recorded after approval. Any future motor substitution must trigger a coordination review before energization, even if the nameplate power is the same.

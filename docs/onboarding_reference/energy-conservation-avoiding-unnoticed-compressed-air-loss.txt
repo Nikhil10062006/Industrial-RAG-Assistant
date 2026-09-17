@@ -1,0 +1,7 @@
+Compressed air is expensive and leaks often sound normal in a steel plant. During a round, listen at couplings, hoses, valve manifolds, instrument cabinets, and unused drops. Use an approved ultrasonic or leak-detection method where available, and never place a hand near a high-pressure jet.
+
+Tag leaks with location, pressure, estimated severity, and owner. Check whether a hose, open drain, failed trap, or regulator is consuming air continuously. A small leak near a compressor may be hidden by background noise but still run every hour.
+
+Do not lower header pressure to hide leaks if the process needs the pressure. Do not use compressed air to clean clothing, skin, floors, or electrical cabinets. Uncontrolled air can inject particles into eyes or create dust clouds.
+
+At shutdown or non-production periods, verify that non-essential users are isolated. Trend compressor load against production. A rise in air use with no production change is a useful maintenance signal. Energy savings are strongest when the leak source is repaired, not when the compressor setpoint is simply reduced.

@@ -1,0 +1,7 @@
+Before work starts, identify electrical, hydraulic, pneumatic, steam, gas, chemical, thermal, mechanical, gravity, tension, and vacuum energy. Stored energy can remain after the main supply is closed. Examples include accumulators, raised rolls, suspended ladles, compressed springs, trapped steam, and strip under tension.
+
+Isolation must include blocking, pinning, draining, venting, discharging, grounding, cooling, or restraining as appropriate. Prove the control by trying the start command and checking the designated gauge or test point. Never place a hand or body part into a space to prove that movement is absent.
+
+Consider adjacent equipment and automatic sequences. A neighboring stand, pump, crane, or valve can feed or move the work area. Group jobs require each person to apply a personal lock.
+
+At restoration, remove blocks only after the area is clear and the equipment is ready. Restore energy in a controlled sequence and watch for movement, pressure, heat, or leakage. Good isolation is a thought process before it is a lock.

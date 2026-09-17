@@ -1,0 +1,4 @@
+Problem: The 3000-ton hydraulic forging press was struggling to reach maximum tonnage, resulting in incomplete die fill.
+Root Cause: We referenced the Standard Operating Procedure for Hydraulic System Maintenance (SOP-821-038). Main system pressure was struggling to hold 280 bar. The shift fitter thought the main pumps were shot. I bypassed the pumps and checked the massive pre-fill valve on top of the main pressing cylinder. The pilot line controlling it had a microscopic leak. Because the pilot pressure was low, the pre-fill valve wasn't shifting fully closed during the pressing stroke, allowing high-pressure fluid to bleed back into the tank.
+Fix: Replaced the pilot line hose and the pre-fill valve spool seals.
+Pro-Tip: If a large press loses tonnage, check the pre-fill valve seating before condemning expensive main pumps.

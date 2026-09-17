@@ -1,0 +1,9 @@
+Symptom: Stand-gap response became slow during high-speed rolling. Pump pressure was normal, but the hydraulic pressure dipped sharply during rapid gap corrections.
+
+Finding: The accumulator precharge was low. The bladder had not failed completely, so the pressure test was recorded as “some pressure.” The system had lost the gas volume needed to absorb peak demand.
+
+Fix: Isolated and discharged the accumulator using the approved procedure, measured precharge with the correct kit, and restored the specified nitrogen charge. The gas side and shell were checked for leakage. Gap response returned to normal during a controlled trial.
+
+Senior note: Never use compressed air or oxygen for accumulator charging. A low precharge can look like a weak pump or sticky servo. Record the measured precharge, not just pass/fail. If the loss repeats, investigate the bladder, valve core, and temperature effect.
+
+The maintenance record now includes the accumulator serial number, precharge temperature, measured pressure, and next due date. If the pressure falls again, the bladder and gas valve will be investigated rather than repeatedly topping up. The hydraulic circuit was checked for pressure ripple under the same production condition.

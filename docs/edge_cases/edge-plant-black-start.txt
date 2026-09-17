@@ -1,0 +1,5 @@
+Scenario: Total loss of the external 220kV grid connection, plunging the entire integrated steel plant into a blackout.
+When the grid dies, all heavy rotating equipment trips. The immediate threat is water loss to the Blast Furnace and BOF cooling panels, which will melt down within minutes.
+Action Taken: The Captive Power Plant (CPP) automatically islanded, but load shedding was too slow, and the CPP tripped on under-frequency. We had to initiate a "Black Start." The diesel emergency generators at the pumphouses fired up automatically to maintain bare-minimum cooling water flow to the furnaces.
+Meanwhile, the shift engineers had to manually bleed the pressure off the coke ovens to atmosphere by lighting the emergency flare stacks, as the gas exhausters had stopped.
+Lesson Learned: A black start is a race against thermal meltdown. Do not attempt to save production. Your only goal in the first 30 minutes is establishing emergency cooling water flow and flaring off combustible gases to prevent explosions. Annual black start simulator training is non-negotiable for utility dispatchers.

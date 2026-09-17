@@ -1,0 +1,7 @@
+Process-gas sampling points may contain pressure, toxic gas, condensate, and hot surfaces. Sampling is performed only by trained personnel using the correct probe, tubing, cooling arrangement, and personal protective equipment. Do not improvise a bottle, hose, or fitting.
+
+Before opening the sample valve, confirm the point identity, pressure, temperature, sample route, vent path, and detector status. Stand out of the line of a possible jet. Crack the valve slowly and allow the line to purge through the approved system. Never sample into an unventilated room.
+
+If the sample line blocks, freezes, or spits condensate, close the valve and stop. Do not clear it by increasing pressure or striking the tubing. Use the designated drain and isolation procedure. Keep ignition sources away from flammable gas samples.
+
+Label the sample with point, time, process condition, and sampler. After sampling, close the valve, cap the point, and confirm no leak. A sample result without a trustworthy sample path is not useful process information and can create false confidence.

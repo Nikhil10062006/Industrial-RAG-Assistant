@@ -1,0 +1,7 @@
+When an upset begins, protect people and stabilize the process before searching for the perfect diagnosis. State the equipment, hazard, immediate action, and who is coordinating. Assign one person to operations, one to maintenance or instrumentation, and one to communication and records when the event is significant.
+
+Keep alarms and trends visible. Preserve the first event time, process state, and operator action. Avoid a crowd at the equipment. The first response should reduce exposure, isolate energy if required, and keep escape routes clear.
+
+Do not allow repeated resets without a reason. If the process is safe after a reset, define what evidence is needed before returning to normal production. Set a review point: after one heat, one coil, ten minutes, or another measurable condition.
+
+At handover, communicate the hazard, current state, open permit or isolation, temporary controls, and stop criteria. A supervisor’s calm, specific language prevents three people from making three different corrections. Production recovery comes after control and evidence.

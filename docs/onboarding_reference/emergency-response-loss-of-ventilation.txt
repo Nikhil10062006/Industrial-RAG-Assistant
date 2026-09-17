@@ -1,0 +1,7 @@
+Ventilation loss can create heat, gas, fume, dust, or oxygen-deficiency hazards even when process alarms remain normal. Stop non-essential work and move out of affected areas if the risk assessment requires. Do not enter a hot or gas-prone area to inspect a fan without authorization.
+
+Identify whether the problem is fan power, damper position, filter blockage, control signal, belt failure, or duct damage. Check local and remote indication together. A fan motor may run while the belt, impeller, or damper has failed.
+
+Suspend hot work, chemical transfer, gas sampling, and confined-space entry until ventilation is proven. Gas test where required. Do not open doors or start unapproved fans if that could move contaminants into occupied areas.
+
+After repair, verify airflow, direction, pressure, temperature, gas or dust readings, and alarm response. Record the duration and areas affected. Ventilation is a process barrier; its failure should be treated with the same seriousness as a failed pump or valve.

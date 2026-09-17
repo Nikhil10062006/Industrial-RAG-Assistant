@@ -1,0 +1,9 @@
+Two crane operators on the same radio channel heard a command to “move left” and one crane started to travel. The signalman intended the other crane. The operator stopped when the load alarm sounded; no collision occurred.
+
+The cause was identical crane call signs, poor location wording, and one signalman talking while another person repeated the command. The channel had no formal command structure in that bay.
+
+The area introduced unique call signs, mandatory location and direction in every movement command, and one designated signalman per crane. Operators must repeat critical commands before moving. A crane that receives an unclear or conflicting command remains stopped.
+
+Lesson: radio discipline is an engineering control for suspended loads. “Left” has no meaning without crane identity, bay, and travel direction. If two cranes share a channel, clarity must be designed, not expected.
+
+The revised call uses crane identifier, bay, direction, distance, and action, followed by read-back. Signalmen are not permitted to issue commands to both cranes at once. The incident was discussed with contractors because a new operator may not know which voices are authorized.

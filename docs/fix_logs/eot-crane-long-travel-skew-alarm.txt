@@ -1,0 +1,9 @@
+Symptom: The crane skewed slightly toward the north rail during long travel and tripped on anti-skew. Short travel was normal.
+
+Finding: One rail wheel flange had accumulated scale and the wheel alignment was marginal. The encoder difference increased only over long travel. The anti-skew system was working correctly.
+
+Fix: Parked and isolated the crane, cleaned the rail and wheel, measured wheel alignment, and corrected the drive-coupling setting. Long-travel testing was done unloaded before the crane was released for ladle service.
+
+Lesson: Do not defeat anti-skew because the crane moves straight for ten metres. Long travel reveals rail, wheel, and encoder differences. A crane carrying a suspended ladle must be stopped and investigated at the first repeat alarm.
+
+Rail gauge, wheel flange condition, brake release, and encoder counts were checked during the same inspection. The crane was released for light duty first and then tested without a load on the full route. Any repeat skew alarm now requires a planned inspection before ladle service.

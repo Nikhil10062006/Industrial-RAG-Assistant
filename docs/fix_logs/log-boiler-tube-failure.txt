@@ -1,0 +1,4 @@
+Problem: The Captive Power Plant boiler experienced a sudden tube rupture in the primary superheater, blowing steam into the firebox.
+Root Cause: Metallurgical analysis showed severe "creep" failure caused by long-term overheating. The soot-blowers in that zone had been broken for six months. Without soot blowing, thick insulating ash built up on adjacent water-wall tubes. Because the water-walls weren't absorbing heat, the flue gases hitting the superheater were 150°C hotter than design, cooking the tubes.
+Fix: Replaced the ruptured tube bundle and rebuilt the mechanical soot-blowers.
+Pro-Tip: Soot blowers aren't optional. If you don't clean the water walls, you will burn out the superheaters.

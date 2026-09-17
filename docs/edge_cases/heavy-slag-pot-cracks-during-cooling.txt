@@ -1,0 +1,7 @@
+A slag pot developed a crack near the side wall several hours after filling. The pot had passed the pre-use inspection and showed no leakage during transport.
+
+The pot was placed on an uneven cooling pad, creating a local restraint as the steel shell cooled. Residual moisture under the pad also produced steam and localized thermal stress. The crack opened after the pot was stationary, not during lifting.
+
+The area was isolated, the pot route was stopped, and the emergency response plan was followed. The pot was not moved until the responsible engineer confirmed the condition. Inspection found distortion and a heat-affected area near an earlier repair weld.
+
+Lesson: a safe-looking empty route does not make a cracked hot pot safe. Cooling surface, repair history, fill temperature, and time since pouring matter. Keep people away from the low side and never approach a suspect pot to check whether it is leaking.

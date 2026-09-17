@@ -1,0 +1,3 @@
+Scenario: Unexplained catastrophic failures of the power factor correction capacitors in the 11kV main substation. The capacitors were swelling up and exploding.
+Action Taken: We hooked up a power quality analyzer and saw massive Total Harmonic Distortion (THD) on the grid. The new 5MW Variable Frequency Drives (VFDs) on the Sinter Plant exhaust fans were generating massive 5th and 7th order electrical harmonics. The capacitors absorbed these high-frequency currents, overheated, and blew up.
+Lesson Learned: We installed active harmonic filters at the VFD switchgear to trap the distortion before it reached the main substation.

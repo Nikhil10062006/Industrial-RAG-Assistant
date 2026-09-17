@@ -1,0 +1,7 @@
+Use the designated channel for the area and identify yourself before giving the message. State the location, equipment tag if known, condition, and immediate need. “Stop crane C-12 at caster bay 2; ladle route obstructed by vehicle” is useful. “Stop everything” is not, unless there is an immediate broad danger.
+
+Repeat critical messages back. If the signalman says “hold,” the operator repeats “holding.” Use plain words for numbers: say “one five” for 15 when the channel is noisy. Do not rely on hand gestures from a distance when the radio works, and do not issue simultaneous movement commands to the same crane or vehicle.
+
+For gas, fire, injury, breakout, or unexpected movement, use the emergency call procedure first and then the radio. Give the alarm location and your safe position. Do not transmit personal medical details on an open channel beyond what responders need.
+
+Keep the radio charged, clean, and attached so it cannot fall into equipment. Report a failed battery or unclear channel before the job begins. A missed radio call is a plant hazard, not a minor communication inconvenience. If you did not hear a message clearly, say so and ask for a repeat.

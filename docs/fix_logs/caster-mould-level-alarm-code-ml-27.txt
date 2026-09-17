@@ -1,0 +1,7 @@
+Symptom: Mould level alarm ML-27 appeared twice during two heats. The automatic control went to manual, but the actual level seen through the inspection window remained steady. Operators assumed the level sensor was failing.
+
+Finding: The sensor cooling-air filter was dirty after a dusty tundish-cover repair. The air flow was low, and powder smoke occasionally obscured the radar path. The signal drop lasted less than two seconds, enough to trigger the alarm but not enough to show a visible level change.
+
+Fix: Cleaned the filter, checked the purge regulator at 4.5 bar(g), and wiped the sensor window during a planned gap. We verified the sensor against the manual dip reference and the backup signal. The alarm did not recur over six heats.
+
+Tribal knowledge: ML-27 looks like a dangerous breakout warning because it is grouped with level alarms, but a short signal-quality loss is common after cover work. The distinction is the companion tag. If signal quality drops with no stopper movement and no mould-level deviation, inspect purge air first. If stopper position is hunting or the level trend moves with it, treat it as a genuine control problem and reduce speed per the caster procedure.

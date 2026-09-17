@@ -1,0 +1,9 @@
+Symptom: Strip broke at the welded joint during entry to the first acid tank. The weld passed visual inspection and line tension was within the setup range.
+
+Finding: The weld crown was slightly high and caught the entry guide. The guide roll had a small ridge from previous damage. Together they created a local notch at line speed.
+
+Fix: The line was stopped and isolated. The guide roll was replaced, the weld was dressed to the approved profile, and the weld-end tracking sensor was checked. The next seam passed at reduced speed before returning to production speed.
+
+Lesson: A weld can be acceptable by itself and still fail against a damaged guide. When a break repeats at the same location, inspect the interface between the weld, guide, roll, and tension. Do not simply reduce tension; a loose strip can buckle and create a second hazard.
+
+The affected coil section was held for inspection and the break location was measured against the guide position. We also checked weld dressing records and guide-roll history. The line was returned to speed only after a second seam passed without edge contact or tension fluctuation.

@@ -1,0 +1,4 @@
+Scenario: Massive monsoonal downpour causing the Hot Strip Mill scale pit to overflow. The scale pit collects all the cooling water and iron oxide scale from the mill.
+During a 100-year rain event in 2021, the storm drains backed up into the flume system. The primary submersible pumps couldn't handle the volume, and water rose dangerously close to the main mill electrical basement.
+Action Taken: We deployed portable 100 HP diesel trash pumps to eject water directly out to the emergency retention pond. We deliberately bypassed the oil skimmers—the rising water was lifting the skimmer pontoons off their guide rails, threatening to jam the main outflow weirs.
+Lesson Learned: When the pit level hits +2.5 meters, abandon oil separation protocols and focus purely on bulk water removal to save the electrical basement. Ensure the diesel pumps have fresh fuel and batteries checked before the monsoon season starts in June.

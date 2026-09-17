@@ -1,0 +1,7 @@
+A contractor prepared to remove a flange on a gas-water heat exchanger using the blind list for a similar unit. The area operator noticed the equipment tag did not match and stopped the job before loosening bolts.
+
+The two exchangers had identical appearance and adjacent tag numbers. The contractor’s drawing revision was older than the current piping arrangement, and the permit review had been done in the office without a field walkdown.
+
+The job was re-planned using the current P&ID, field tags, positive isolation points, and gas test. The permit system was updated to require a photograph or field verification for critical blinds. The old drawing was removed from the contractor pack.
+
+Lesson: similar equipment is a hazard during isolation. Match the tag at the flange, drawing, blind, and permit. A confident person with the wrong list is more dangerous than a cautious person who asks.

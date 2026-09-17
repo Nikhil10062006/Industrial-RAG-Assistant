@@ -1,0 +1,10 @@
+Utility Dispatch - Shift Handover Protocol
+The utility desk controls the lifeblood of the plant: Steam, Power, and Gas. Your shift handover must be precise.
+Record these metrics in the logbook at 15 minutes to shift end:
+
+Gas Holder Levels: LD Gas holder must be > 40%. Coke Oven Gas holder > 60%. If levels are dropping, you must warn the reheat furnaces to curtail usage.
+
+Steam Header Pressure: Main header must be strictly at 40 bar. If it's 38 bar and dropping, ask the power plant to fire up the auxiliary boiler.
+
+Grid Import: Note the MW import from the state grid. If we are near our peak demand penalty threshold, prepare to shed non-essential loads like the raw material crushers.
+Talk to the outgoing dispatcher. Ask them specifically: "Are there any manual bypasses open right now?"

@@ -1,0 +1,4 @@
+Problem: The continuous caster mold oscillator table on Strand 4 was drawing excessive hydraulic pressure and the waveform was flattened at the bottom of the stroke.
+Root Cause: Servo valves tracked perfectly. The issue was mechanical binding in the leaf springs. Sintered flux powder and splashed steel had built up in the narrow gaps between the oscillator guide springs, restricting downward travel and forcing the cylinders to push against a solid block of debris.
+Fix: Stopped the strand and used heavy pneumatic chipping hammers to clear the solidified slag from the leaf spring cavities.
+Pro-Tip: If your oscillator waveform gets distorted, check for physical interference and slag buildup before touching software.

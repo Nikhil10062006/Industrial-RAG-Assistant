@@ -1,0 +1,9 @@
+The Role of the Utility Dispatch Desk
+The utility dispatcher is the conductor of the plant. They do not make steel; they provide the energy required to make it.
+Your three main responsibilities are:
+
+Gas Balance: You must balance the production of Blast Furnace Gas (BFG) and Coke Oven Gas (COG) with the consumption at the Reheat Furnaces and Power Plant. If holders get too high, you must flare gas (bad). If they get too low, you must cut production (worse).
+
+Steam Header Pressure: Maintain the 40-bar steam ring main. If a turbine trips, you must vent steam to the atmosphere immediately to prevent blowing the safety valves.
+
+Grid Demand: Monitor the MW drawn from the state grid. If we cross our contract limit, you must instantly shed load (shut down mills) to avoid massive financial penalties.

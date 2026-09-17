@@ -1,0 +1,7 @@
+A caster pit, sump, duct, or tank is a confined space when entry is restricted and the atmosphere may become unsafe. Entry requires a permit, named attendant, rescue plan, isolation certificate, and gas test. “The fan is running” is not a gas-free control.
+
+Before entry, isolate water, steam, hydraulic, electrical, gas, and mechanical sources that can discharge into the space. Drain and secure the system. Test oxygen, flammables, carbon monoxide, and any site-specific toxic gas at the top, middle, and bottom. Record the readings and test again after ventilation has run for the required time.
+
+The attendant remains outside, maintains communication, and tracks the entrant. The attendant must not enter to perform an improvised rescue. Use the retrieval line and approved rescue equipment where the risk assessment requires it. If communication is lost, the gas monitor alarms, the entrant feels unwell, or conditions change, order an immediate exit.
+
+Keep the permit visible and repeat tests at the stated frequency or continuously. Hot work inside the space needs additional controls and a separate gas-test regime. On completion, account for people, tools, hoses, and temporary blinds. Close the permit only after the area owner confirms the equipment is ready for return to service.

@@ -1,0 +1,7 @@
+Symptom: Strand drive tripped on high torque during wet weather. The drive reset after a few minutes, then tripped again near the discharge end. No pallet was visibly jammed.
+
+Finding: Rainwater had entered the return-fines transfer chute and made a heavy bridge above the discharge screen. The screen motor overloaded first, but the interlock did not stop the strand quickly enough. A pallet seal plate was also bent, increasing drag as it passed the wet fines.
+
+Fix: Stopped and isolated the strand, cleared the bridge with the approved method, replaced the bent seal plate, and cleaned the return-fines chute. The drive coupling and gearbox oil level were checked before restart. Torque stayed below the normal band through a full bed run.
+
+Veteran note: In monsoon conditions, do not keep resetting this trip. Check material moisture and the return-fines path before opening the drive guard. A wet bridge can break loose later and overload the screen or pull a person into the danger zone if someone is clearing it casually. The first high-torque trip is usually the warning; the second one is the damage.

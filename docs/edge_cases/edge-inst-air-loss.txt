@@ -1,0 +1,4 @@
+Scenario: Sudden, total loss of the instrument air network pressure across the entire plant due to a ruptured main header.
+Action Taken: Without instrument air, all pneumatic control valves fail to their mechanical safe positions. It is chaos. The BF bleeder valves fail open (loud roaring). The BOF oxygen valves fail closed. The caster spray cooling valves fail open.
+Our immediate priority was the gas network. We manually cross-tied the high-pressure nitrogen header into the instrument air ring main via the emergency manifold in Utility Station 3. This restored control pressure within 10 minutes.
+Lesson Learned: You must memorize the "fail-safe" state of critical valves in your area. Know exactly where the nitrogen cross-tie valves are located. During air loss, prioritize stabilizing furnace pressures manually using hand-wheels before worrying about production yields.

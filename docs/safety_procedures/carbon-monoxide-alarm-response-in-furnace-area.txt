@@ -1,0 +1,7 @@
+Treat every carbon-monoxide alarm as a potential exposure until the area is tested and released. Stop non-essential work, warn people nearby, and move crosswind or upwind to the muster point. Do not run into the area to retrieve tools or check a colleague unless trained and equipped for rescue. Carbon monoxide has no reliable smell and can incapacitate before a person understands what is happening.
+
+The area controller should identify the alarm tag, last known concentration, wind direction, and nearby work parties. Gas testing must be done by authorized personnel using a bump-tested instrument. Test at breathing height and in pits, trenches, platforms, and enclosed corners. The detector at the entrance does not clear a lower level.
+
+Isolate the suspected source from a safe location if the gas-control procedure permits it. Stop hot work and vehicle movement that could move people into the plume. Ventilation may be started only under the area plan; an incorrect fan direction can spread gas into a control room or refuge.
+
+Re-entry requires documented readings, continuous monitoring where specified, and clearance by the responsible authority. Anyone with headache, dizziness, nausea, confusion, or unusual tiredness must report to medical staff immediately, even if the reading later returns to normal. Record the alarm, readings, wind, isolation, exposure names, and corrective action. Never close the event as a “false alarm” solely because the detector later cleared.

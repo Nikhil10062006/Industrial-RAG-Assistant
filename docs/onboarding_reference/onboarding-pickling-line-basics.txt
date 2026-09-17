@@ -1,0 +1,5 @@
+Continuous Pickling Line - Junior Guide
+The pickling line removes the rough, black iron oxide scale from hot-rolled coils using hot Hydrochloric Acid (HCl).
+The Acid Baths: We have four rubber-lined tanks in sequence. Tank 1 is weak acid (spillover); Tank 4 is the strongest, freshest acid (usually 18% HCl at 85°C).
+Line Speed: The key to pickling is time-in-bath. If the line slows down due to a welder issue at the entry section, the strip sits in the acid longer. If it sits too long, the acid eats through the scale and starts pitting the base steel (over-pickling). If you must stop the line completely, you must lift the strip out of the acid baths using the pneumatic lifter rolls.
+Safety: HCl vapor is highly corrosive to human lungs. The fume exhaust scrubbers must be running at all times. If you smell a sharp, biting odor on the walkway, the scrubber draft has failed. Evacuate the section and call utilities.

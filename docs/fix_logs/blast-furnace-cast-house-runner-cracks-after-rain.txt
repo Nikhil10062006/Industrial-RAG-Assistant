@@ -1,0 +1,7 @@
+Symptom: A hairline crack appeared along the outer edge of the iron runner during the first cast after heavy rain. There was no immediate leakage, but the runner temperature was uneven.
+
+Finding: Rainwater had entered through a damaged temporary cover and chilled a patch of repair material. The surface looked dry before the cast, but the repair had not been dried through its thickness. Thermal expansion opened the weak boundary.
+
+Fix: The cast was controlled to the safe end point, the runner was isolated, and the damaged section was removed and rebuilt with the approved dry refractory. The cover and drainage were repaired. A preheat record was added to the cast-house checklist for repaired runners.
+
+Veteran note: A runner crack that stays dark may still be growing underneath. Watch for steam, a wet-looking line, or a local temperature change. Do not smear hot mud over a wet repair and call it fixed. In monsoon weather, inspect the roof, cover, drain, and refractory condition together.

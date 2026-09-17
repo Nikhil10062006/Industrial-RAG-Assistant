@@ -1,0 +1,11 @@
+Secondary Metallurgy - Introduction to the Ladle Furnace (LF)
+The primary BOF just melts scrap and blows out the carbon. The Ladle Furnace is where we actually make the precise steel grade. You are a chemist now.
+Your Main Tools:
+
+The Electrodes: We use three massive graphite electrodes to strike an arc and heat the steel.
+
+The Wire Feeders: We shoot cored wire (Calcium, Aluminum, Sulfur) into the deep bath at high speed to tweak the final chemistry.
+
+The Alloy Bins: We bulk-drop Manganese and Silicon.
+First Week Focus: Your primary job is understanding slag chemistry. If the slag is wrong, nothing else works. A good basic slag absorbs sulfur; a bad, acidic slag eats the ladle lining.
+Mandatory Resource: Before you are allowed to operate the wire feeders, you must complete the simulation modules in the Agentic AI based learning and development file. It covers the exact sequence of alloy additions. You cannot add Aluminum and Oxygen at the same time, or you will create an eruption. Learn it in the simulation first.

@@ -1,0 +1,2 @@
+Navigating the SCADA HMI as a Junior Operator
+When selecting a route for raw material conveyors, select the group in SCADA and follow the path as per the design chart. If the selected group icon is getting active, then we can select it and start the group or else check for the abnormality in the path selected. Check the alarms in the SCADA and equipment status for clarity. If there is any emergency or a pull chord is activated in the conveyor, ask the belt attendant about the problem. In the SCR page, select the exact fault location before dispatching an electrician.

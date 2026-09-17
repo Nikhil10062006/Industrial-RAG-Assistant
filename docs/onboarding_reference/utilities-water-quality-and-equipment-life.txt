@@ -1,0 +1,9 @@
+Cooling-water quality affects scale, corrosion, microbiological growth, heat transfer, and valve life. Learn the plant limits for conductivity, pH, hardness, suspended solids, biocide, corrosion inhibitor, and temperature. Do not add chemical based on appearance or smell.
+
+Check sampling points and sample handling. A sample from a stagnant branch may not represent the main header. Record time, flow condition, treatment state, and result. Compare with trend and make-up water quality.
+
+When heat exchangers foul, review chemistry, temperature, flow, and filtration together. Increasing pump pressure can damage tubes or hide a restriction. When corrosion appears, inspect oxygen ingress, chemical dosing, dead legs, and material compatibility.
+
+Operators should report changes in color, foam, odor, deposit, or filter loading. The water-treatment team needs equipment symptoms as well as laboratory numbers. Good water quality is a reliability control for furnaces, casters, mills, compressors, and power systems.
+
+When a water result is outside the band, operators should identify the affected users and immediate risk before making a chemical correction. Record the sample point, flow, treatment dose, and equipment symptoms together. Water quality trends become useful only when they are linked to fouling, corrosion, leaks, or heat-transfer performance.

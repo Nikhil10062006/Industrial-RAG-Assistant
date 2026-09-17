@@ -1,0 +1,7 @@
+Oxygen-enriched areas require stricter controls than ordinary gas-service areas because materials ignite more easily and burn more intensely. Keep oil, grease, contaminated gloves, rags, and non-approved tools away from oxygen valves, hoses, manifolds, and equipment. Do not use an oxygen hose for any other gas.
+
+Before maintenance, verify the line identity, isolation, depressurization, and gas-free or oxygen-clear condition according to the permit. Use oxygen-clean components and approved leak-detection methods. Never apply ordinary thread compound or lubricant to oxygen service unless it is explicitly approved.
+
+If an oxygen leak is suspected, stop ignition sources, keep people away, and notify the gas controller. Do not touch a leaking fitting with oily gloves or attempt a quick tightening while the line is pressurized. Ventilation must not direct enriched gas toward hot work, electrical arcing, or occupied areas.
+
+After repair, test the line, remove contamination, and restore the oxygen-clean status. Record the source, isolation, component replaced, test result, and clearance authority. Oxygen itself does not burn, but it turns small ignition sources into severe fires; treat a quiet leak seriously.

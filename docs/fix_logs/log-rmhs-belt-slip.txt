@@ -1,0 +1,4 @@
+Problem: The main incoming iron ore conveyor belt tripped on "Zero Speed Switch (ZSS)" indicating belt slip, but only during heavy monsoon rains.
+Root Cause: The drive pulley is coated with a diamond-pattern rubber lagging to grip the belt. Years of abrasive ore dust had worn the pattern completely smooth. During dry weather, there was enough friction. During the monsoon, the smooth rubber hydroplaned against the wet belt.
+Fix: We had the vulcanizing team cut the old lagging off in strips and cold-glue new ceramic-studded lagging pads onto the pulley face while installed.
+Pro-Tip: Check drive pulley lagging before the rainy season. If it's bald, it will slip.

@@ -1,0 +1,4 @@
+Problem: The Captive Power Plant auxiliary boiler repeatedly tripped on "Flame Failure" 5 seconds after the main gas valves opened.
+Root Cause: The boiler burns Coke Oven Gas (COG). The UV flame scanners were failing to see the main flame. The COG contained excessive amounts of raw coal tar vapor. When this tar-heavy gas burned, it created a highly luminous, yellow, sooty flame. The soot absorbed the UV light, blinding the UV scanners and causing the PLC to think the flame had gone out.
+Fix: Swapped the UV flame scanners for IR (Infrared) flicker scanners, which can "see" through heavy soot.
+Pro-Tip: UV scanners hate dirty, sooty flames. Use IR scanners for COG.

@@ -1,0 +1,3 @@
+Scenario: The Sinter Plant mix contained too much solid fuel, causing the bed temperature to exceed 1400°C instead of 1200°C.
+Action Taken: The iron ore melted into a solid glass-like slab rather than a porous cake. It slid down as a 50-ton glowing block, jamming the primary crusher and snapping the shaft in half. We had to shut down for 5 days to torch-cut it out.
+Lesson Learned: We installed automated continuous carbon analyzers on the feed belt. If the carbon ratio exceeds 5.5%, the main feed belt trips automatically before the rich mix can reach the ignition hood.

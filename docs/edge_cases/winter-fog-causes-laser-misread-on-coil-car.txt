@@ -1,0 +1,7 @@
+A laser distance sensor on a coil car intermittently reported the coil as oversized during an early-morning fog. The car position was correct, but the automatic approach stopped repeatedly.
+
+The sensor lens had condensation and the fog scattered the beam. Operators first adjusted the mechanical stop, which would have created a real alignment problem later. Instrument maintenance cleaned the lens, checked the heater, and compared the laser reading with a tape measurement from a safe location.
+
+The automatic mode was restored only after the signal quality and position agreed. A low-confidence indication was added to the operator screen. The sensor heater was placed on the seasonal inspection list.
+
+Lesson: environmental conditions can affect a measurement without changing the object. When a distance reading changes with humidity, fog, dust, or steam, inspect the optical path and signal quality before moving hard stops. Do not defeat the position permissive because the car appears visually aligned.

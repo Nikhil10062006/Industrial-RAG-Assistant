@@ -1,0 +1,6 @@
+Quick Reference: Melt Shop Teeming Crane
+Welcome to the hottest seat in the plant.
+Controls: Left joystick is bridge (forward/back) and trolley (left/right). Right joystick is main hoist (up/down) and auxiliary hoist.
+Load Cells: The load cell readout is on your overhead display. Always zero the tare weight when the hook is completely empty before picking up a ladle. A full ladle is ~300T. Empty is ~80T. If your empty hook reads 5T, your load cells are drifting and need calibration.
+Daily Checks: The secondary emergency brake test must be done at the start of your shift. Lift a test weight, engage the E-stop, and verify the caliper grabs the drum instantly. Log this in the red binder behind your seat.
+Communication: Radio channel 2 is for the caster deck. Channel 3 is for the BOF pulpit. Never move a ladle blindly based on a radio call; wait for the spotter's physical hand signal.

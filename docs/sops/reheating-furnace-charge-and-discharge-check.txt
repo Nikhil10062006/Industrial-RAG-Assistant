@@ -1,0 +1,7 @@
+Before charging slabs or billets, confirm the furnace zones are at the approved soak and discharge temperatures for the grade. Do not use the furnace pyrometer alone. Compare the fixed pyrometer with the calibrated handheld reference during the first inspection round, especially after maintenance or a thermocouple change.
+
+Check the charge table, walking-beam or pusher interlocks, skid cooling, and discharge roller table. Remove loose scale and scrap from the furnace mouth. One small piece of rail on the skid can lift a slab enough to touch a burner tile. Confirm the slab sequence against the rolling plan; a mixed-width sequence creates avoidable width changes and cobbles.
+
+Charge at the slow permissive speed until the slab is fully supported. Watch for skew at the first transfer. If the tracking sensor disagrees with the visual position, stop and resolve it before the next charge. For discharge, verify the slab has cleared the furnace before the table accelerates. Never jog a partly discharged slab with a person inside the marked exclusion zone.
+
+Record zone temperatures, furnace pressure, fuel pressure, oxygen reading, charge timing, and any door leakage. A slightly negative furnace pressure is preferred; a positive puff at the door is not “normal heat.” It means the pressure or flue path needs attention.

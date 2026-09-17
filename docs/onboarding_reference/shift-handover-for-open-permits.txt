@@ -1,0 +1,7 @@
+Open permits must be handed over face to face or through the approved control process. State the permit number, equipment, work scope, isolation status, gas-test result, people present, tools or blinds installed, and the condition required before work resumes.
+
+Do not assume the incoming shift accepts a permit because it appears on a screen. The incoming supervisor must understand the boundary and verify the field where required. If conditions changed, the permit must be suspended or revalidated.
+
+For confined spaces, record entrant and attendant status, last gas test, ventilation, rescue equipment, and next test time. For hot work, record fire-watch status and post-work watch period. For lifting, record load position, crane status, and exclusion zone.
+
+Close or transfer permits according to the site rule. Never leave a permit open because “the same job will continue tomorrow” without confirming the equipment remains isolated and the work party is known. Permit status is a safety control, not an administrative count.

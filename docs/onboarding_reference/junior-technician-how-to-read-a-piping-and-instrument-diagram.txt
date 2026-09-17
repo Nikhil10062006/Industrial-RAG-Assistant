@@ -1,0 +1,7 @@
+Start with the equipment tag and follow the line in both directions. Identify normal flow, isolation valves, check valves, drains, vents, relief devices, instruments, bypasses, and tie-ins to other systems. A line that looks isolated on one side may still be fed through a bypass or cross-connection.
+
+Compare the drawing revision with the field. Look for missing labels, changed valve orientation, temporary hoses, blinds, and equipment that has been relocated. If the field and drawing disagree, stop the job and ask the area engineer or permit issuer to resolve it.
+
+For a troubleshooting task, mark the upstream source, downstream destination, pressure boundary, and possible trapped volume. For a gas or steam job, identify low points and vent locations. For water, identify backflow and elevated sections. For chemicals, identify drain destination and containment.
+
+Do not treat a diagram as a substitute for field verification. It is a map of intended configuration, not proof of current valve position. Mark up abnormalities through the approved change process so the next person does not inherit the same uncertainty.

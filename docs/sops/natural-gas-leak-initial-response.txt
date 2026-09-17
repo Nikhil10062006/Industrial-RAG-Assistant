@@ -1,0 +1,7 @@
+If a fixed detector, smell report, or hissing sound suggests a gas leak, stop hot work and ignition sources in the area. Do not operate a non-rated electrical switch nearby. Raise the alarm from a safe location and inform the gas control room with the exact plant area, wind direction, and whether people are exposed.
+
+Approach only from upwind and only with the approved portable detector. Do not search alone. The first reading should be taken at breathing height, then near suspected flanges or valve stems if the area remains safe. A zero reading at the floor does not clear a trench or pit; gas layering depends on the gas and ventilation.
+
+Isolate the nearest safe upstream and downstream valves if the procedure and access permit it. Do not shut a valve blindly if that action could interrupt a furnace safety system or create a pressure surge. Establish a cordon and keep vehicles out. Ventilation fans may be used only if they are approved for the zone and will not spread gas toward occupied areas.
+
+Treat any detector alarm as real until a competent gas tester proves otherwise. After repair, test the area continuously and then repeat the test after the line is re-pressurized. Document the source, detector readings, valve numbers, wind, isolation time, repair, and clearance authority. “Smell gone” is not a gas-free certificate.

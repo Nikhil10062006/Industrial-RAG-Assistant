@@ -1,0 +1,7 @@
+Before restart, confirm the job is complete, people and tools are clear, guards and covers are installed, temporary supports and blinds are addressed, drains and vents are closed or in their planned state, and the permit or isolation has been properly released.
+
+Verify lubrication, cooling, hydraulic pressure, electrical supply, instrument air, sensor feedback, valve position, and material identity. Review the maintenance record for changed settings, replaced parts, bypasses, or test conditions. Do not assume a new component has the old calibration or direction.
+
+Start in the safest mode: unloaded, low speed, low pressure, or manual where the procedure requires. Watch the first movement and compare local and control-room indications. Stop for rubbing, unexpected current, pressure spikes, leaks, vibration, or a sequence that differs from the expected one.
+
+Record the restart time, first readings, alarms, trial duration, and person accepting the equipment. A restart is a test of the repair and the restoration process. “Started” is not the same as “returned to service.”

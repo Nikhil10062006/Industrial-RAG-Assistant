@@ -1,0 +1,2 @@
+Routine zero and span calibration of the Blast Furnace Top Gas NDIR analyzers.
+Isolate the analyzer from the process gas line. Flow high-purity Nitrogen (99.99%) through the measuring cell at 1 L/min. Wait 3 minutes, then press "Zero" on the HMI. Next, switch the valve to the certified Span Gas cylinder (typically 25% CO, 20% CO2). Allow it to flow for 3 minutes. If the analyzer reads 24.5% CO, press "Span" to adjust the calibration curve to exactly match the cylinder's 25% certificate. Never use expired span gas.

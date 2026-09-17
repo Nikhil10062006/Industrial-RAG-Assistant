@@ -1,0 +1,4 @@
+Scenario: A high-speed bar cobble in the Wire Rod Mill directly striking the main operator pulpit.
+We were rolling 12mm rebar at 20 meters per second. The entry roller guide on Stand 14 shattered. The leading edge of the red-hot bar missed the roll bite, shot vertically out of the mill stand, and speared directly toward the glass window of the elevated operator pulpit.
+Action Taken: The bar struck the pulpit window violently. Thankfully, the window was made of 40mm thick bullet-resistant Lexan laminated glass, installed specifically for this edge case. The glass spider-webbed completely but held. The bar piled up into a massive glowing bird's nest on the mill floor.
+Lesson Learned: Standard tempered safety glass is useless in high-speed rolling mills. Never bypass or prop open the blast shields on the pulpit windows. We subsequently redesigned the entry guide boxes on Stand 14 with a heavier cast-steel body to prevent shattering under impact.

@@ -1,0 +1,4 @@
+Scenario: A torrential monsoon downpour flooded the open raw material stockpiles, causing the moisture content of the sinter feed mix to spike from 7% to 15%.
+Action Taken: When this mud-like mix hit the sinter strand, the ignition burners couldn't light it. Worse, the excess water destroyed the bed permeability. The main exhaust fan pulled a massive vacuum (180 mbar) but drew absolutely zero air through the bed. The sinter reaction died completely.
+We had to execute an emergency stop. We slashed the strand speed to minimum and dumped an extra 20% coke breeze into the mix hopper to provide enough thermal energy to boil off the water. We also manually opened the exhaust fan dilution dampers to lower the vacuum and prevent the fan from stalling aerodynamically.
+Lesson Learned: During monsoon season, do not wait for lab moisture results. If the exhaust fan vacuum spikes suddenly and bed temperatures drop, assume a wet mix and slow the machine down instantly.

@@ -1,0 +1,7 @@
+A useful handover lets the next shift start safely without finding your missing information by trial and error. Write the equipment tag, defect, current condition, isolation status, parts fitted, temporary measures, readings before and after, and what still needs to be checked. Include photographs or sketches in the approved system when useful.
+
+Do not write “repaired” if the equipment was only reset. Write “alarm cleared after reset; root cause not confirmed; monitor next three heats.” If a valve was left cracked open, record the percentage or handwheel position and why. If a bypass is installed, identify the exact loop, authorization, start time, and removal condition.
+
+For rotating equipment, record vibration at the same point and speed. For hydraulics, record pressure and oil temperature. For electrical work, record the isolation number and test result. For instruments, record calibration reference and as-found/as-left values.
+
+The handover should also state what would make you stop the equipment again. This is the difference between information and a warning. A senior fitter may remember the detail, but a new technician may not. Write for the person who has not seen the fault before.

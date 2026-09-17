@@ -1,0 +1,7 @@
+When an alarm appears, first protect people. Stop the job or equipment if there is immediate danger, move to a safe position, and raise the call. Then identify the equipment, alarm text, time, and process state. Do not acknowledge a banner and walk away without checking whether the field condition is still present.
+
+Second, separate stop-now alarms from investigate-now alarms using the approved alarm philosophy. Gas, fire, breakout, overspeed, loss of cooling, and unexpected movement are never routine. A signal-quality alarm may be less urgent, but it can hide a dangerous process condition, so confirm with an independent indication.
+
+Third, preserve evidence. Save the trend, note the sequence of alarms, and ask what changed immediately before the first one. Check local gauges only from a safe place. Never open a guard, cabinet, valve pit, or vessel to investigate without the right isolation and permit.
+
+Finally, communicate in facts: “Caster mould level signal quality fell for three seconds during powder addition; manual level steady; purge pressure 3.1 bar(g).” Avoid conclusions such as “sensor bad” until the test supports them. At handover, state what was checked, what was not checked, and what condition requires a stop.

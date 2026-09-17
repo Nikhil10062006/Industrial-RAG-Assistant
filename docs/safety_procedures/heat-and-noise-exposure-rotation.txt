@@ -1,0 +1,7 @@
+Exposure controls should be planned before the shift, not improvised after workers become tired. Identify high-heat, high-noise, vibration, and dust zones on the job plan. Use engineering controls first, then work-rest rotation, distance, shielding, and PPE as specified.
+
+Supervisors must ensure rotations do not move a worker from one exposure into another unrecognized exposure. A person leaving the furnace front may still need hearing protection at the mill and chemical protection at the treatment plant. Hydration and cool-down breaks are part of the work method.
+
+Hearing protection must fit the noise source and be worn before entering the marked zone. If communication becomes difficult, use the approved radio or visual system rather than removing protection near running equipment. Report ringing ears, numbness, unusual fatigue, or heat symptoms early.
+
+Record abnormal weather, production changes, failed ventilation, and extended exposure. A short job can exceed the limit if it is repeated many times. Rotation is not a substitute for repairing a failed fan, enclosure, or noise barrier.

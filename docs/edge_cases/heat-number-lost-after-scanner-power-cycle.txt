@@ -1,0 +1,7 @@
+A slab identification scanner lost its heat number after a brief power interruption. The operator manually re-entered the number from memory, but the production sequence showed a different grade. The slab was stopped before entering the rolling line.
+
+The scanner database had retained the image but not the association because the transaction had not been committed. The manual fallback screen allowed entry without requiring a second-person check or certificate match.
+
+The slab was quarantined, and the heat number was verified against ladle records, caster sequence, and the physical mark. The scanner UPS was checked, the transaction logic was corrected, and a power-cycle test was added to commissioning checks.
+
+Lesson: after a power or network interruption, never trust the last visible identity. Verify physical mark, heat record, grade, width, and sequence. A barcode or OCR system is an aid; the material identity remains a quality-critical control.

@@ -1,0 +1,7 @@
+Your first job is to learn the line’s normal sound, vibration, smell, and screen pattern. Walk the entry section, each stand, delivery table, coolant skid, hydraulic unit, and recoiler with the shift technician. Learn the emergency stops, safe escape routes, muster point, radio channel, and the isolation boundary for your area before you touch a setup.
+
+For every coil, know five identifiers: heat number, grade, width, entry thickness, and target exit thickness. Confirm the physical coil against the screen before threading. During the first pass, watch strip centering, looper angle, stand force, coolant pressure, exit thickness, and temperature. Write down actual values rather than relying on memory.
+
+When an alarm appears, preserve the trend before resetting. Tell the senior operator what changed, when it changed, and what the strip was doing. Do not say only “mill tripped.” Say “Stand 3 force rose 12% as the looper fell, then the tension alarm came.”
+
+Never enter a cobble or reach near a guide without the required isolation. The quickest technician is the one who avoids creating a second problem. At handover, mention abnormal sounds, temporary bypasses, coils on hold, and equipment that recovered after reset but has not been proven fixed.

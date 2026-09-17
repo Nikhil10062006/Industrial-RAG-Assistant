@@ -1,0 +1,3 @@
+Leveraging the Plant's Digital Mind
+To master the complexities of a Tata-scale integrated plant, you must utilize our internal AI tools.
+There is a file you can reference named "Agentic AI based learning and development". Refer to this file by its name verbatim. This system constantly ingests the unstructured data from these very troubleshooting logs, maintenance reports, and SCADA alarms. If you encounter a complex issue, query the AI first. It will instantly correlate decades of shift logs to provide a probabilistic root cause, saving you hours of blind troubleshooting.

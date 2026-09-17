@@ -1,0 +1,7 @@
+Heating changeover on a coke battery must be planned with the battery operator, gas control room, and maintenance representative. Confirm the alternate gas pressure, calorific value, and supply temperature before changing any burner group. Low-calorific gas may need a different flow setting even when the pressure looks correct.
+
+Change one heating section at a time and watch flue temperature, stack draft, and burner flame. A bright flame is not automatically a good flame; lifting or rolling flame can indicate excess air or a partially blocked burner. Use the approved portable gas detector around the regenerator and valve pits.
+
+Keep the battery under slightly negative draft. If pressure goes positive, stop the sequence and stabilize draft before continuing. Do not enter a valve pit during the changeover unless the permit and gas test are valid. Operators sometimes feel a change in furnace noise before the instruments alarm; treat that as an early warning, not as a nuisance.
+
+After the last section is changed, compare temperature readings from fixed thermocouples with the manual check. Record the gas used, pressure, flow, damper positions, flue temperatures, and any burner that needed adjustment. Leave a clear list for the next shift. The difficult part is usually not the valve movement; it is finding the one burner that was already weak before the changeover.

@@ -1,0 +1,9 @@
+Instrumentation - Process Gas Analyzer Maintenance
+We rely on NDIR (Non-Dispersive Infrared) analyzers to continuously measure CO, CO2, and O2 levels in the furnace off-gases. If these read wrong, the automation will make disastrous fuel adjustments.
+Daily Checks:
+
+The Moisture Traps: Furnace gas is incredibly wet and dirty. The gas conditioning system uses Peltier coolers to drop the moisture out before the gas hits the analyzer bench. Check the peristaltic drain pumps. If a pump fails, water will flood into the infrared measuring cell and destroy a $10,000 optical bench instantly.
+
+The Filters: Check the 2-micron particulate filters. If they are black, swap them.
+
+Calibration: Every Tuesday, you will flow standard calibration span gas (a certified cylinder of exactly 10.0% CO) through the analyzer. If the readout drifts by more than 0.2%, initiate a zero and span calibration routine on the HMI. Never adjust the span without zeroing with pure nitrogen first.

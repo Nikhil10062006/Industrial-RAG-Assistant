@@ -1,0 +1,7 @@
+A quality hold protects the customer and the plant while facts are checked. Place material on hold when identity, grade, dimension, surface, temperature history, process deviation, or inspection result is uncertain. Do not move or relabel held material without authorization.
+
+Record the heat or coil number, physical location, quantity, reason for hold, process window, and person who placed it. Attach clear tags and update the system. “Check later” is not a disposition. If the material was made during an alarm or equipment upset, capture the start and end time of the affected window.
+
+Release requires the designated quality authority and evidence such as retest, visual inspection, dimensional check, or record review. Production urgency does not replace disposition. If identity is uncertain, treat the material as unidentified until the traceability chain is rebuilt.
+
+New technicians should ask before moving a hold. A coil can be physically in the correct bay and still be under a digital hold. Good traceability depends on matching the screen, tag, barcode, physical mark, and paperwork.

@@ -1,0 +1,7 @@
+A calibration certificate must identify the instrument, serial number, range, reference standard, environmental conditions, as-found result, adjustment, as-left result, uncertainty or tolerance, date, and authorized person. A sticker alone is not a calibration record.
+
+Check whether the reference standard is in date and suitable for the range. A pressure calibrator that is accurate at low pressure may not be suitable for a high-range transmitter. Confirm the instrument was isolated safely and the process connection was restored without leaks.
+
+Review as-found results because they show drift and may affect previous product or safety decisions. If the instrument was outside tolerance, identify the last known good check and notify the responsible process or quality owner.
+
+Do not adjust a sensor simply to match a questionable field reading. First verify the reference, impulse line, installation, and process condition. Calibration proves response to a reference; it does not prove the sensor is installed in the right place.

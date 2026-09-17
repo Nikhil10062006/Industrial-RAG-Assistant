@@ -1,0 +1,10 @@
+BOF Flux Addition Cheat Sheet
+Fluxes are added to the molten iron in the BOF to create slag, which absorbs impurities like sulfur and phosphorus.
+The Main Players:
+
+Calcined Lime (CaO): The primary flux. Highly reactive. Usually add between 4 to 6 tons per heat.
+
+Dolomitic Lime (MgO): Added to protect the furnace refractory lining from being eaten by the slag. Usually 1 to 2 tons per heat.
+Rules of Thumb:
+If the hot metal silicon is high (>0.6%), you will need more lime to neutralize the acidic silica formed during the blow.
+Watch the hopper weights. If the lime hopper takes longer than 30 seconds to discharge 1 ton, the bin is likely bridged. Tap the side of the bin with a sledgehammer or activate the bin vibrators. Never blow oxygen without a proper flux charge, or you will destroy the vessel lining in one heat.

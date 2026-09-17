@@ -1,0 +1,7 @@
+Before starting a pickling bath, confirm acid concentration, bath temperature, circulation, level, fume extraction, spray headers, tank condition, and emergency shower availability. Check that the strip path is clear and the correct grade has been selected. Chemical PPE must be inspected before opening any cover.
+
+Start extraction and circulation before heating. Add acid only through the approved transfer route and never pour water into concentrated acid. If dilution is required, follow the chemical procedure and maintain control of the addition rate and temperature.
+
+Thread the strip at low speed with the line interlocks tested. Watch strip centering, tension, bath level, spray pressure, and fume behavior. If fumes increase suddenly, stop feeding strip and check extraction, cover position, bath temperature, and chemical concentration from a safe location.
+
+Record bath analysis, temperature, inhibitor status, level, pump pressure, and first-strip appearance. A clean strip is not proof of correct chemistry if the bath is attacking the base metal. Any splash, leak, or unexpected color change must be reported before production continues.

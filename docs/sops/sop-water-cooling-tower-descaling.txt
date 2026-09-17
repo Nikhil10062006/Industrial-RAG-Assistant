@@ -1,0 +1,2 @@
+Chemical descaling of the primary cooling tower heat exchangers.
+Isolate the heat exchanger from the main cooling loop. Hook up the portable chemical CIP skid using a 10% inhibited sulfamic acid solution. The inhibitor prevents the acid from eating the titanium tubes while dissolving the scale. Circulate the acid solution from bottom to top. Monitor the pH of the circulating tank; keep adding fresh acid to maintain pH around 2.0. When pH stops rising, the scale is dissolved. Flush heavily with fresh water until discharge pH is 7.0.

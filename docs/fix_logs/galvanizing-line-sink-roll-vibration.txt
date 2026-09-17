@@ -1,0 +1,9 @@
+Symptom: Surface marks increased and the sink-roll vibration alarm appeared above a certain line speed. Pot temperature and strip tension were steady.
+
+Finding: Zinc dross had accumulated unevenly on the roll. The roll bearing was healthy, but the unbalanced deposit produced a once-per-revolution vibration. The operator initially suspected a damaged bearing because the vibration was near the bearing housing.
+
+Fix: The line was brought to the approved safe condition and the roll was inspected during the planned maintenance window. Dross was removed using the approved method, and the roll surface was checked for scoring. Vibration reduced to the normal band.
+
+Veteran note: If vibration follows speed and has a repeating surface mark, check roll buildup and balance before condemning the bearing. Do not scrape a hot zinc roll with an improvised tool. Pot work requires its own exclusion and heat controls.
+
+The roll history was reviewed for bath additions, line stops, and previous skimming. Vibration was measured at the same sensor point before and after cleaning. If the defect returns with a shorter interval, the roll balance, bearing clearance, and dross-generation cause will be reviewed together.

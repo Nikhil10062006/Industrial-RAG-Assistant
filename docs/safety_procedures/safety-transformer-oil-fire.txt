@@ -1,0 +1,5 @@
+Response protocol for a fire involving a 33kV/11kV Main Step-Down Transformer. These massive units contain over 15,000 liters of highly flammable mineral oil used for cooling and insulation.
+If a transformer suffers a catastrophic internal fault, the tank will rupture, igniting the oil.
+Action 1: Ensure the primary 33kV feed is tripped. The automated deluge (water spray) system should activate automatically.
+Action 2: If the deluge fails, do NOT approach the yard with standard water hoses. A solid stream of water will sink beneath the burning oil, boil instantly, and create a massive fireball (slop-over).
+Action 3: The plant fire brigade must deploy High-Expansion Foam monitors. Ground personnel must evacuate outside the blast wall radius. Never enter the bunded containment wall area during an active fire, as boiling oil can surge over the lip without warning.

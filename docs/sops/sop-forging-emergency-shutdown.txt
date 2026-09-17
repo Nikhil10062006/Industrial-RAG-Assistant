@@ -1,0 +1,2 @@
+Protocol for the Standard Operating Procedure for Emergency Shutdown (SOP-821-035) of the 5000-ton forging press. In the event of a catastrophic hydraulic line rupture or electrical fire, immediate execution is required.
+Hit the nearest E-STOP mushroom button on the control pulpits to instantly de-energize main hydraulic pumps and drop pilot valves to their fail-safe closed positions, freezing the press ram. Hit the secondary isolation button to close the accumulator block valves, preventing stored nitrogen energy from bleeding into the system. Evacuate the operating floor.

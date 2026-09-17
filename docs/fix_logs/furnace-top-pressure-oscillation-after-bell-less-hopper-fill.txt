@@ -1,0 +1,7 @@
+Symptom: Top pressure oscillated between 1.3 and 1.8 bar(g) after a hopper fill. The pressure-control valve moved continuously, and the operator suspected a faulty transmitter.
+
+Finding: The transmitter agreed with the local gauge. The control valve position feedback was also correct. Inspection found wet burden fines packed around the material-level probe sleeve. The probe signal jumped as the material settled, causing the fill sequence to pulse the pressure-control response.
+
+Fix: Paused the fill sequence, isolated the probe for inspection, cleaned the sleeve, and checked the purge gas. Purge pressure was low because a small regulator filter was blocked. After cleaning and restoring purge pressure, the level signal became stable and the top-pressure loop settled.
+
+Operator note: If pressure oscillation begins exactly with a hopper fill and the valve position follows the same rhythm, inspect the fill and level signals before replacing the pressure transmitter. Do not retune the loop to hide a mechanical signal problem. Wet burden during rain can make this repeat even after the probe is cleaned, so check stockhouse screening and moisture as well.

@@ -1,0 +1,15 @@
+Navigating the Pipe Networks: Color Codes
+Opening the wrong valve can kill you or shut down the plant. Memorize the pipe color banding.
+
+Yellow: Combustible Gas (Coke Oven Gas, Blast Furnace Gas). High toxicity and explosion risk.
+
+Blue: Oxygen. Extremely reactive. No oil or grease allowed nearby.
+
+Green: Water. (Dark Green = Raw River Water, Light Green = Demineralized Water).
+
+Silver/Aluminum: High-Pressure Steam. Extremely hot. A pinhole leak is invisible and will cut you like a knife.
+
+Brown: Flammable Liquids (Fuel Oil, Hydraulic Oil).
+
+Black: Nitrogen or Argon (Inert gases). Asphyxiation hazard in confined spaces.
+If a pipe's paint is burned off or illegible, do not touch the valve. Trace the line back to a known origin or check the P&ID schematics before acting.

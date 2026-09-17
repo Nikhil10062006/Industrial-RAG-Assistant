@@ -1,0 +1,9 @@
+A coil was tight on one side and loose on the other after recoiling. Mandrel pressure and expansion command were normal.
+
+The hydraulic expansion cylinder was healthy. One mandrel segment had a worn guide and did not travel fully, leaving a smaller radius on the drive side. The position sensor reported average cylinder travel and did not detect the individual segment problem.
+
+The coil was placed on hold, the mandrel was isolated and inspected, and the worn guide was replaced. A mechanical pattern check was added to the mandrel inspection, not just a pressure check.
+
+Lesson: average position feedback can hide uneven mechanical movement. If coil telescoping follows one side, inspect mandrel segments, keys, guides, and chocks before changing tension. A good pressure number does not guarantee a good coil shape.
+
+The mandrel was cycled without strip after repair, and each segment position was checked against the mechanical reference. A trial coil was inspected for tightness, telescoping, and edge damage before full production. The defect record now requires the affected side and segment number where known.

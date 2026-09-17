@@ -1,0 +1,9 @@
+A repeating line defect appeared on slabs only when the transfer table was used after a long idle period. The caster strand surface was clean and the defect pitch matched one table roll circumference.
+
+The transfer roll had accumulated a hard scale ridge while cooling water was off. The ridge contacted the slab during the first transfers. Normal operation later wore the ridge down, which explained why the defect disappeared.
+
+The roll was inspected during the next gap, cleaned, and checked for damage. A slow dry rotation check was added after long idle periods. Quality was notified to hold slabs made during the affected window.
+
+Lesson: recurring pitch is a useful clue. Measure the defect spacing and compare it with roll circumference, not only with caster or mould length. A defect that disappears after several pieces may still have affected the first pieces.
+
+The affected slabs were traced to the exact idle-period window and held for quality review. The roll surface was checked again after the first hot transfer. A dry rotation check is now required after long cooling-water outages because the first piece can carry the defect before normal water flow returns.

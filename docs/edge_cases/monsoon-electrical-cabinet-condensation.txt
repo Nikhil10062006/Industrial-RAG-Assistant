@@ -1,0 +1,9 @@
+A drive cabinet in the finishing mill produced intermittent low-voltage and communication faults after a night of high humidity. The cabinet heater was energized, but the bottom gland plate was not sealed.
+
+Moist air entered as the cabinet cooled, then condensed on the lower terminals. The cabinet temperature was above the dew point during the day, so the fault disappeared before maintenance arrived.
+
+The drive was isolated, inspected, dried using the approved method, and tested for insulation resistance. Cable glands were resealed and the heater thermostat was checked. A humidity indicator was added to the cabinet inspection route.
+
+Lesson: intermittent communication faults after rain or shutdown can be condensation, not software. Look at cabinet seals, heaters, filters, bottom entries, and temperature swings. Do not keep resetting a damp cabinet; arcing and corrosion may develop after the visible fault clears.
+
+The cabinet was monitored through another humid shutdown before release from the action list. The gland plate was resealed without blocking the required drain or ventilation path. Maintenance recorded insulation resistance before energizing and checked for corrosion on nearby terminals.

@@ -1,0 +1,7 @@
+Loss of instrument air can move valves to fail positions, stop control loops, and affect gas, steam, cooling, and furnace systems. When pressure falls, identify which processes are affected and follow the area-specific safe-state procedure. Do not open manual bypasses without coordination.
+
+Check compressor status, receiver pressure, dryer condition, main isolation, major leaks, and header pressure from safe locations. Preserve the sequence of pressure decline and valve responses. A compressor restart may restore pressure while a large leak remains.
+
+Production equipment may need controlled reduction or shutdown. Confirm fail positions in the field where safe. Do not assume a valve that appears closed is tight or that a screen position reflects actual movement when air is low.
+
+At handover, list isolated users, manual controls, temporary air hoses, and equipment not yet proven. Instrument air recovery is complete only when pressure, dew point, compressor redundancy, and field valve response are stable.

@@ -1,0 +1,7 @@
+A stove valve function test is planned with the blast-furnace controller because valve movement can affect blast stability. Confirm which stove is on blast, which is on gas, and which is being tested. Do not test a valve when a changeover is in progress unless the controller has stopped the sequence.
+
+Check local position indicators against the DCS indication. Move the valve through the approved partial-stroke or full-stroke test and watch hydraulic pressure, travel time, limit-switch feedback, and any leakage. A valve can show open on the screen while its local shaft has stopped short because the feedback switch has shifted.
+
+If travel is slow, stop and investigate oil pressure, actuator leakage, guide condition, and obstruction. Do not repeatedly cycle a valve that is sticking. Repeated cycling can damage the actuator and make a safe position unavailable.
+
+After testing, return the valve to its planned position and obtain positive confirmation from the control room. Record valve number, travel time, start and end positions, actuator pressure, and defects. During winter or after rain, check for water in the hydraulic cabinet; a small amount can freeze or corrode the valve-control components later.

@@ -1,0 +1,7 @@
+Critical barriers include guards, interlocks, gas detectors, fire systems, cooling flow, emergency stops, relief devices, communication, exclusion zones, and permits. Verify the barriers required for the day’s work rather than checking a generic list without looking.
+
+Ask what happens if each barrier fails. If a furnace cooling flow switch is bypassed, what compensating control exists? If a crane alarm is defective, how is travel controlled? If a detector is out for calibration, what temporary gas-testing arrangement is in place?
+
+Record the equipment, barrier condition, test or observation, defect, temporary control, owner, and due date. Escalate missing or defeated barriers that affect safe operation. Do not accept “it has always been bypassed” as a control description.
+
+Barrier checks are strongest when done in the field with operators and maintainers. A green status on a screen is one item of evidence, not the entire barrier. Review repeated defects for design or maintenance action.

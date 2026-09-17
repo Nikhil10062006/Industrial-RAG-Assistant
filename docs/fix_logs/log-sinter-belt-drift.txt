@@ -1,0 +1,4 @@
+Problem: Sinter plant main feed conveyor (Belt 4) repeatedly tripping on "Belt Drift Left" alarm at the tail pulley end.
+Root Cause: Shift electrician kept resetting the drift switch, assuming it was a faulty sensor due to the high dust environment. Belt kept tripping 5 minutes later. I walked down to the tail end. The switch was fine. The issue was wet, sticky sinter mix building up heavily on the return idlers near the tension drum. This buildup created a false crown on the idler, forcing the belt to track hard left and genuinely hit the drift wand.
+Fix: Locked out the conveyor. Took a heavy steel pipe and whacked the return idlers to knock off the caked material. Hosed down the tail pulley area. Re-tracked the belt using the snub pulley adjustment bolts.
+Pro-Tip: Never blindly reset drift switches from the pulpit. If a belt drifts, 90% of the time there is physical carryback buildup on the rollers. Go look at it.

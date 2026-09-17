@@ -1,0 +1,18 @@
+Quick Reference: Essential Plant Acronyms
+Welcome to the plant. You will hear these terms constantly. Learn them.
+
+BOF (Basic Oxygen Furnace): Where we turn iron into steel by blowing oxygen.
+
+BF (Blast Furnace): The massive tower that turns iron ore into liquid iron.
+
+HSM (Hot Strip Mill): The rolling mill that flattens thick steel slabs into thin coils.
+
+TCM (Tandem Cold Mill): Rolls pickled steel at room temperature to make it ultra-thin and strong.
+
+VFD (Variable Frequency Drive): The electronic box that controls the speed of AC motors.
+
+LOTO (Lockout/Tagout): The safety procedure of locking off power before touching machinery.
+
+HMI (Human Machine Interface): The computer screens the operators use in the pulpits.
+
+PLC (Programmable Logic Controller): The industrial computer making the automated decisions.

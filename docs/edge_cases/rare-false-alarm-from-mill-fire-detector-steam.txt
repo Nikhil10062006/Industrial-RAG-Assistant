@@ -1,0 +1,7 @@
+A mill fire detector alarmed near the coolant return trench immediately after a hot-water flushing operation. No smoke or flame was present, and the alarm cleared when ventilation increased.
+
+Steam from the flush had reached the detector through a low ceiling void. The detector was functioning correctly but was installed too close to a known vapor path. The area had a history of nuisance alarms during cleaning, but the pattern was not recorded.
+
+The alarm was treated as real until the field check confirmed no fire. The detector was repositioned, cleaning work was added to the alarm log, and a temporary fire watch was required during future flushing.
+
+Lesson: a nuisance alarm still requires response. Once the cause is verified, fix the exposure rather than teaching operators to ignore the detector. Heat, steam, dust, and aerosols can all affect fire detection, but none should be assumed harmless without a field check.

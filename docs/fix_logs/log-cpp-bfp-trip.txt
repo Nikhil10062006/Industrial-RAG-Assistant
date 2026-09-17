@@ -1,0 +1,4 @@
+Problem: Captive Power Plant Boiler Feed Pump (BFP) A tripped on "High Axial Displacement" (rotor shifted > 0.8mm).
+Root Cause: The mechanical team assumed the thrust bearing was wiped and started prepping for a massive pump overhaul. I checked the balance drum leak-off line temperature. It was 160°C (normally around 110°C). This indicated that the internal balancing drum—which naturally counteracts the axial thrust of the impellers—was severely worn and allowing hot high-pressure water to blow right past it. The thrust bearing was fine; it was just overwhelmed by the hydraulic imbalance.
+Fix: Overhauling the bearing wouldn't have solved it. We had to pull the entire pump cartridge and replace the balancing drum and sleeve.
+Pro-Tip: Before tearing down a high-pressure multi-stage pump for a thrust trip, always check the leak-off line temperature. A hot leak-off means the balancing drum is shot, which is the real root cause of the thrust issue.

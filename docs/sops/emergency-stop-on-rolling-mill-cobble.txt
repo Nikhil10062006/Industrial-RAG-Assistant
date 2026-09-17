@@ -1,0 +1,7 @@
+When strip folds, wraps a roll, exits off-centre, or enters a guarded area incorrectly, use the nearest emergency stop or the defined cobble stop. Do not wait for the automatic sequence if people or equipment are at immediate risk. The first person seeing the unsafe condition has authority to stop the line.
+
+After the stop, announce “mill stopped” on the agreed channel and confirm zero line motion locally. Do not enter the cobble zone because the drive display says zero; coast-down, stored hydraulic pressure, and a strip under tension can still move. Apply the required isolation before removing material.
+
+The pulpit operator should preserve the fault screen, strip speed, stand forces, tension, guide position, and alarm sequence. Do not reset everything immediately. Those values are often lost after a full control restart. The mechanic and electrician must agree which energy sources are isolated before cutting or pulling strip.
+
+For a minor cobble, remove loose strip with approved tools from behind the guard. For a wrapped roll or damaged stand, stop and escalate to the shift manager. After clearing, inspect rolls, guides, guards, coolant lines, and sensors. Thread at low speed and verify the original cause is gone. “It ran after reset” is not a root-cause statement.

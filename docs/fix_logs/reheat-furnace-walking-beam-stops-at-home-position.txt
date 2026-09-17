@@ -1,0 +1,9 @@
+Symptom: The walking beam completed its forward stroke but stopped before the return stroke. Hydraulic pressure was normal and the drive motor did not overload.
+
+Finding: The home-position proximity target was covered with scale. The switch changed state late and the sequence logic timed out. The mechanical beam position was correct; the control system did not know it.
+
+Fix: Isolated the mechanism, cleaned and realigned the target, checked cable protection, and tested the switch at slow jog and production speed. We also checked the adjacent switch because both had the same exposure to scale.
+
+Lesson: Position faults without overload often mean feedback, not mechanics. Confirm actual position locally before forcing a movement. A sensor that works on the bench can fail in service if the target is too close to hot scale or vibration.
+
+The sequence was not returned to automatic until the beam completed several slow cycles and one empty production cycle. We checked that the switch cable was protected from radiant heat and that the target had not loosened. Position feedback should be checked after refractory or scale work near the mechanism.

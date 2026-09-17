@@ -1,0 +1,7 @@
+A fixed oxygen-deficiency monitor alarmed near a waste-gas valve pit while a portable instrument at the access point showed normal oxygen. The area was treated as unsafe, and entry was stopped. The alarm later cleared after a heavy rain shower.
+
+The monitor sample tube had a loose fitting and was drawing air from the damp pit through a small leak in the tubing. Condensation in the tube further delayed the reading. The portable detector was correct for the access point but had not been lowered to the pit level.
+
+Maintenance replaced the tube and fitting, drained the sample system, and performed a response test at the pit level. The gas test procedure was updated to require sampling at the lowest point before clearance. The fixed alarm remained in service; it was not disabled because the cause was understood.
+
+Lesson: a false alarm still reveals a weakness. Treat the alarm as real first, then verify the sensor, sample line, and sampling location. In pits, oxygen can be different from the air above. Never use a single access-point reading to clear a low area. The rain connection was a clue, not proof that the monitor was wrong.

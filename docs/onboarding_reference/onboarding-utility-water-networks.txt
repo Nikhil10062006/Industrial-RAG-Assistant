@@ -1,0 +1,8 @@
+Understanding Plant Water Networks
+If you open the wrong valve, you can cause millions in damage. Know your water types.
+
+Raw River Water: Brown, untreated. Used purely for bulk cooling in the blast furnace shell sprays. Never use it in heat exchangers; it will fill them with mud.
+
+Soft Water: Filtered and treated to remove calcium/magnesium. Used in secondary closed-loop cooling. If it leaks, you will see a white chalky residue.
+
+DM Water (Demineralized): Extremely pure, ultra-expensive water with zero conductivity. Used exclusively for high-voltage systems (like the BOF transformer cooling) and Caster mold jackets. If you accidentally top up a DM tank with Soft water, you will induce a short circuit in the electrical systems cooled by it. Look for the Blue/White banded pipes.

@@ -1,0 +1,11 @@
+Coke By-Products (CBP) - Junior Operator Guide
+Welcome to the chemical side of the steel plant. When we bake coal to make coke, we generate raw Coke Oven Gas (COG). This gas is full of valuable (but toxic) chemicals that we must strip out before burning the gas.
+Your Main Circuits:
+
+Primary Coolers: Cool the gas down from 80°C to 30°C to condense out the heavy coal tar.
+
+Exhausters: The massive centrifugal fans that pull the gas from the ovens and push it through the rest of the plant. If an exhauster trips, the battery pressurizes, and doors will blow.
+
+Ammonia Scrubbers: We wash the gas with water/acid to remove ammonia.
+Mandatory Reading: The chemical reactions in this plant can be volatile if parameters drift. For a deep dive into the chemical reactions and process safety interlocks, load up the Agentic AI based learning and development file on your terminal. It is required reading for your first week.
+Golden Rule: Never ignore a liquid level alarm in the CBP tanks. Overflowing tar or benzol onto the ground is an immediate EPA reportable incident.

@@ -1,0 +1,7 @@
+Furnace leakage wastes fuel and exposes people to heat, flame, and combustion products. During rounds, look for glowing gaps, flame roll-out, positive pressure puffs, damaged seals, and unusual shell temperature. Do not stand directly in front of a door or peep sight to inspect it.
+
+Compare furnace pressure, oxygen, fuel flow, and zone temperature with the normal condition. A door that leaks may also upset combustion and distort pyrometer readings. Report the exact door, side, time, and process state.
+
+Repairs require the approved temperature, access, and isolation controls. Do not patch a hot door with unapproved material or adjust dampers blindly. A small positive-pressure event can spread hot gas and sparks into a work area.
+
+Record before-and-after fuel flow and pressure where available. Energy work is not separate from safety; a sealed furnace is usually more stable and less hazardous. If a leak appears only during charging or discharging, inspect the sequence and pressure response rather than only the refractory.

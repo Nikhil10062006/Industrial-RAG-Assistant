@@ -1,0 +1,9 @@
+Steel Scrap Grading - What Goes in the Furnace
+The BOF uses about 20% solid steel scrap to cool the violent reaction of the molten iron. Not all scrap is equal.
+
+Heavy Melting Scrap (HMS): Thick, heavy plates and beams. Melts slowly, provides deep cooling. Excellent quality.
+
+Shredded Scrap: Chopped up old cars. Melts very quickly. High risk of containing hidden tramp elements like copper, which ruins the strength of our new steel.
+
+Bushings/Turnings: Light, fluffy curls of steel from machine shops. Usually covered in cutting oil. If you drop this into the furnace, the oil instantly flashes into a massive fireball.
+Always inspect the scrap bucket before signaling the crane to charge it. If you see sealed pipes, shock absorbers, or heavy oil, reject the bucket.

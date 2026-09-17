@@ -1,0 +1,10 @@
+Extreme hazard awareness for moisture in molten metal handling areas (Melt Shop, Cast House). Water expanding into steam increases its volume by a factor of 1600 instantly. When 1500°C liquid steel traps water, the resulting volumetric explosion is catastrophic.
+Absolute Rules:
+
+Never charge scrap into the BOF if it has visible ice or trapped water in closed pipes (like old shock absorbers).
+
+During the monsoon, all ladles, tundishes, and scrap chutes must be pre-heated to drive out atmospheric moisture from the refractory pores.
+
+If you spill a water bottle on the cast house deck, you must wipe it completely dry immediately. A single puddle of water trapped under a spilled splash of hot iron will blow the iron straight upward like shrapnel.
+
+Check the cooling water hoses on the oxygen lances. If you see a pinhole leak dripping onto the vessel lip, abort the blow immediately.

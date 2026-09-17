@@ -1,0 +1,7 @@
+Understanding Air-Operated Control Valves
+Almost every control valve in the plant runs on instrument air. You must understand how they fail.
+
+Fail Open (Air-to-Close): A mechanical spring pulls the valve wide open. It requires air pressure to push it closed. Used for cooling water—if we lose plant air, we want the water to flood the furnace.
+
+Fail Closed (Air-to-Open): A spring pushes the valve closed. It requires air pressure to open it. Used for oxygen and natural gas lines—if we lose air, we want the fuel to shut off immediately to prevent an explosion.
+Look at the actuator tag for "FC" or "FO". Never bypass a valve using a manual handwheel without knowing its fail-safe state.

@@ -1,0 +1,7 @@
+A good preventive-maintenance task comes from a repeatable failure mechanism, not from the sentence “inspect equipment.” Start with the failure: blocked filter, loose terminal, low accumulator precharge, cracked hose, worn guide, or bad sensor alignment.
+
+Define what to inspect, how to measure it, the acceptable band, the tool required, the equipment state, and the action if the result is outside the band. “Check vibration” is weak. “Measure at drive-side bearing at operating speed and compare with the trend limit” is usable.
+
+Set the interval based on condition, failure history, exposure, and consequence. Include seasonal work for rain, heat, dust, or cold. Assign an owner and require a record that can be trended. If a task produces only pass/fail with no value, it may not reveal degradation early.
+
+Review the task after the next failure. Preventive maintenance should evolve from evidence. A veteran’s note such as “check the hose when the chute turns left” should become a position-based inspection or a better support design.

@@ -1,0 +1,11 @@
+Coke Oven Battery - Visual Inspection Guide
+Your job walking the battery roof and alleys is to spot degradation before it causes a failure.
+Door Leaks: We grade door leaks from 1 to 5.
+
+Grade 1: Wisps of yellow smoke. (Normal, log it).
+
+Grade 3: Heavy smoke, some flame. (Requires door frame cleaning on the next push).
+
+Grade 5: Rolling black smoke and roaring flames. (Critical hazard, report immediately, oven needs to be taken off main).
+Buckstays: Look at the massive vertical steel beams (buckstays) holding the battery together. If you see them bowing outward, the silica bricks are expanding uncontrollably.
+Tie-Rods: Check the springs on top of the tie-rods. They should be compressed to the marked indicator groove. If a spring is loose, the battery is losing tension. Grab a spanner and tighten the nut to the mark.

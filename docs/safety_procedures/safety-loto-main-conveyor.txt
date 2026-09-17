@@ -1,0 +1,8 @@
+Zero Energy State Lockout-Tagout (LOTO) procedure for gravity-tensioned incline conveyors (e.g., Sinter Plant feed belts).
+Locking out the electrical motor at the MCC is only the first step. Incline conveyors possess massive stored potential energy. Even with the motor dead, a loaded belt can run backward under the weight of the material if the mechanical anti-rollback backstop fails.
+Before stepping onto the belt or reaching into the tail pulley, you must neutralize the mechanical energy.
+
+The gravity take-up (counterweight) must be physically pinned or supported. If the belt snaps while you are working on it, a 5-ton counterweight will free-fall, whipping the belt violently. Insert the heavy steel support beams under the counterweight box.
+
+Apply chain-blocks to physically chain the main drive pulley to the structural steel framework to prevent freewheeling.
+Only when electrical power is locked, the counterweight is blocked, and the pulley is chained can the permit be issued to the vulcanizing team to repair a torn belt.

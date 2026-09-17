@@ -1,0 +1,14 @@
+Plant Water Pumping Station - Basics for Freshers
+The steel plant uses millions of liters of water an hour. Your job at the pump station is keeping the pressure headers stable.
+Pump Start Sequence (Centrifugal Pumps):
+
+Check the lube oil level on the bearing sight glass.
+
+Ensure the suction valve is 100% OPEN. (Never start a pump with a closed suction valve; it will cavitate and destroy the impeller in minutes).
+
+Ensure the discharge valve is 100% CLOSED. (Starting against a closed discharge valve minimizes the electrical starting current spike on the motor).
+
+Start the motor. Watch the amp meter peak and drop.
+
+Slowly crack open the discharge valve over 30 seconds until you hit the main header pressure setpoint (usually 4.5 bar).
+Vibration: Put your hand on the motor casing (safely). You will learn what a "happy" pump feels like. If it feels like a bucket of gravel is inside it, the bearings are failing, or the pump is cavitating. Shut it down and swap to the standby.

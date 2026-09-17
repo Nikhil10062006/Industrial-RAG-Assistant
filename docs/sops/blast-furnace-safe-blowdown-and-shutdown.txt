@@ -1,0 +1,7 @@
+For a planned shutdown, reduce blast and fuel in steps; never close the hot-blast main suddenly unless the emergency procedure says so. Confirm the cast schedule first. The last cast must leave the hearth at the level agreed by the furnace controller, because an early stop can strand iron and create a difficult restart.
+
+Reduce oxygen enrichment before reducing blast. Isolate PCI or oil injection and verify the lance valves show closed locally, not only on the DCS graphic. Keep cooling water running through tuyeres, staves, and the bosh circuit for the full hold period. The water system is still removing heat after the furnace looks quiet.
+
+Route furnace gas to the approved flare or recovery path. Test the bleeder area with the fixed carbon-monoxide monitors and a portable instrument before anyone approaches. A rising CO reading at the cast-house floor can come from a leaking bustle pipe, not from the furnace top, so do not assume the source from the first alarm.
+
+When pressure is down, lock the relevant valves and tag the top equipment. Drain condensate from gas lines at designated low points. Record the final stock-line position, burden mix, hearth temperature trend, and any abnormal tuyere. The next shift needs facts, not “shut down okay.”

@@ -1,0 +1,9 @@
+Blast Furnace Stave Cooling - Junior Guide
+The blast furnace is lined with copper and cast iron cooling panels called staves. If they lose water, they melt in minutes, and the furnace shell burns through.
+Normal Parameters: The cooling water enters at roughly 35°C and exits at 40°C. A normal delta-T is 3 to 5 degrees Celsius.
+What to look for:
+
+Delta-T > 10°C: The stave is absorbing too much heat. The burden inside might be channeling gas up the walls. Report it to the blower immediately.
+
+Delta-Flow Drop: If flow drops but supply pressure is normal, the stave pipe might be scaling up inside, or boiling (vapor lock) has occurred.
+Valve Locations: The supply headers are on the ring balcony at elevation +15m. Do not throttle any valve without direct orders from the shift foreman.

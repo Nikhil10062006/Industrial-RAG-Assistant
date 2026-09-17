@@ -1,0 +1,7 @@
+A brief plant power dip occurred while the ladle turret was rotating between caster positions. The drive stopped, but the hydraulic brake did not fully engage because the accumulator pressure fell below its healthy band. The turret remained between positions with a loaded ladle.
+
+The operator did not attempt repeated rotation commands. The area was cleared, crane movement was stopped, and the caster emergency plan was activated. Maintenance checked accumulator pressure from the safe panel and used the approved manual brake and recovery procedure. The ladle was secured before any attempt to move the turret.
+
+Investigation found the power dip itself was within the protection system’s ride-through expectation. The problem was a weak accumulator bladder that had not been identified because the monthly pressure check was recorded as “okay” without a measured value.
+
+Lesson: record numbers, not conclusions. After a power disturbance, do not reset motion equipment until brake status, load position, and stored hydraulic energy are confirmed. A turret that is between stations is not just a control fault; it is a suspended-load event. The recovery sequence must be followed even if the screen later shows a normal position.

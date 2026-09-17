@@ -1,0 +1,11 @@
+Basic Instrument Air Network Map
+Instrument air is clean, dried air used purely for pneumatics and control valves. Plant air is dirty, wet air used for tools and blowing. Never mix them.
+The Ring Main: The instrument air network runs in a complete circle around the plant. This means if a pipe breaks in one area, you can isolate it, and air will flow backwards around the ring to feed the units.
+Priority Consumers: If compressor capacity drops, we shed load.
+
+Priority 1 (Never cut): Blast Furnace, BOF lances, Caster cooling.
+
+Priority 2 (Cut if desperate): Rolling mill pneumatic guides, Sinter plant dump valves.
+
+Priority 3 (Cut first): Maintenance shop air (even if they complain).
+The dew point must remain below -40°C. If the air dryers fail, water gets into the valves, and everything will rust from the inside out within a week.

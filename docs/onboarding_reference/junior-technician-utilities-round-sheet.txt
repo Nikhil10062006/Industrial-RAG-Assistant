@@ -1,0 +1,7 @@
+A useful utilities round is a comparison exercise, not a walk past running machines. Record pump status, suction and discharge pressure, motor current, bearing temperature, vibration, tank level, valve position, and any abnormal sound. Compare with the previous round and with the normal band for that equipment.
+
+For water systems, check leaks, strainers, cooling-tower basin level, chemical dosing, and auto-drains. For steam, look at traps, insulation, pressure-reducing stations, and condensate return. For compressed air, check dew point, receiver pressure, compressor load state, and oil carryover. For power, check cabinet temperature, smell, noise, and breaker status from a safe position.
+
+Do not open guards, cabinets, or pressurized equipment during a routine round. Report a change with the tag and reading. “Pump noisy” is less useful than “P-204 bearing sound increased after standby changeover; vibration 5.2 to 7.1 mm/s.”
+
+Escalate leaks, hot bearings, repeated trips, low tank levels, and abnormal electrical smell immediately. Utilities often fail slowly and affect many production areas at once.

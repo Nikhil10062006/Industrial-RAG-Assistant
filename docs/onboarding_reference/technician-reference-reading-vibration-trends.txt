@@ -1,0 +1,7 @@
+Vibration numbers are meaningful only with location, direction, speed, load, sensor type, and trend. Record the same measurement point each time. A drive-end horizontal reading cannot be compared directly with a non-drive-end vertical reading.
+
+Look for changes in overall level, frequency pattern, phase, and relation to speed or load. Imbalance often follows running speed; looseness may produce harmonics; misalignment can change with coupling temperature; rubbing may appear only at certain speeds. These are clues, not automatic diagnoses.
+
+Check process conditions before declaring a machine fault. A pump can vibrate because suction is restricted, a fan because material has built up, or a roll because it is not seated. Inspect mounting, guards, bolts, bearings, lubrication, and coupling from a safe state.
+
+Do not ignore a brief high reading or dismiss it as sensor noise without checking the trend and sensor mounting. Record what changed after the machine was loaded, unloaded, warmed, or isolated. Good vibration history helps maintenance act before a bearing becomes a breakdown.

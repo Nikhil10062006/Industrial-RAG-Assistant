@@ -1,0 +1,9 @@
+Symptom: Furnace dew point rose gradually during a product run, followed by surface discoloration. Protective-gas flow was normal and the analyzer had no fault code.
+
+Finding: Cooling-water leakage from an inspection-door seal was allowing moisture into the furnace vestibule. The door looked closed, but the seal had hardened and the drain path was blocked.
+
+Fix: Reduced line speed according to the process plan, inspected the vestibule, cleared the drain, and replaced the seal. Analyzer calibration and sample-line integrity were checked separately. Dew point returned to the accepted band before quality released the line.
+
+Lesson: A normal gas flow does not mean a dry furnace. Check water leaks, seals, air ingress, sample lines, and purge balance. If dew point rises slowly with no gas-flow change, look for moisture entering the system rather than immediately increasing gas flow.
+
+The transition coil was held until surface condition and dew point were both acceptable. Door-seal inspection was added to the start-up round after any water-side maintenance. Operators were reminded that increasing protective gas may dilute the symptom without removing the moisture source.

@@ -1,0 +1,9 @@
+Hydraulic Systems - The Importance of Cleanliness
+In a steel plant, dust is everywhere. But inside a hydraulic system, dust is a killer.
+We use two types of valves:
+
+Directional Valves: Simple open/close. They can handle a little dirt.
+
+Proportional / Servo Valves: Used in the Rolling Mill AGC and Caster oscillators. These valves modulate fluid with tolerances of 3 microns (a human hair is 70 microns).
+If you open a hydraulic tank to top off the oil, and a breeze blows a pinch of sinter dust into the tank, you will jam a $10,000 servo valve by the end of the shift.
+Rules: Never top off oil using an open bucket. Always use a dedicated, sealed transfer pump cart with an inline 5-micron filter. Check the differential pressure pop-up indicators on the main filter housings daily. If the little red button is popped up, the filter is clogged and oil is bypassing it raw. Do not push the button back down and walk away. Change the filter element immediately.

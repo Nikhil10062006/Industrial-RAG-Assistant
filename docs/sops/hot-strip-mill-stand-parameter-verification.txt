@@ -1,0 +1,7 @@
+Before rolling the first coil, the pulpit technician and mill mechanic must compare the setup sheet with the actual stand values. Check work-roll diameter, backup-roll identification, roll gap zero, roll bending pressure, coolant header pressure, speed reference, and entry/exit thickness gauges. Do not accept a green status symbol as proof that the roll gap is calibrated.
+
+Run the zeroing sequence with the mill empty and confirm the stand force returns to the expected unloaded value. If the force baseline has shifted after a roll change, stop. A bad zero can produce a clean-looking coil with a thickness error that is discovered only at the finishing end.
+
+Verify strip-centering guides and side guides are aligned to the pass schedule. For the first strip, keep threading speed low until the head has passed all stands. Watch the looper angle and strip tension rather than only the speed display. A looper that moves smoothly but sits at its mechanical limit is already telling you the setup is wrong.
+
+During the first three coils, record actual exit thickness, crown, temperature, stand force, and coolant pressure. If the strip wanders, do not immediately adjust all stands. Hold the last stable stand, check guide position, then make one controlled change. Senior operators call this “one hand on the problem”; changing five parameters at once removes the evidence.

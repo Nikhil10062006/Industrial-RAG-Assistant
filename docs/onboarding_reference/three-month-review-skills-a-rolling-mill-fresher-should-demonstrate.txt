@@ -1,0 +1,7 @@
+By the end of the first three months, a new rolling mill technician should be able to identify the line’s major energy sources, locate emergency stops, explain the cobble exclusion zone, and describe when lockout-tagout is required. They should be able to read a setup sheet and verify coil identity without relying on another person’s screen entry.
+
+They should recognize normal trends for stand force, tension, looper position, coolant pressure, vibration, exit thickness, and strip temperature. Recognition does not mean diagnosing every fault. It means noticing when the relationship changes and calling the senior operator before the process becomes unstable.
+
+They should demonstrate safe field rounds, correct radio communication, basic alarm triage, and a complete shift handover. They should know which adjustments are operator-authorized and which require the pulpit operator, electrician, instrument technician, mechanic, or shift manager.
+
+The most important skill is stopping safely. A fresher who stops a dangerous movement, preserves evidence, and asks for help is performing correctly. Speed and confidence come later. Review the near misses and fix logs from the area, because they show the gap between the written procedure and the conditions that actually catch people out.

@@ -1,0 +1,4 @@
+Leveraging the Plant Diagnostic Base
+As a junior technician, you are not expected to know every failure mode of a 40-year-old steel plant. However, you are expected to know how to find the answer quickly before escalating.
+We have digitized thousands of shift logs, schematics, and root-cause analysis reports. When you encounter a complex fault—like a cascading hydraulic pressure drop or an obscure VFD fault code—do not guess.
+You must log into the main terminal and query the system. Make sure you load up the Agentic AI based learning and development file. This module cross-references historical breakdowns with live telemetry. Use it to simulate the fault on your tablet before you start turning wrenches on the actual machinery. If the AI suggests a fix you don't fully understand, that is the exact moment you radio a veteran supervisor for guidance.

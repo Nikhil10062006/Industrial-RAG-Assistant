@@ -1,0 +1,7 @@
+A newly patched ladle lining spalled during preheat and small pieces fell into the bottom. The patch had passed the visual inspection and the burner flame was normal.
+
+The repair compound had not reached the required dry-out schedule because the ladle was needed earlier than planned. A rapid heat-up drove moisture and binder gases through the patch. The outer surface looked dry, which led the team to continue.
+
+Preheating was stopped, the ladle was isolated and cooled according to the refractory instruction, and the patch was removed and rebuilt. The dry-out curve was added to the ladle status board, including actual hold temperatures and times. The ladle was not released based only on the final surface appearance.
+
+Lesson: refractory history matters. Ask when the patch was made, how it was dried, whether rain or wash water entered, and whether the burner profile was followed. A patch that spalls into the ladle can damage the slide gate, contaminate steel, or create a flow restriction.
