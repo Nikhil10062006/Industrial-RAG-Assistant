@@ -19,10 +19,6 @@ from langchain_nvidia_ai_endpoints.embeddings import NVIDIAEmbeddings
 load_dotenv()
 nvidia_api_key = os.getenv("NVIDIA_API_KEY")
 
-
-# ---------------------------------------------------------------------------
-# Retry helper — used for every LLM call in this module
-# ---------------------------------------------------------------------------
 def invoke_with_retry(llm, prompt, max_retries: int = 5, base_wait: int = 5):
     """
     Calls llm.invoke(prompt) with exponential backoff retry.
@@ -41,10 +37,6 @@ def invoke_with_retry(llm, prompt, max_retries: int = 5, base_wait: int = 5):
             else:
                 raise
 
-
-# ---------------------------------------------------------------------------
-# Embedding
-# ---------------------------------------------------------------------------
 class Embedding:
     def __init__(self, model_name: str = "nvidia/nemotron-3-embed-1b"):
         self.model_name = model_name
@@ -88,9 +80,6 @@ class Embedding:
         return np.array(all_embeddings)
 
 
-# ---------------------------------------------------------------------------
-# Vector Store
-# ---------------------------------------------------------------------------
 class VectorStore:
     def __init__(self, collection_name: str = "knowledge_base", persist_directory: str = "../data"):
         self.collection_name = collection_name
@@ -155,10 +144,6 @@ class VectorStore:
         )
         print("Collection reset.")
 
-
-# ---------------------------------------------------------------------------
-# Retrieval
-# ---------------------------------------------------------------------------
 class RAGRetreiver:
     def __init__(self, vector_store: VectorStore, embedding: Embedding):
         self.vector_store = vector_store
@@ -202,10 +187,6 @@ class RAGRetreiver:
             print(f"{e}")
             return []
 
-
-# ---------------------------------------------------------------------------
-# Personalization + Query handling
-# ---------------------------------------------------------------------------
 ROLE_PROFILES = {
     "junior": {
         "top_k": 3,
@@ -265,9 +246,6 @@ Answer:"""
         return response.content
 
 
-# ---------------------------------------------------------------------------
-# Capture flow (Suresh's side — log a new fix into the knowledge base)
-# ---------------------------------------------------------------------------
 class SimpleDoc:
     """Lightweight stand-in for a langchain Document, used for captured entries."""
     def __init__(self, page_content, metadata):
@@ -340,9 +318,6 @@ Tags: <comma-separated keywords>"""
         return confirmation
 
 
-# ---------------------------------------------------------------------------
-# Document loading helper (category-tagged ingestion)
-# ---------------------------------------------------------------------------
 def load_docs_with_category(base_dir: str = "../docs"):
     """Walks base_dir, loading every .txt file and tagging it with its
     subfolder name as 'category' metadata. Returns a list of Document objects."""
