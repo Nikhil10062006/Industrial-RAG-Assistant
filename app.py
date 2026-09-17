@@ -13,8 +13,6 @@ st.set_page_config(page_title="Tata Steel Knowledge Assistant", layout="wide")
 @st.cache_resource
 def load_pipeline():
     embedding = Embedding()
-    # app.py lives at the project root, so the vector store data folder
-    # is "./data", not "../data" (which is correct only from notebook/).
     vector_store = VectorStore(persist_directory="./data")
     rag_retreiver = RAGRetreiver(vector_store, embedding)
     llm = ChatNVIDIA(

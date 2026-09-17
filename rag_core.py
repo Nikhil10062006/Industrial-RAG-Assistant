@@ -14,11 +14,6 @@ load_dotenv()
 nvidia_api_key = os.getenv("NVIDIA_API_KEY")
 
 def invoke_with_retry(llm, prompt, max_retries: int = 5, base_wait: int = 5):
-    """
-    Calls llm.invoke(prompt) with exponential backoff retry.
-    NVIDIA's free-tier NIM endpoint occasionally returns transient 500s
-    under load — this absorbs those instead of crashing the whole cell.
-    """
     for attempt in range(max_retries):
         try:
             return llm.invoke(prompt)
@@ -191,7 +186,7 @@ ROLE_PROFILES = {
         )
     },
     "senior": {
-        "top_k": 4,  # kept modest to avoid oversized-context 500s from the LLM endpoint
+        "top_k": 4,  
         "instruction": (
             "You are explaining this to a senior engineer/operator with deep domain experience. "
             "You can use technical terminology directly. Be concise, skip basic explanations, "
