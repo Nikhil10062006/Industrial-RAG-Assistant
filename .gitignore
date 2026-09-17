@@ -1,26 +1,13 @@
-# Environment variables — NEVER commit this
 .env
-
-# Virtual environment
 venv/
 env/
-
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
-
-# ChromaDB persisted vector store — regenerate via ingestion, don't version binary DB
 data/
 raw/
-
-# Jupyter checkpoints
 .ipynb_checkpoints/
-
-# OS junk
 .DS_Store
 Thumbs.db
-
-# IDE
 .vscode/
 .idea/

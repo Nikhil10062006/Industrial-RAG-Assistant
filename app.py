@@ -1,21 +1,3 @@
-"""
-app.py
-Streamlit front end for the Tata Steel Agentic AI Knowledge Assistant.
-
-Folder structure assumed:
-    project_root/
-        app.py          <- this file
-        rag_core.py
-        .env
-        docs/
-        data/           <- created by ChromaDB
-        notebook/
-            rag_pipeline.ipynb
-
-Run from the project root with:
-    streamlit run app.py
-"""
-
 import os
 import streamlit as st
 from dotenv import load_dotenv
@@ -28,11 +10,6 @@ nvidia_api_key = os.getenv("NVIDIA_API_KEY")
 
 st.set_page_config(page_title="Tata Steel Knowledge Assistant", layout="wide")
 
-
-# ---------------------------------------------------------------------------
-# Cache heavy objects so they persist across interactions instead of
-# reloading the embedding model / vector store on every click.
-# ---------------------------------------------------------------------------
 @st.cache_resource
 def load_pipeline():
     embedding = Embedding()
@@ -53,10 +30,6 @@ def load_pipeline():
 
 query_retriever, capture_flow, llm, vector_store = load_pipeline()
 
-
-# ---------------------------------------------------------------------------
-# UI
-# ---------------------------------------------------------------------------
 st.title(" Agentic AI Knowledge Assistant Tata Steel")
 st.caption("Retrieve verified fixes & SOPs, or log new tacit knowledge from senior operators.")
 

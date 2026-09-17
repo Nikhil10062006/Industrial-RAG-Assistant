@@ -1,9 +1,3 @@
-"""
-rag_core.py
-Core RAG pipeline for the Tata Steel Agentic AI Knowledge Assistant.
-Single source of truth — imported by both the notebook and app.py.
-"""
-
 import os
 import re
 import time
