@@ -42,7 +42,6 @@ class Embedding:
             raise
 
     def generate_embeddings(self, texts: List[str], batch_size: int = 10, max_retries: int = 3) -> np.ndarray:
-        """Embeds texts in small batches with retry/backoff to avoid API timeouts on large sets."""
         if not self.model:
             raise ValueError("Model not loaded")
         if not texts:
@@ -236,7 +235,6 @@ Answer:"""
 
 
 class SimpleDoc:
-    """Lightweight stand-in for a langchain Document, used for captured entries."""
     def __init__(self, page_content, metadata):
         self.page_content = page_content
         self.metadata = metadata
@@ -308,8 +306,6 @@ Tags: <comma-separated keywords>"""
 
 
 def load_docs_with_category(base_dir: str = "../docs"):
-    """Walks base_dir, loading every .txt file and tagging it with its
-    subfolder name as 'category' metadata. Returns a list of Document objects."""
     from langchain_community.document_loaders import TextLoader
 
     documents = []
