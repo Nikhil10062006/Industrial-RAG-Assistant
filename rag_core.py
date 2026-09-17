@@ -121,7 +121,6 @@ class VectorStore:
             raise
 
     def reset_collection(self):
-        """Wipes and recreates the collection — use before a clean re-ingestion run."""
         self.client.delete_collection(self.collection_name)
         self.collection = self.client.get_or_create_collection(
             name=self.collection_name,
